@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Blog">
+  <main class="gh-main gh-outer">
+    <div class="gh-inner">
+      <section class="gh-pagehead">
+        <h1 class="gh-pagehead-title">Latest</h1>
+      </section>
+
+      <div class="gh-topic gh-topic-grid">
+        <div class="gh-topic-content gh-feed">
+          {sortedPosts.map((post, index) => (
+            <PostCard
+              title={post.data.title}
+              slug={post.id}
+              excerpt={post.data.description}
+              image={post.data.image}
+              author={post.data.author}
+              date={post.data.pubDate}
+              featured={post.data.featured}
+              large={index === 0}
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

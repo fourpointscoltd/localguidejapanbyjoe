@@ -1,0 +1,56 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  excerpt?: string;
+  image?: string;
+  author?: string;
+  date: Date;
+  featured?: boolean;
+  large?: boolean;
+}
+
+const { title, slug, excerpt, image, author = 'Author', date, featured = false, large = false } = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  day: '2-digit',
+  month: 'short',
+  year: 'numeric',
+});
+
+const cardClass = [
+  'gh-card',
+  featured ? 'featured' : '',
+  large ? 'large' : '',
+  !image ? 'no-image' : '',
+].filter(Boolean).join(' ');
+---
+
+<article class={cardClass}>
+  <a class="gh-card-link" href={`/blog/${slug}`}>
+    {image && (
+      <figure class="gh-card-image">
+        <img
+          src={image}
+          alt={title}
+          loading="lazy"
+        />
+      </figure>
+    )}
+
+    <div class="gh-card-wrapper">
+      <header class="gh-card-header">
+        <h3 class="gh-card-title">{title}</h3>
+      </header>
+
+      {excerpt && (
+        <div class="gh-card-excerpt">{excerpt}</div>
+      )}
+
+      <footer class="gh-card-footer">
+        <span class="gh-card-author">{author}</span>
+        <time class="gh-card-date" datetime={date.toISOString().split('T')[0]}>{formattedDate}</time>
+      </footer>
+    </div>
+  </a>
+</article>

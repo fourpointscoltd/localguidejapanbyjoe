@@ -1,0 +1,79 @@
+---
+interface Props {
+  siteTitle: string;
+  siteLogo?: string;
+}
+
+const { siteTitle, siteLogo } = Astro.props;
+
+const navigation = [
+  { label: 'Home', url: '/' },
+  { label: 'Articles', url: '/blog' },
+  { label: 'Transportation', url: '/tag/Transportation' },
+  { label: 'Food', url: '/tag/Restaurant' },
+  { label: 'Souvenirs', url: '/tag/Souvenirs' },
+];
+---
+
+<header id="gh-head" class="gh-head gh-outer">
+  <div class="gh-head-inner gh-inner">
+    <div class="gh-head-brand">
+      <div class="gh-head-brand-wrapper">
+        <h1 class="gh-head-logo">
+          <a href="/">
+            {siteLogo ? (
+              <img src={siteLogo} alt={siteTitle} />
+            ) : (
+              siteTitle
+            )}
+          </a>
+        </h1>
+      </div>
+      <button class="gh-burger" aria-label="Menu">
+        <span class="visually-hidden">Menu</span>
+      </button>
+    </div>
+
+    <nav class="gh-head-menu">
+      <ul class="nav">
+        {navigation.map((item) => (
+          <li>
+            <a href={item.url}>{item.label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="gh-head-actions">
+      <button class="gh-search gh-icon-btn" aria-label="Search this site">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<script>
+  const burger = document.querySelector('.gh-burger');
+
+  if (burger) {
+    burger.addEventListener('click', () => {
+      document.body.classList.toggle('is-head-open');
+    });
+  }
+</script>
+
+<style>
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>

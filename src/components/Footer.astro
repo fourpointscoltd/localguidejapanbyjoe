@@ -1,0 +1,45 @@
+---
+interface Props {
+  siteTitle: string;
+}
+
+const { siteTitle } = Astro.props;
+
+const currentYear = new Date().getFullYear();
+
+const footerNavigation = [
+  { label: 'Home', url: '/' },
+  { label: 'Blog', url: '/blog' },
+  { label: 'About', url: '/about' },
+  { label: 'Contact', url: '/contact' },
+];
+---
+
+<footer class="gh-foot gh-outer">
+  <div class="gh-foot-inner gh-inner">
+    <section class="gh-subscribe">
+      <h3 class="gh-subscribe-title">Subscribe to {siteTitle}</h3>
+      <div class="gh-subscribe-description">Get the latest posts delivered right to your inbox</div>
+      <a href="/subscribe" class="gh-subscribe-btn gh-btn">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+        </svg>
+        Subscribe now
+      </a>
+    </section>
+
+    <nav class="gh-foot-menu">
+      <ul class="nav">
+        {footerNavigation.map((item) => (
+          <li>
+            <a href={item.url}>{item.label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="gh-copyright">
+      {siteTitle} &copy; {currentYear}. Powered by <a href="https://astro.build/" target="_blank" rel="noopener">Astro</a>
+    </div>
+  </div>
+</footer>

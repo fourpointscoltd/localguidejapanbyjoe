@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+  // Get all unique tags
+  const tags = new Set<string>();
+  allPosts.forEach((post) => {
+    post.data.tags?.forEach((tag: string) => tags.add(tag));
+  });
+
+  return Array.from(tags).map((tag) => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: allPosts
+        .filter((post) => post.data.tags?.includes(tag))
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+---
+
+<BaseLayout title={tag} description={`Articles tagged with ${tag}`}>
+  <main class="gh-main gh-outer">
+    <div class="gh-inner">
+      <section class="gh-pagehead">
+        <h1 class="gh-pagehead-title">{tag}</h1>
+        <p class="gh-pagehead-description">{posts.length} articles</p>
+      </section>
+
+      <div class="gh-topic gh-topic-grid">
+        <div class="gh-topic-content gh-feed">
+          {posts.map((post, index) => (
+            <PostCard
+              title={post.data.title}
+              slug={post.id}
+              excerpt={post.data.description}
+              image={post.data.image}
+              author={post.data.author}
+              date={post.data.pubDate}
+              large={index === 0}
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

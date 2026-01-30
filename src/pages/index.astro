@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latestPosts = sortedPosts.slice(0, 7);
+---
+
+<BaseLayout title="Home">
+  <main class="gh-main gh-outer">
+    <div class="gh-inner">
+      <section class="gh-topic gh-topic-grid">
+        <h2 class="gh-topic-name">Latest</h2>
+
+        <div class="gh-topic-content">
+          {latestPosts.map((post, index) => (
+            <PostCard
+              title={post.data.title}
+              slug={post.id}
+              excerpt={post.data.description}
+              image={post.data.image}
+              author={post.data.author}
+              date={post.data.pubDate}
+              featured={post.data.featured}
+              large={index === 0}
+            />
+          ))}
+        </div>
+
+        {sortedPosts.length > 7 && (
+          <footer class="gh-topic-footer">
+            <a class="gh-topic-link" href="/blog">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </footer>
+        )}
+      </section>
+    </div>
+  </main>
+</BaseLayout>
