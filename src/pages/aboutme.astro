@@ -5,159 +5,350 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <BaseLayout title="About Me" description="Learn about Joe Tanaka, the creator of Local Guide Japan">
   <main class="gh-main">
     <article class="gh-article">
-      <header class="gh-article-header gh-canvas">
-        <h1 class="gh-article-title">About Me</h1>
-      </header>
-
-      <section class="gh-content gh-canvas aboutme-content">
-        <div class="author-profile">
-          <img src="/images/profile_circle.png" alt="Joe Tanaka" class="author-image" />
-          <h2>Joe Tanaka</h2>
-          <p class="author-tagline">Founder of Local Guide Japan</p>
-
-          <div class="social-links">
-            <a href="https://www.youtube.com/@localguide_japan" target="_blank" rel="noopener" aria-label="YouTube">
+      <section class="aboutme-hero">
+        <div class="aboutme-hero-inner">
+          <img src="/images/profile_circle.png" alt="Joe Tanaka" class="aboutme-avatar" />
+          <h1 class="aboutme-name">Joe Tanaka</h1>
+          <p class="aboutme-tagline">Founder of Local Guide Japan</p>
+          <div class="aboutme-social">
+            <a href="https://www.youtube.com/@localguide_japan" target="_blank" rel="noopener" class="social-link youtube" aria-label="YouTube">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
               </svg>
             </a>
-            <a href="https://www.instagram.com/localguide_japan" target="_blank" rel="noopener" aria-label="Instagram">
+            <a href="https://www.instagram.com/localguide_japan" target="_blank" rel="noopener" class="social-link instagram" aria-label="Instagram">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
               </svg>
             </a>
-            <a href="https://www.tiktok.com/@localguide_japan" target="_blank" rel="noopener" aria-label="TikTok">
+            <a href="https://www.tiktok.com/@localguide_japan" target="_blank" rel="noopener" class="social-link tiktok" aria-label="TikTok">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
               </svg>
             </a>
           </div>
         </div>
+      </section>
 
-        <div class="author-bio">
-          <h3>Hello! Welcome to Local Guide Japan</h3>
-
+      <section class="aboutme-content gh-canvas">
+        <div class="aboutme-intro">
+          <h2>Hello! Welcome to Local Guide Japan</h2>
           <p>I'm <strong>Joe Tanaka</strong>, a passionate traveler from Japan. My mission is to help you experience Japan in a smart, safe, and enjoyable way.</p>
+        </div>
 
-          <figure class="author-photo">
-            <img src="/images/profile-1.png" alt="Joe Tanaka" />
-          </figure>
+        <figure class="aboutme-photo">
+          <img src="/images/profile-1.png" alt="Joe Tanaka" />
+        </figure>
 
+        <div class="aboutme-section">
           <h3>My Background</h3>
-
           <p>I was born in <strong>Kamakura</strong> and have lived in several major Japanese cities including Tokyo (Shibuya and Ginza districts), Kyoto, and Hokkaido. I also completed high school studies abroad in the United States. My extensive travel to over 20 countries informs my perspective on what visitors need.</p>
+        </div>
 
+        <div class="aboutme-section">
           <h3>What I Share</h3>
-
           <p>Rather than sharing only picturesque imagery, I emphasize <strong>practical travel intelligence</strong>. My content covers:</p>
-
-          <ul>
+          <ul class="aboutme-list">
             <li>Affordable travel strategies</li>
             <li>Train and bus navigation</li>
             <li>Cultural etiquette and traditions</li>
             <li>Safety precautions</li>
             <li>Honest destination evaluations, including recommendations and places to avoid</li>
           </ul>
-
-          <h3>My Philosophy</h3>
-
-          <p>I aim to fill a gap in travel content by providing <strong>real, useful travel advice</strong> with specifics often missing from social media. I engage directly with followers, offering answers about souvenirs, dining, tourist pitfalls, and authentic experiences.</p>
-
-          <h3>Connect With Me</h3>
-
-          <p>Follow me on social media for daily tips and updates:</p>
-
-          <ul>
-            <li><a href="https://www.youtube.com/@localguide_japan" target="_blank" rel="noopener">YouTube: @localguide_japan</a></li>
-            <li><a href="https://www.instagram.com/localguide_japan" target="_blank" rel="noopener">Instagram: @localguide_japan</a></li>
-            <li><a href="https://www.tiktok.com/@localguide_japan" target="_blank" rel="noopener">TikTok: @localguide_japan</a></li>
-          </ul>
-
-          <p>Thank you for visiting Local Guide Japan. I hope my content helps make your trip to Japan unforgettable!</p>
         </div>
+
+        <div class="aboutme-section">
+          <h3>My Philosophy</h3>
+          <p>I aim to fill a gap in travel content by providing <strong>real, useful travel advice</strong> with specifics often missing from social media. I engage directly with followers, offering answers about souvenirs, dining, tourist pitfalls, and authentic experiences.</p>
+        </div>
+
+        <div class="aboutme-cta">
+          <h3>Connect With Me</h3>
+          <p>Follow me on social media for daily tips and updates:</p>
+          <div class="aboutme-cta-links">
+            <a href="https://www.youtube.com/@localguide_japan" target="_blank" rel="noopener" class="cta-link">
+              <span class="cta-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
+                </svg>
+              </span>
+              YouTube
+            </a>
+            <a href="https://www.instagram.com/localguide_japan" target="_blank" rel="noopener" class="cta-link">
+              <span class="cta-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                </svg>
+              </span>
+              Instagram
+            </a>
+            <a href="https://www.tiktok.com/@localguide_japan" target="_blank" rel="noopener" class="cta-link">
+              <span class="cta-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
+                </svg>
+              </span>
+              TikTok
+            </a>
+          </div>
+        </div>
+
+        <p class="aboutme-thanks">Thank you for visiting Local Guide Japan. I hope my content helps make your trip to Japan unforgettable!</p>
       </section>
     </article>
   </main>
 </BaseLayout>
 
 <style>
-  .aboutme-content {
-    max-width: 800px;
-  }
-
-  .author-profile {
+  /* Hero Section */
+  .aboutme-hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 6rem 2rem;
     text-align: center;
-    margin-bottom: 4rem;
-    padding-bottom: 3rem;
-    border-bottom: 1px solid var(--color-light-gray);
+    color: white;
   }
 
-  .author-image {
-    width: 180px;
-    height: 180px;
+  .aboutme-hero-inner {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .aboutme-avatar {
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
-    object-fit: cover;
+    border: 4px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
     margin-bottom: 1.5rem;
   }
 
-  .author-profile h2 {
-    margin-bottom: 0.5rem;
+  .aboutme-name {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    color: white;
   }
 
-  .author-tagline {
-    color: var(--color-secondary-text);
-    font-size: 1.8rem;
-    margin-bottom: 1.5rem;
+  .aboutme-tagline {
+    font-size: 1.4rem;
+    opacity: 0.9;
+    margin: 0 0 2rem;
   }
 
-  .social-links {
+  .aboutme-social {
     display: flex;
     justify-content: center;
     gap: 1.5rem;
   }
 
-  .social-links a {
-    color: var(--color-darker-gray);
-    transition: color 0.2s;
+  .social-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: all 0.3s ease;
   }
 
-  .social-links a:hover {
-    color: var(--ghost-accent-color);
+  .social-link:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: translateY(-3px);
     opacity: 1;
   }
 
-  .author-bio h3 {
-    margin-top: 3rem;
+  /* Content Section */
+  .aboutme-content {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+  }
+
+  .aboutme-intro {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .aboutme-intro h2 {
+    font-size: 2.4rem;
     margin-bottom: 1rem;
+    color: var(--color-darker-gray, #15171a);
   }
 
-  .author-bio h3:first-child {
-    margin-top: 0;
+  .aboutme-intro p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--color-secondary-text, #738a94);
   }
 
-  .author-photo {
-    margin: 2rem 0;
+  .aboutme-photo {
+    margin: 3rem 0;
+    text-align: center;
   }
 
-  .author-photo img {
-    width: 100%;
-    max-width: 500px;
-    border-radius: 8px;
+  .aboutme-photo img {
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   }
 
-  .author-bio ul {
-    margin: 1rem 0;
-    padding-left: 2rem;
+  .aboutme-section {
+    margin-bottom: 3rem;
   }
 
-  .author-bio li {
+  .aboutme-section h3 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: var(--color-darker-gray, #15171a);
+    position: relative;
+    padding-bottom: 0.5rem;
+  }
+
+  .aboutme-section h3::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 40px;
+    height: 3px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 2px;
+  }
+
+  .aboutme-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--color-secondary-text, #738a94);
+  }
+
+  .aboutme-list {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0;
+  }
+
+  .aboutme-list li {
+    position: relative;
+    padding-left: 1.8rem;
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+    color: var(--color-secondary-text, #738a94);
+  }
+
+  .aboutme-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.6rem;
+    width: 8px;
+    height: 8px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 50%;
+  }
+
+  /* CTA Section */
+  .aboutme-cta {
+    background: var(--color-light-gray, #f0f0f0);
+    padding: 2.5rem;
+    border-radius: 12px;
+    text-align: center;
+    margin: 3rem 0;
+  }
+
+  .aboutme-cta h3 {
+    font-size: 1.6rem;
     margin-bottom: 0.5rem;
+    color: var(--color-darker-gray, #15171a);
   }
 
+  .aboutme-cta h3::after {
+    display: none;
+  }
+
+  .aboutme-cta p {
+    color: var(--color-secondary-text, #738a94);
+    margin-bottom: 1.5rem;
+  }
+
+  .aboutme-cta-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .cta-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    background: white;
+    color: var(--color-darker-gray, #15171a);
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .cta-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    opacity: 1;
+  }
+
+  .cta-icon {
+    display: flex;
+    align-items: center;
+  }
+
+  .aboutme-thanks {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--color-secondary-text, #738a94);
+    font-style: italic;
+    margin-top: 2rem;
+  }
+
+  /* Responsive */
   @media (max-width: 767px) {
-    .author-image {
-      width: 140px;
-      height: 140px;
+    .aboutme-hero {
+      padding: 4rem 1.5rem;
+    }
+
+    .aboutme-avatar {
+      width: 120px;
+      height: 120px;
+    }
+
+    .aboutme-name {
+      font-size: 2.2rem;
+    }
+
+    .aboutme-tagline {
+      font-size: 1.2rem;
+    }
+
+    .aboutme-content {
+      padding: 3rem 1.5rem;
+    }
+
+    .aboutme-intro h2 {
+      font-size: 1.8rem;
+    }
+
+    .aboutme-section h3 {
+      font-size: 1.4rem;
+    }
+
+    .aboutme-cta {
+      padding: 2rem 1.5rem;
+    }
+
+    .cta-link {
+      padding: 0.7rem 1.2rem;
+      font-size: 0.95rem;
     }
   }
 </style>
