@@ -7,8 +7,6 @@ image: "/images/tokyo-skyline.jpg"
 tags: ["TravelSpots"]
 ---
 
-![Tokyo Skyline](/images/tokyo-skyline.jpg)
-
 Planning a trip to Tokyo? With so much to see and do, it can be overwhelming to decide where to start. I've put together the ultimate bucket list of **100 things to do in Tokyo** based on my years of living in and exploring this incredible city. Let's dive in!
 
 ## 🏙️ Iconic Tokyo Experiences (1-15)

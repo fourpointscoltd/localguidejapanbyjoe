@@ -7,8 +7,6 @@ image: "/images/golden-week-crowd.jpg"
 tags: ["Events"]
 ---
 
-![Crowded streets in Japan during Golden Week](/images/golden-week-crowd.jpg)
-
 If you're planning a trip to Japan and your dates happen to fall during **Golden Week** (April 29th to May 5th), you might want to reconsider. Let me explain why as someone who has lived in Japan my whole life.
 
 ## What is Golden Week?
