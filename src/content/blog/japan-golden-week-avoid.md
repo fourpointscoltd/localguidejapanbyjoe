@@ -3,8 +3,11 @@ title: "Should You Visit Japan During Golden Week? Here's My Honest Answer"
 description: "Golden Week is Japan's biggest holiday, but should tourists visit during this time? As a local, I'll give you my honest advice about why you might want to avoid it."
 pubDate: 2026-01-30
 author: "Joe Tanaka"
+image: "/images/golden-week-crowd.jpg"
 tags: ["Events"]
 ---
+
+![Crowded streets in Japan during Golden Week](/images/golden-week-crowd.jpg)
 
 If you're planning a trip to Japan and your dates happen to fall during **Golden Week** (April 29th to May 5th), you might want to reconsider. Let me explain why as someone who has lived in Japan my whole life.
 
