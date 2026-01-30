@@ -12,8 +12,10 @@ const { title, description = '' } = Astro.props;
 
 // サイト設定
 const site = {
-  title: 'LocalGuide Japan',
-  description: 'Your guide to traveling Japan - tips, attractions, food, and local experiences',
+  title: 'Local Guide Japan',
+  description: 'Welcome to Local Guide Japan, your go-to resource for authentic travel experiences in Japan. Discover hidden gems, practical tips, and cultural insights curated by a local with a passion for exploring',
+  metaTitle: 'Local Guide Japan | Essential Japan Travel Tips & Hidden Gems',
+  metaDescription: 'Planning a trip to Japan? Local Guide Japan provides essential travel tips, hidden gems, and practical advice from a Japanese local. Avoid tourist traps and explore Japan like a pro, by Joe Tanaka!',
   logo: '',
   url: Astro.url.origin,
 };
@@ -26,7 +28,7 @@ const site = {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title} | {site.title}</title>
   <meta name="description" content={description || site.description}>
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 
 <body class="is-head-left-logo">
