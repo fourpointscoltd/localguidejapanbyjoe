@@ -7,11 +7,23 @@ interface Props {
 const { siteTitle, siteLogo } = Astro.props;
 
 const navigation = [
-  { label: 'Home', url: '/' },
-  { label: 'Articles', url: '/blog' },
-  { label: 'Transportation', url: '/tag/Transportation' },
-  { label: 'Food', url: '/tag/Restaurant' },
-  { label: 'Souvenirs', url: '/tag/Souvenirs' },
+  { label: 'Daytrip🗻', url: '/tag/Daytrip' },
+  { label: 'Events🎍', url: '/tag/Events' },
+  { label: 'Wi-Fi🛜', url: '/tag/Wi-Fi' },
+  { label: 'Souvenirs👘', url: '/tag/Souvenirs' },
+  { label: 'Clothes👖', url: '/tag/Clothes' },
+  { label: 'Hotel🏠', url: '/tag/Hotel' },
+  { label: 'Money💳', url: '/tag/Money' },
+  { label: 'Restaurant🍣', url: '/tag/Restaurant' },
+  { label: 'ThemeParks🎡', url: '/tag/ThemeParks' },
+  { label: 'TravelSpots🗼', url: '/tag/TravelSpots' },
+];
+
+const moreNavigation = [
+  { label: 'Others🗾', url: '/tag/Others' },
+  { label: 'Featured📺', url: '/tag/Featured' },
+  { label: 'Transportation🚅', url: '/tag/Transportation' },
+  { label: 'About Me', url: '/aboutme' },
 ];
 ---
 
@@ -41,6 +53,18 @@ const navigation = [
             <a href={item.url}>{item.label}</a>
           </li>
         ))}
+        <button class="nav-more-toggle gh-icon-btn" aria-label="More">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="20" height="20">
+            <path d="M21.333 16c0-1.473 1.194-2.667 2.667-2.667v0c1.473 0 2.667 1.194 2.667 2.667v0c0 1.473-1.194 2.667-2.667 2.667v0c-1.473 0-2.667-1.194-2.667-2.667v0zM13.333 16c0-1.473 1.194-2.667 2.667-2.667v0c1.473 0 2.667 1.194 2.667 2.667v0c0 1.473-1.194 2.667-2.667 2.667v0c-1.473 0-2.667-1.194-2.667-2.667v0zM5.333 16c0-1.473 1.194-2.667 2.667-2.667v0c1.473 0 2.667 1.194 2.667 2.667v0c0 1.473-1.194 2.667-2.667 2.667v0c-1.473 0-2.667-1.194-2.667-2.667v0z"></path>
+          </svg>
+          <div class="gh-dropdown">
+            {moreNavigation.map((item) => (
+              <li>
+                <a href={item.url}>{item.label}</a>
+              </li>
+            ))}
+          </div>
+        </button>
       </ul>
     </nav>
 
