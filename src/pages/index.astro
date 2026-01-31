@@ -6,11 +6,22 @@ import { getCollection } from 'astro:content';
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const latestPosts = sortedPosts.slice(0, 7);
+
+// タグ別に記事をフィルタリング
+const souvenirPosts = sortedPosts.filter(post => post.data.tags?.includes('Souvenirs👘')).slice(0, 7);
+const transportPosts = sortedPosts.filter(post => post.data.tags?.includes('Transportation🚃')).slice(0, 7);
+const otherPosts = sortedPosts.filter(post => post.data.tags?.includes('Others🗾')).slice(0, 7);
+
+// テキストリスト用のタグ
+const restaurantPosts = sortedPosts.filter(post => post.data.tags?.includes('Restaurant🍣')).slice(0, 10);
+const travelSpotPosts = sortedPosts.filter(post => post.data.tags?.includes('TravelSpots🗼')).slice(0, 10);
+const eventPosts = sortedPosts.filter(post => post.data.tags?.includes('Events🎍')).slice(0, 10);
 ---
 
 <BaseLayout title="Home">
   <main class="gh-main gh-outer">
     <div class="gh-inner">
+      <!-- Latest Section -->
       <section class="gh-topic gh-topic-grid">
         <h2 class="gh-topic-name">Latest</h2>
 
@@ -40,6 +51,223 @@ const latestPosts = sortedPosts.slice(0, 7);
           </footer>
         )}
       </section>
+
+      <!-- Souvenirs Section -->
+      {souvenirPosts.length > 0 && (
+        <section class="gh-topic gh-topic-grid">
+          <h2 class="gh-topic-name">Souvenirs👘</h2>
+
+          <div class="gh-topic-content">
+            {souvenirPosts.map((post, index) => (
+              <PostCard
+                title={post.data.title}
+                slug={post.id}
+                excerpt={post.data.description}
+                image={post.data.image}
+                author={post.data.author}
+                date={post.data.pubDate}
+                featured={post.data.featured}
+                large={index === 0}
+              />
+            ))}
+          </div>
+
+          <footer class="gh-topic-footer">
+            <a class="gh-topic-link" href="/tag/Souvenirs👘">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </footer>
+        </section>
+      )}
+
+      <!-- Transportation Section -->
+      {transportPosts.length > 0 && (
+        <section class="gh-topic gh-topic-grid">
+          <h2 class="gh-topic-name">Transportation🚃</h2>
+
+          <div class="gh-topic-content">
+            {transportPosts.map((post, index) => (
+              <PostCard
+                title={post.data.title}
+                slug={post.id}
+                excerpt={post.data.description}
+                image={post.data.image}
+                author={post.data.author}
+                date={post.data.pubDate}
+                featured={post.data.featured}
+                large={index === 0}
+              />
+            ))}
+          </div>
+
+          <footer class="gh-topic-footer">
+            <a class="gh-topic-link" href="/tag/Transportation🚃">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </footer>
+        </section>
+      )}
+
+      <!-- Others Section -->
+      {otherPosts.length > 0 && (
+        <section class="gh-topic gh-topic-grid">
+          <h2 class="gh-topic-name">Others🗾</h2>
+
+          <div class="gh-topic-content">
+            {otherPosts.map((post, index) => (
+              <PostCard
+                title={post.data.title}
+                slug={post.id}
+                excerpt={post.data.description}
+                image={post.data.image}
+                author={post.data.author}
+                date={post.data.pubDate}
+                featured={post.data.featured}
+                large={index === 0}
+              />
+            ))}
+          </div>
+
+          <footer class="gh-topic-footer">
+            <a class="gh-topic-link" href="/tag/Others🗾">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </footer>
+        </section>
+      )}
+
+      <!-- Text List Sections -->
+      <div class="gh-text-lists">
+        <!-- Restaurant Section -->
+        {restaurantPosts.length > 0 && (
+          <section class="gh-text-list-section">
+            <h2 class="gh-topic-name">Restaurant🍣</h2>
+            <ul class="gh-text-list">
+              {restaurantPosts.map((post) => (
+                <li>
+                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+                </li>
+              ))}
+            </ul>
+            <a class="gh-topic-link" href="/tag/Restaurant🍣">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </section>
+        )}
+
+        <!-- TravelSpots Section -->
+        {travelSpotPosts.length > 0 && (
+          <section class="gh-text-list-section">
+            <h2 class="gh-topic-name">TravelSpots🗼</h2>
+            <ul class="gh-text-list">
+              {travelSpotPosts.map((post) => (
+                <li>
+                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+                </li>
+              ))}
+            </ul>
+            <a class="gh-topic-link" href="/tag/TravelSpots🗼">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </section>
+        )}
+
+        <!-- Events Section -->
+        {eventPosts.length > 0 && (
+          <section class="gh-text-list-section">
+            <h2 class="gh-topic-name">Events🎍</h2>
+            <ul class="gh-text-list">
+              {eventPosts.map((post) => (
+                <li>
+                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+                </li>
+              ))}
+            </ul>
+            <a class="gh-topic-link" href="/tag/Events🎍">
+              Show more
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </section>
+        )}
+      </div>
     </div>
   </main>
 </BaseLayout>
+
+<style>
+  .gh-text-lists {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  @media (max-width: 900px) {
+    .gh-text-lists {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+
+  .gh-text-list-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .gh-text-list-section .gh-topic-name {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .gh-text-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem 0;
+  }
+
+  .gh-text-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .gh-text-list li:last-child {
+    border-bottom: none;
+  }
+
+  .gh-text-list a {
+    color: var(--color-darker-gray);
+    text-decoration: none;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    display: block;
+    transition: color 0.2s ease;
+  }
+
+  .gh-text-list a:hover {
+    color: var(--ghost-accent-color);
+  }
+
+  .gh-text-list-section .gh-topic-link {
+    margin-top: auto;
+    font-size: 0.9rem;
+  }
+</style>
