@@ -162,7 +162,7 @@ Most locals:
 
 ## Extra Travel Tips
 
-1. **Learn to say "osusume wa?" (おすすめは？)** – "What do you recommend?" Works everywhere and gets you the best items.
+1. **Ask for recommendations** – Point at the menu and gesture to ask what's good. Staff will happily help!
 
 2. **Lunch is cheaper** – Same restaurants, same quality, 30-50% less at lunch.
 

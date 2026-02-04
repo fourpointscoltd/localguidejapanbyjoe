@@ -34,7 +34,7 @@ Let me be specific about the places that may restrict entry:
 
 ### Onsen (Hot Springs) and Sento (Public Baths)
 - **Most traditional onsen** still ban tattoos
-- Signs often say "入れ墨お断り" (tattoos not allowed)
+- Signs will show a crossed-out tattoo symbol if not allowed
 - This is the **main area** where tattoos cause issues
 
 ### Other Places That May Restrict

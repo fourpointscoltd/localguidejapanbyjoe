@@ -79,9 +79,8 @@ If you see the **IC card symbol** (looks like a stylized train/card icon), you c
 - Pretty much everything they sell!
 
 **How to pay:**
-1. Tell the cashier "Suica de" (スイカで) - "With Suica"
-2. Tap your card on the reader
-3. Done! No coins needed.
+1. Just tap your card on the reader when paying
+2. Done! No coins needed.
 
 ---
 

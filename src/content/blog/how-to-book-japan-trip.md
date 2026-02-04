@@ -200,7 +200,7 @@ Japan rewards exploration!
 
 3. **Keep confirmations accessible** – Email folder, screenshots, or print
 
-4. **Learn to say "yoyaku" (予約)** – Means "reservation" in Japanese
+4. **Show your confirmation** – A screenshot or printout works perfectly, no need to speak Japanese
 
 5. **Be flexible** – Weather, energy levels, and interests change. Adapt!
 
