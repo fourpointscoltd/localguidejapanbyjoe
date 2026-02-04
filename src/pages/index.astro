@@ -16,11 +16,21 @@ const otherPosts = sortedPosts.filter(post => post.data.tags?.includes('Others�
 const restaurantPosts = sortedPosts.filter(post => post.data.tags?.includes('Restaurant🍣')).slice(0, 10);
 const travelSpotPosts = sortedPosts.filter(post => post.data.tags?.includes('TravelSpots🗼')).slice(0, 10);
 const eventPosts = sortedPosts.filter(post => post.data.tags?.includes('Events🎍')).slice(0, 10);
+
+// 質問数カウンター（記事数 × 4）
+const questionCount = allPosts.length * 4;
 ---
 
 <BaseLayout title="Home">
   <main class="gh-main gh-outer">
     <div class="gh-inner">
+      <!-- Question Counter -->
+      <section class="question-counter">
+        <p class="counter-text">
+          I've answered <span class="counter-number">{questionCount.toLocaleString()}</span> questions so far!
+        </p>
+      </section>
+
       <!-- Latest Section -->
       <section class="gh-topic gh-topic-grid">
         <h2 class="gh-topic-name">Latest</h2>
@@ -212,6 +222,37 @@ const eventPosts = sortedPosts.filter(post => post.data.tags?.includes('Events�
 </BaseLayout>
 
 <style>
+  .question-counter {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 12px;
+  }
+
+  .counter-text {
+    font-size: 1.2rem;
+    color: var(--color-darker-gray);
+    margin: 0;
+  }
+
+  .counter-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--ghost-accent-color);
+    display: inline-block;
+    margin: 0 0.3rem;
+  }
+
+  @media (max-width: 600px) {
+    .counter-text {
+      font-size: 1rem;
+    }
+    .counter-number {
+      font-size: 2rem;
+    }
+  }
+
   .gh-text-lists {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
