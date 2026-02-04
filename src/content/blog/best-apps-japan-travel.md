@@ -1,7 +1,7 @@
 ---
 title: "What Apps Should I Download Before Visiting Japan?"
 description: "A local's list of essential apps for Japan travel. Only the ones you actually need - no bloated list!"
-pubDate: 2025-08-15
+pubDate: 2026-03-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200"
 tags: ["Others🗾"]

@@ -1,7 +1,7 @@
 ---
 title: "Where Can I Buy Tamagotchi in Japan?"
 description: "A local's guide to finding Tamagotchi in Tokyo. New versions and vintage models - where to look for both."
-pubDate: 2025-08-15
+pubDate: 2026-02-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=1200"
 tags: ["Souvenirs🎁"]

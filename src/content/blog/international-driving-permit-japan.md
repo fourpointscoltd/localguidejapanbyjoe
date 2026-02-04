@@ -1,7 +1,7 @@
 ---
 title: "Do I Need an International Driving Permit to Rent a Car in Japan?"
 description: "A local's guide to driving in Japan. What you need to rent a car, important rules, and why you should skip driving in Kyoto."
-pubDate: 2025-08-15
+pubDate: 2026-03-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200"
 tags: ["Transportation🚃"]

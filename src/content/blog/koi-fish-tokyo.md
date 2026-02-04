@@ -1,7 +1,7 @@
 ---
 title: "Where Can I See Koi Fish in Tokyo?"
 description: "A local's guide to finding beautiful koi fish in Tokyo and beyond. Gardens, shrines, and the best spots for koi lovers."
-pubDate: 2025-08-15
+pubDate: 2026-02-21
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1520302630591-fd1c66edc19d?w=1200"
 tags: ["TravelSpots🗼"]

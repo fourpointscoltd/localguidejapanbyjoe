@@ -1,7 +1,7 @@
 ---
 title: "Are There Mosquitoes and Bugs in Tokyo in Summer?"
 description: "A local's honest answer about insects in Japan. What to expect in August and why you shouldn't worry too much."
-pubDate: 2025-08-15
+pubDate: 2026-03-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
 tags: ["Others🗾"]

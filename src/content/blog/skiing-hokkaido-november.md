@@ -1,7 +1,7 @@
 ---
 title: "Can I Ski in Hokkaido in Late November?"
 description: "A local's honest answer about skiing in Hokkaido in November. What to expect and tips for first-time visitors."
-pubDate: 2025-08-15
+pubDate: 2026-02-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1200"
 tags: ["TravelSpots🗼"]

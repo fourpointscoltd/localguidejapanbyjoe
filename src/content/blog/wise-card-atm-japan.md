@@ -1,7 +1,7 @@
 ---
 title: "Which ATMs in Japan Accept Wise Cards?"
 description: "A local's guide to using Wise and foreign cards at Japanese ATMs. Where to withdraw cash and which ATMs work best."
-pubDate: 2025-08-15
+pubDate: 2026-02-26
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
 tags: ["Others🗾"]

@@ -1,7 +1,7 @@
 ---
 title: "Can I Take Leftovers Home from a Restaurant in Japan?"
 description: "A local's honest answer about doggy bags in Japan. Why most restaurants don't allow it and what to do instead."
-pubDate: 2025-08-15
+pubDate: 2026-02-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540648639573-8c848de23f0a?w=1200"
 tags: ["Restaurant🍣"]

@@ -1,7 +1,7 @@
 ---
 title: "Best Art and Design Experiences in Japan"
 description: "A local's guide to unique art spots in Tokyo and beyond. From goldfish art to cutting-edge contemporary museums."
-pubDate: 2025-08-15
+pubDate: 2026-02-19
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=1200"
 tags: ["TravelSpots🗼"]

@@ -1,7 +1,7 @@
 ---
 title: "Are Stores Open During New Year's Holiday in Japan?"
 description: "A local's guide to what's open and closed during Japanese New Year. Plan ahead so you're not caught off guard!"
-pubDate: 2025-08-15
+pubDate: 2026-02-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
 tags: ["Others🗾"]
