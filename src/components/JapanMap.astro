@@ -26,27 +26,32 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
   <div class="map-legend">
     <h3>Joe's Rating</h3>
     <div class="legend-items">
-      {[5, 4, 3, 2, 1].map(r => (
-        <div class="legend-item">
-          <span class="legend-dot" style={`background: ${ratingColors[r]}`}></span>
-          <span class="legend-label">{'★'.repeat(r)}{'☆'.repeat(5-r)}</span>
-        </div>
-      ))}
+      <div class="legend-item">
+        <span class="legend-dot" style={`background: ${ratingColors[5]}`}></span>
+        <span class="legend-label">Must-Visit</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot" style={`background: ${ratingColors[4]}`}></span>
+        <span class="legend-label">Highly Recommended</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot" style={`background: ${ratingColors[3]}`}></span>
+        <span class="legend-label">Worth Considering</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot" style={`background: ${ratingColors[2]}`}></span>
+        <span class="legend-label">For Repeat Visitors</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot" style={`background: ${ratingColors[1]}`}></span>
+        <span class="legend-label">Skip for Now</span>
+      </div>
     </div>
     <p class="legend-hint">Hover or tap a prefecture</p>
   </div>
 
   <div class="map-wrapper">
-    <svg viewBox="-170 -30 570 730" class="japan-svg" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-          <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.15"/>
-        </filter>
-      </defs>
-
-      {/* Okinawa box indicator */}
-      <rect x="-155" y="490" width="130" height="130" rx="8" fill="none" stroke="var(--color-border, #e8e5e0)" stroke-width="1" stroke-dasharray="4,4" />
-      <text x="-90" y="510" text-anchor="middle" fill="var(--color-secondary-text, #6b7280)" font-size="10" font-weight="500">Okinawa</text>
+    <svg viewBox="-170 0 810 720" class="japan-svg" xmlns="http://www.w3.org/2000/svg">
 
       {/* Render prefecture shapes */}
       {Object.entries(prefecturePaths).map(([id, pathD]) => {
