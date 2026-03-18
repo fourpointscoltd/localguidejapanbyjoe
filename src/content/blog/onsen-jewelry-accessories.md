@@ -4,7 +4,7 @@ description: "A local's advice on accessories in hot springs. Why you should rem
 pubDate: 2026-03-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Can I wear jewelry in a public onsen?"

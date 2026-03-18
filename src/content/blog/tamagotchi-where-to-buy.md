@@ -4,7 +4,7 @@ description: "A local's guide to finding Tamagotchi in Tokyo. New versions and v
 pubDate: 2026-02-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "I'm looking to buy Tamagotchi in Japan. Where can I find them?"

@@ -4,7 +4,7 @@ description: "A local's guide to breakfast spots. From traditional to trendy, bu
 pubDate: 2026-04-20
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Where can I find unique breakfast in Japan?"

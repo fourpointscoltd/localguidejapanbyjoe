@@ -4,7 +4,7 @@ description: "A local explains why winter is actually a great season for tourism
 pubDate: 2026-12-31
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is late November to early December a good time to visit Japan?"

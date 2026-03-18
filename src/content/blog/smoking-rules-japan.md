@@ -4,7 +4,7 @@ description: "A local explains where you can and can't smoke. Rules for tourists
 pubDate: 2026-07-27
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Can I smoke in Japan? Where is it allowed?"

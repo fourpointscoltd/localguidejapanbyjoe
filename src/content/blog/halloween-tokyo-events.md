@@ -4,7 +4,7 @@ description: "A local explains Halloween in Japan. The best spots, events, and w
 pubDate: 2026-04-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=1200"
-tags: ["Events🎌"]
+tags: ["Events"]
 ---
 
 > "What happens in Tokyo during Halloween? Are there events?"

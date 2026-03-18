@@ -4,7 +4,7 @@ description: "A local compares internet options. How to stay connected during yo
 pubDate: 2026-06-09
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Should I get pocket WiFi or a SIM card for Japan?"

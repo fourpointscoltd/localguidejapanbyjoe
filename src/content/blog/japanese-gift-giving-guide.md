@@ -4,7 +4,7 @@ description: "A local explains omiyage and gift culture. What to bring and when.
 pubDate: 2026-10-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "What should I know about gift giving in Japan?"

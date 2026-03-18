@@ -4,7 +4,7 @@ description: "A local explains Japanese shoe sizing. Conversion chart and shoppi
 pubDate: 2026-08-23
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "I want to buy shoes in Japan. What size am I?"

@@ -4,7 +4,7 @@ description: "A local explains the best time to visit TeamLab for the best exper
 pubDate: 2027-01-09
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1549277513-f1b32fe1f8f5?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is TeamLab worth it despite the crowds?"

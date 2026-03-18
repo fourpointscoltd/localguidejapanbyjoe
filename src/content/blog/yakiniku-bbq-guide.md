@@ -4,7 +4,7 @@ description: "A local explains yakiniku. How to order, cook, and enjoy Japanese 
 pubDate: 2026-10-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How does yakiniku work? I've never been to Japanese BBQ."

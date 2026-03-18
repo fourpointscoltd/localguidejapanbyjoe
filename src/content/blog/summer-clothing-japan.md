@@ -4,7 +4,7 @@ description: "A local explains that you can wear almost anything in Japan."
 pubDate: 2026-12-30
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What should I wear in Tokyo, Kyoto, and Osaka in July?"

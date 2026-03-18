@@ -4,7 +4,7 @@ description: "A local's honest guide for vegetarians. Challenges, solutions, and
 pubDate: 2026-06-03
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I'm vegetarian. Will I struggle to find food in Japan?"

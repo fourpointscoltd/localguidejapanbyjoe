@@ -4,7 +4,7 @@ description: "A local explains how to get tickets. Booking tips and what to expe
 pubDate: 2026-05-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "How do I book Harry Potter Studio Tour in Tokyo? Are tickets hard to get?"

@@ -4,7 +4,7 @@ description: "A local's guide to Nara's famous deer. Safety tips and what to exp
 pubDate: 2026-11-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "How do I visit the deer in Nara? Are they safe?"

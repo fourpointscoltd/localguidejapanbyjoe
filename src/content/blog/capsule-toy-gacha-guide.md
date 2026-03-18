@@ -4,7 +4,7 @@ description: "A local explains Japan's capsule toy culture. Where to find them a
 pubDate: 2026-08-26
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "What are those capsule machines everywhere in Japan?"

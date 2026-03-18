@@ -4,7 +4,7 @@ description: "A local's guide to UFO catchers in Japan. Tips for winning and whe
 pubDate: 2026-03-08
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Are there better claw machines or arcades in Tokyo for kids?"

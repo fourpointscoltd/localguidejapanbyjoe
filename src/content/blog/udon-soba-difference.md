@@ -4,7 +4,7 @@ description: "A local explains Japanese noodles. When to eat which and how to en
 pubDate: 2026-08-08
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What's the difference between udon and soba?"

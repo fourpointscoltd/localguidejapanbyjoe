@@ -4,7 +4,7 @@ description: "A local's guide to ordering frozen fruit smoothies at Japanese con
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I saw frozen fruit smoothie packs at 7-11. When do you pay for them? Do you pay before or after making the smoothie?"

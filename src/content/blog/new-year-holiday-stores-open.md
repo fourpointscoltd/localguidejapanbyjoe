@@ -4,7 +4,7 @@ description: "A local's guide to what's open and closed during Japanese New Year
 pubDate: 2026-02-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Are stores open during the last week of December and first week of January?"

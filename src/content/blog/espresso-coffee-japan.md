@@ -4,7 +4,7 @@ description: "A local's guide to coffee culture in Japan. Kissaten vs modern caf
 pubDate: 2026-02-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How hard is it to find good espresso coffee in Tokyo, Kyoto, and other cities?"

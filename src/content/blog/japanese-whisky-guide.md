@@ -4,7 +4,7 @@ description: "A local's guide to Japanese whisky. What to try and where to buy."
 pubDate: 2026-11-21
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I want to try Japanese whisky. Where do I start?"

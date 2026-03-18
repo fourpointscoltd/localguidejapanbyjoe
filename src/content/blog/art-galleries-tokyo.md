@@ -4,7 +4,7 @@ description: "A local recommends Roppongi and Ueno for art lovers."
 pubDate: 2027-01-02
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Any recommendations for art galleries and museums in Tokyo?"

@@ -4,7 +4,7 @@ description: "A local's guide to driving in Japan. What you need to rent a car, 
 pubDate: 2026-03-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Do I need an international driver's license to rent a car in Japan?"

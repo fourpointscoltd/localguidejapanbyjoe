@@ -4,7 +4,7 @@ description: "A local's guide to setting up Suica on your iPhone. No separate ap
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Is there an English version of the Suica app for iPhones? I want to set up Suica before I arrive in Japan."

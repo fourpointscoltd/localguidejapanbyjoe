@@ -4,7 +4,7 @@ description: "A local explains Japan's unique coffee scene. From kissaten to thi
 pubDate: 2026-07-30
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Is coffee in Japan any good? I'm a coffee lover."

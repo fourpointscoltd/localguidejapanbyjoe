@@ -4,7 +4,7 @@ description: "A local explains takuhaibin service. Send your bags ahead and trav
 pubDate: 2026-06-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1553531889-e6cf4d692b1b?w=1200"
-tags: ["Transport🚃"]
+tags: ["Transportation"]
 ---
 
 > "Can I send my luggage to my next hotel in Japan?"

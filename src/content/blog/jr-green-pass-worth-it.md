@@ -4,7 +4,7 @@ description: "A local's honest review of JR's Green Car (first class). Is the up
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Is the Green Car upgrade on the JR Pass worth the extra money? I'm thinking about getting the Green Pass."

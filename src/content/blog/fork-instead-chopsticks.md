@@ -4,7 +4,7 @@ description: "A local explains that forks and spoons are available at most resta
 pubDate: 2026-12-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1553621042-f6e147245754?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Can I request a fork and spoon instead of chopsticks at restaurants?"

@@ -4,7 +4,7 @@ description: "A local compares Nikko and Kyoto for temples, nature, and atmosphe
 pubDate: 2026-12-02
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is Nikko worth visiting compared to Kyoto?"

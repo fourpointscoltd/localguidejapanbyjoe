@@ -4,7 +4,7 @@ description: "A local's guide to kaiseki restaurants. From luxury to affordable 
 pubDate: 2026-05-16
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1580822184713-fc5400e7fe10?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Where can I try kaiseki in Tokyo? Is it very expensive?"

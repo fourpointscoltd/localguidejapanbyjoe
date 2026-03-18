@@ -4,7 +4,7 @@ description: "A local recommends where to buy winter wear and cold weather gear.
 pubDate: 2026-12-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Is it cheaper to buy winter clothes in Japan? Any shop recommendations?"

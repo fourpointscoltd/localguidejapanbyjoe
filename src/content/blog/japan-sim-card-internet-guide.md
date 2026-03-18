@@ -4,7 +4,7 @@ description: "A local's complete guide to staying connected in Japan. SIM cards 
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "What is the best way to have unlimited internet and use my phone while I'm in Japan: should I get an internet device or a SIM card?"

@@ -4,7 +4,7 @@ description: "A local explains umbrella culture. Where to buy, how to use, and e
 pubDate: 2026-10-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Do I need to bring an umbrella to Japan?"

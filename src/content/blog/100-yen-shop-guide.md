@@ -4,7 +4,7 @@ description: "A local's guide to Japan's dollar stores. Amazing finds for ¥100 
 pubDate: 2026-09-10
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Are 100 yen shops worth visiting? What can I find?"

@@ -4,7 +4,7 @@ description: "A local explains sakura season. How to check forecasts and best vi
 pubDate: 2026-09-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=1200"
-tags: ["Events🎌"]
+tags: ["Events"]
 ---
 
 > "When exactly do cherry blossoms bloom? How do I plan my trip?"

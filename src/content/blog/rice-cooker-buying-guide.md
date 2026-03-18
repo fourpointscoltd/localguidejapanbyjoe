@@ -4,7 +4,7 @@ description: "A local explains rice cookers. Worth buying, voltage issues, and r
 pubDate: 2026-11-27
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Should I buy a rice cooker in Japan? Are they really better?"

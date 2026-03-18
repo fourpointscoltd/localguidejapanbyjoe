@@ -4,7 +4,7 @@ description: "A local's guide to enjoying Tokyo in the rain. Sometimes rain make
 pubDate: 2026-03-20
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What should I do in Tokyo on a rainy day?"

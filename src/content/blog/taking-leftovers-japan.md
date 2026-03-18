@@ -4,7 +4,7 @@ description: "A local's honest answer about doggy bags in Japan. Why most restau
 pubDate: 2026-02-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540648639573-8c848de23f0a?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "After eating at a restaurant, is it okay to take home what I didn't finish?"

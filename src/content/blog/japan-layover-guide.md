@@ -4,7 +4,7 @@ description: "A local's guide to short visits. Make the most of a few hours in T
 pubDate: 2026-09-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "I have a layover in Tokyo. Can I leave the airport?"

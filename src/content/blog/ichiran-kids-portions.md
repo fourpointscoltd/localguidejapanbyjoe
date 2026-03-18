@@ -4,7 +4,7 @@ description: "A local explains Ichiran's children's menu and free kids ramen pol
 pubDate: 2026-12-06
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1557872943-16a5ac26437e?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Does Ichiran offer children's portions for my picky eaters?"

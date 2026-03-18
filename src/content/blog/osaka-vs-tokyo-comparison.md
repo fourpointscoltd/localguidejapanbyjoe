@@ -4,7 +4,7 @@ description: "A local compares Japan's two biggest cities. Culture, food, and pe
 pubDate: 2026-09-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What's the difference between Osaka and Tokyo?"

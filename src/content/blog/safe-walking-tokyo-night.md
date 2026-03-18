@@ -4,7 +4,7 @@ description: "A local explains which areas to avoid and why Japan is generally s
 pubDate: 2026-12-08
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is it safe to walk late at night in Tokyo? Which streets should I avoid?"

@@ -4,7 +4,7 @@ description: "A local's honest take on wagashi. The secret to enjoying them and 
 pubDate: 2026-04-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Have you tried wagashi? Does it taste good?"

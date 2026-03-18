@@ -4,7 +4,7 @@ description: "A local compares takoyaki in both cities. The differences and wher
 pubDate: 2026-04-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1519624014191-508652cbd7b5?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Is takoyaki better in Osaka? Should I wait to try it there?"

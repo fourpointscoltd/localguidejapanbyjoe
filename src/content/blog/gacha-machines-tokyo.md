@@ -4,7 +4,7 @@ description: "A local's guide to gashapon. Buildings with thousands of machines 
 pubDate: 2026-03-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Where is the building in Tokyo with multiple levels of gacha machines?"

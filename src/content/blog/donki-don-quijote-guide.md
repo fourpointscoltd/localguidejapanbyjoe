@@ -4,7 +4,7 @@ description: "A local explains Donki. What to buy and how to navigate the chaos.
 pubDate: 2026-10-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "What is Don Quijote? Everyone says I should go."

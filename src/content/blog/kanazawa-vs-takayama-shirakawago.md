@@ -4,7 +4,7 @@ description: "A local's comparison for your 1-night stay. Quick guide to help yo
 pubDate: 2026-03-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Which is better for 1 night after Shirakawa-go: Kanazawa or Takayama?"

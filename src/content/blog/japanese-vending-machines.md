@@ -4,7 +4,7 @@ description: "A local explains vending machine culture. What you can find and ho
 pubDate: 2026-06-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Why does Japan have so many vending machines? What can I get?"

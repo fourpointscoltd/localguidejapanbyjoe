@@ -4,7 +4,7 @@ description: "A local's guide to Japan's amazing food halls. What to buy and how
 pubDate: 2026-07-06
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I heard department store basements have amazing food. What's the deal?"

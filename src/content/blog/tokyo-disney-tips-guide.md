@@ -4,7 +4,7 @@ description: "A local shares Disney tips. Beat the crowds and enjoy more rides."
 pubDate: 2026-08-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1624601573012-efb68931cc8f?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "How can I make the most of my Tokyo Disney visit?"

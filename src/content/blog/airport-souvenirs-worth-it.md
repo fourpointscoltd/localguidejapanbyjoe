@@ -4,7 +4,7 @@ description: "A local explains why airport shopping might be your best option."
 pubDate: 2026-12-17
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Are airport souvenirs/snacks better in quality and price than outside shops?"

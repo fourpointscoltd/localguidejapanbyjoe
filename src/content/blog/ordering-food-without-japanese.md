@@ -4,7 +4,7 @@ description: "A local's guide to ordering at food stalls. Easy tips for non-Japa
 pubDate: 2026-05-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How do I order street food if I don't speak Japanese?"

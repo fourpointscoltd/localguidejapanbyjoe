@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Suggest One Thing to Do, See, Eat, or Stay in 
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 Planning a trip around Japan? Here are my personal recommendations for one standout experience in each major destination!

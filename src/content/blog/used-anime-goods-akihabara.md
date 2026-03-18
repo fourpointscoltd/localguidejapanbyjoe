@@ -4,7 +4,7 @@ description: "A local's guide to used anime shops. Save money on figures, manga,
 pubDate: 2026-05-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Where can I find secondhand anime goods in Akihabara?"

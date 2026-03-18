@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Places to Visit with Nagano/Niigata JR Pass"
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 If you have the Nagano/Niigata JR Pass and want to explore the area, here are my top recommendations!

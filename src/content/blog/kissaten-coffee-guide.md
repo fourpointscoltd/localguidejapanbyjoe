@@ -4,7 +4,7 @@ description: "A local explains kissaten culture and recommends Tokyo's best coff
 pubDate: 2026-12-09
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How hard is it to find good espresso coffee in Tokyo, Kyoto, Nara, and Kobe?"

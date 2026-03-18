@@ -4,7 +4,7 @@ description: "A local explains how to enjoy hot springs even with tattoos."
 pubDate: 2027-01-08
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is it okay to invite my tattooed boyfriend to Japan?"

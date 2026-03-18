@@ -4,7 +4,7 @@ description: "A local explains why Kuramae is a wonderful area near Asakusa."
 pubDate: 2027-01-03
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is Nui Hostel & Bar Lounge in Taito a good place to stay? Is it far from the center?"

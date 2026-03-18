@@ -4,7 +4,7 @@ description: "A local explains Japan's stationery obsession. Best brands and whe
 pubDate: 2026-09-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "I heard Japanese stationery is amazing. What should I buy?"

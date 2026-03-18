@@ -4,7 +4,7 @@ description: "A local explains earthquake safety. What to expect and how to stay
 pubDate: 2026-08-02
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "What if there's an earthquake while I'm in Japan?"

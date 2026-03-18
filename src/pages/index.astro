@@ -1,314 +1,619 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const latestPosts = sortedPosts.slice(0, 7);
 
-// タグ別に記事をフィルタリング
-const souvenirPosts = sortedPosts.filter(post => post.data.tags?.includes('Souvenirs👘')).slice(0, 7);
-const transportPosts = sortedPosts.filter(post => post.data.tags?.includes('Transportation🚃')).slice(0, 7);
-const otherPosts = sortedPosts.filter(post => post.data.tags?.includes('Others🗾')).slice(0, 7);
+// Hero: featured or latest
+const featuredPost = sortedPosts.find(p => p.data.featured) || sortedPosts[0];
+const heroPosts = sortedPosts.filter(p => p.id !== featuredPost.id).slice(0, 2);
 
-// テキストリスト用のタグ
-const restaurantPosts = sortedPosts.filter(post => post.data.tags?.includes('Restaurant🍣')).slice(0, 10);
-const travelSpotPosts = sortedPosts.filter(post => post.data.tags?.includes('TravelSpots🗼')).slice(0, 10);
-const eventPosts = sortedPosts.filter(post => post.data.tags?.includes('Events🎍')).slice(0, 10);
+// カテゴリ別
+const categories = [
+  { tag: 'Restaurant', label: 'Restaurant', emoji: '🍣' },
+  { tag: 'TravelSpots', label: 'Travel Spots', emoji: '🗼' },
+  { tag: 'Transportation', label: 'Transportation', emoji: '🚅' },
+  { tag: 'Souvenirs', label: 'Souvenirs', emoji: '👘' },
+  { tag: 'Events', label: 'Events', emoji: '🎍' },
+  { tag: 'Tips', label: 'Tips', emoji: '💡' },
+];
 
-// 質問数カウンター（記事数 × 4）
+const categoryPosts = categories.map(cat => ({
+  ...cat,
+  posts: sortedPosts.filter(post => post.data.tags?.includes(cat.tag)).slice(0, 6),
+})).filter(cat => cat.posts.length > 0);
+
+// 質問数カウンター
 const questionCount = allPosts.length * 4;
 ---
 
 <BaseLayout title="Home">
-  <main class="gh-main gh-outer">
-    <div class="gh-inner">
-      <!-- Question Counter -->
-      <section class="question-counter">
-        <p class="counter-text">
-          I've answered <span class="counter-number">{questionCount.toLocaleString()}</span> questions so far!
-        </p>
-      </section>
-
-      <!-- Latest Section -->
-      <section class="gh-topic gh-topic-grid">
-        <h2 class="gh-topic-name">Latest</h2>
-
-        <div class="gh-topic-content">
-          {latestPosts.map((post, index) => (
-            <PostCard
-              title={post.data.title}
-              slug={post.id}
-              excerpt={post.data.description}
-              image={post.data.image}
-              author={post.data.author}
-              date={post.data.pubDate}
-              featured={post.data.featured}
-              large={index === 0}
-            />
+  <main class="home">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-inner">
+        <a class="hero-main" href={`/blog/${featuredPost.id}/`}>
+          <div class="hero-main-image">
+            {featuredPost.data.image && <img src={featuredPost.data.image} alt={featuredPost.data.title} />}
+          </div>
+          <div class="hero-main-overlay">
+            {featuredPost.data.tags?.[0] && <span class="hero-tag">{featuredPost.data.tags[0]}</span>}
+            <h1 class="hero-title">{featuredPost.data.title}</h1>
+            {featuredPost.data.description && <p class="hero-excerpt">{featuredPost.data.description}</p>}
+          </div>
+        </a>
+        <div class="hero-side">
+          {heroPosts.map((post) => (
+            <a class="hero-side-card" href={`/blog/${post.id}/`}>
+              <div class="hero-side-image">
+                {post.data.image && <img src={post.data.image} alt={post.data.title} />}
+              </div>
+              <div class="hero-side-overlay">
+                <h3 class="hero-side-title">{post.data.title}</h3>
+              </div>
+            </a>
           ))}
         </div>
-
-        {sortedPosts.length > 7 && (
-          <footer class="gh-topic-footer">
-            <a class="gh-topic-link" href="/blog">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </footer>
-        )}
-      </section>
-
-      <!-- Souvenirs Section -->
-      {souvenirPosts.length > 0 && (
-        <section class="gh-topic gh-topic-grid">
-          <h2 class="gh-topic-name">Souvenirs👘</h2>
-
-          <div class="gh-topic-content">
-            {souvenirPosts.map((post, index) => (
-              <PostCard
-                title={post.data.title}
-                slug={post.id}
-                excerpt={post.data.description}
-                image={post.data.image}
-                author={post.data.author}
-                date={post.data.pubDate}
-                featured={post.data.featured}
-                large={index === 0}
-              />
-            ))}
-          </div>
-
-          <footer class="gh-topic-footer">
-            <a class="gh-topic-link" href="/tag/Souvenirs👘">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </footer>
-        </section>
-      )}
-
-      <!-- Transportation Section -->
-      {transportPosts.length > 0 && (
-        <section class="gh-topic gh-topic-grid">
-          <h2 class="gh-topic-name">Transportation🚃</h2>
-
-          <div class="gh-topic-content">
-            {transportPosts.map((post, index) => (
-              <PostCard
-                title={post.data.title}
-                slug={post.id}
-                excerpt={post.data.description}
-                image={post.data.image}
-                author={post.data.author}
-                date={post.data.pubDate}
-                featured={post.data.featured}
-                large={index === 0}
-              />
-            ))}
-          </div>
-
-          <footer class="gh-topic-footer">
-            <a class="gh-topic-link" href="/tag/Transportation🚃">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </footer>
-        </section>
-      )}
-
-      <!-- Others Section -->
-      {otherPosts.length > 0 && (
-        <section class="gh-topic gh-topic-grid">
-          <h2 class="gh-topic-name">Others🗾</h2>
-
-          <div class="gh-topic-content">
-            {otherPosts.map((post, index) => (
-              <PostCard
-                title={post.data.title}
-                slug={post.id}
-                excerpt={post.data.description}
-                image={post.data.image}
-                author={post.data.author}
-                date={post.data.pubDate}
-                featured={post.data.featured}
-                large={index === 0}
-              />
-            ))}
-          </div>
-
-          <footer class="gh-topic-footer">
-            <a class="gh-topic-link" href="/tag/Others🗾">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </footer>
-        </section>
-      )}
-
-      <!-- Text List Sections -->
-      <div class="gh-text-lists">
-        <!-- Restaurant Section -->
-        {restaurantPosts.length > 0 && (
-          <section class="gh-text-list-section">
-            <h2 class="gh-topic-name">Restaurant🍣</h2>
-            <ul class="gh-text-list">
-              {restaurantPosts.map((post) => (
-                <li>
-                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
-                </li>
-              ))}
-            </ul>
-            <a class="gh-topic-link" href="/tag/Restaurant🍣">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </section>
-        )}
-
-        <!-- TravelSpots Section -->
-        {travelSpotPosts.length > 0 && (
-          <section class="gh-text-list-section">
-            <h2 class="gh-topic-name">TravelSpots🗼</h2>
-            <ul class="gh-text-list">
-              {travelSpotPosts.map((post) => (
-                <li>
-                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
-                </li>
-              ))}
-            </ul>
-            <a class="gh-topic-link" href="/tag/TravelSpots🗼">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </section>
-        )}
-
-        <!-- Events Section -->
-        {eventPosts.length > 0 && (
-          <section class="gh-text-list-section">
-            <h2 class="gh-topic-name">Events🎍</h2>
-            <ul class="gh-text-list">
-              {eventPosts.map((post) => (
-                <li>
-                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
-                </li>
-              ))}
-            </ul>
-            <a class="gh-topic-link" href="/tag/Events🎍">
-              Show more
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </a>
-          </section>
-        )}
       </div>
-    </div>
+    </section>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+      <div class="stats-inner">
+        <div class="stat-item">
+          <span class="stat-number">{questionCount.toLocaleString()}+</span>
+          <span class="stat-label">Questions Answered</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">{allPosts.length}</span>
+          <span class="stat-label">Articles</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">Local</span>
+          <span class="stat-label">Perspective</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Category Sections -->
+    {categoryPosts.map((cat) => (
+      <section class="cat-section">
+        <div class="cat-inner">
+          <div class="cat-header">
+            <h2 class="cat-title">
+              <span class="cat-emoji">{cat.emoji}</span>
+              {cat.label}
+            </h2>
+            <a class="cat-more" href={`/tag/${cat.tag}`}>
+              View all
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="16" height="16">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </div>
+          <div class="cat-grid">
+            {cat.posts.map((post, idx) => (
+              <a class={`cat-card ${idx === 0 ? 'cat-card-large' : ''}`} href={`/blog/${post.id}/`}>
+                <div class="cat-card-image">
+                  {post.data.image && <img src={post.data.image} alt={post.data.title} loading="lazy" />}
+                </div>
+                <div class="cat-card-content">
+                  <h3 class="cat-card-title">{post.data.title}</h3>
+                  {idx === 0 && post.data.description && (
+                    <p class="cat-card-excerpt">{post.data.description}</p>
+                  )}
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    ))}
+
+    <!-- About / CTA -->
+    <section class="home-cta">
+      <div class="cta-inner">
+        <img src="/images/profile_circle.png" alt="Joe Tanaka" class="cta-avatar" />
+        <div class="cta-text">
+          <h2>Hi, I'm Joe Tanaka</h2>
+          <p>Born in Kamakura, lived across Japan, traveled 20+ countries. I answer real questions from real travelers — no fluff, just practical local knowledge.</p>
+          <a href="/aboutme" class="cta-button">Learn more about me</a>
+        </div>
+      </div>
+    </section>
   </main>
 </BaseLayout>
 
 <style>
-  .question-counter {
-    text-align: center;
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    border-radius: 12px;
+  /* Hero */
+  .hero {
+    padding: 0 var(--gap);
   }
 
-  .counter-text {
-    font-size: 1.2rem;
-    color: var(--color-darker-gray);
+  .hero-inner {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 8px;
+    min-height: 520px;
+  }
+
+  .hero-main {
+    position: relative;
+    display: block;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+
+  .hero-main-image {
+    position: absolute;
+    inset: 0;
+  }
+
+  .hero-main-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-main-overlay {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    padding: 40px;
+    background: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 40%, transparent 70%);
+    color: white;
+  }
+
+  .hero-main:hover {
+    opacity: 1;
+  }
+
+  .hero-main:hover .hero-main-image img {
+    transform: scale(1.02);
+    transition: transform 0.6s ease;
+  }
+
+  .hero-tag {
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-accent);
+    margin-bottom: 12px;
+    background: rgba(255,255,255,0.15);
+    padding: 4px 12px;
+    border-radius: 100px;
+    width: fit-content;
+    backdrop-filter: blur(4px);
+  }
+
+  .hero-title {
+    font-size: 3.2rem;
+    line-height: 1.15;
+    color: white;
+    max-width: 600px;
+  }
+
+  .hero-excerpt {
+    font-size: 1.6rem;
+    margin-top: 12px;
+    color: rgba(255,255,255,0.8);
+    max-width: 500px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .hero-side {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .hero-side-card {
+    position: relative;
+    flex: 1;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    display: block;
+  }
+
+  .hero-side-card:hover {
+    opacity: 1;
+  }
+
+  .hero-side-card:hover .hero-side-image img {
+    transform: scale(1.05);
+    transition: transform 0.6s ease;
+  }
+
+  .hero-side-image {
+    position: absolute;
+    inset: 0;
+  }
+
+  .hero-side-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+
+  .hero-side-overlay {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    padding: 20px;
+    background: linear-gradient(0deg, rgba(0,0,0,0.75) 0%, transparent 60%);
+  }
+
+  .hero-side-title {
+    font-size: 1.6rem;
+    color: white;
+    line-height: 1.3;
     margin: 0;
   }
 
-  .counter-number {
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--ghost-accent-color);
-    display: inline-block;
-    margin: 0 0.3rem;
+  @media (max-width: 991px) {
+    .hero-inner {
+      grid-template-columns: 1fr;
+      min-height: auto;
+    }
+    .hero-main {
+      min-height: 360px;
+    }
+    .hero-side {
+      flex-direction: row;
+    }
+    .hero-side-card {
+      min-height: 200px;
+    }
+    .hero-title {
+      font-size: 2.6rem;
+    }
   }
 
   @media (max-width: 600px) {
-    .counter-text {
-      font-size: 1rem;
+    .hero {
+      padding: 0 12px;
     }
-    .counter-number {
-      font-size: 2rem;
+    .hero-inner {
+      gap: 6px;
+    }
+    .hero-main {
+      min-height: 280px;
+    }
+    .hero-main-overlay {
+      padding: 24px;
+    }
+    .hero-title {
+      font-size: 2.2rem;
+    }
+    .hero-side-card {
+      min-height: 160px;
+    }
+    .hero-side-title {
+      font-size: 1.3rem;
+    }
+    .hero-side-overlay {
+      padding: 14px;
     }
   }
 
-  .gh-text-lists {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
-    margin-top: 4rem;
-    padding-top: 3rem;
-    border-top: 1px solid var(--color-border);
+  /* Stats Bar */
+  .stats-bar {
+    padding: 0 var(--gap);
+    margin-top: 32px;
+    margin-bottom: 32px;
   }
 
-  @media (max-width: 900px) {
-    .gh-text-lists {
-      grid-template-columns: 1fr;
-      gap: 2rem;
-    }
-  }
-
-  .gh-text-list-section {
+  .stats-inner {
+    max-width: var(--container-width);
+    margin: 0 auto;
     display: flex;
-    flex-direction: column;
-  }
-
-  .gh-text-list-section .gh-topic-name {
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-  }
-
-  .gh-text-list {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 1rem 0;
-  }
-
-  .gh-text-list li {
-    padding: 0.5rem 0;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    padding: 24px 0;
     border-bottom: 1px solid var(--color-border);
   }
 
-  .gh-text-list li:last-child {
-    border-bottom: none;
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
 
-  .gh-text-list a {
-    color: var(--color-darker-gray);
-    text-decoration: none;
-    font-size: 0.95rem;
-    line-height: 1.4;
+  .stat-number {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--color-accent);
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 1.2rem;
+    color: var(--color-secondary-text);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    height: 36px;
+    background: var(--color-border);
+  }
+
+  @media (max-width: 600px) {
+    .stats-inner {
+      gap: 24px;
+    }
+    .stat-number {
+      font-size: 2rem;
+    }
+    .stat-label {
+      font-size: 1rem;
+    }
+  }
+
+  /* Category Sections */
+  .cat-section {
+    padding: 0 var(--gap);
+    margin-bottom: 56px;
+  }
+
+  .cat-inner {
+    max-width: var(--container-width);
+    margin: 0 auto;
+  }
+
+  .cat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+
+  .cat-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+  }
+
+  .cat-emoji {
+    font-size: 2.2rem;
+    line-height: 1;
+  }
+
+  .cat-more {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--color-accent);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+  }
+
+  .cat-more:hover {
+    opacity: 1;
+    color: var(--color-accent-hover);
+  }
+
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto auto;
+    gap: 8px;
+  }
+
+  .cat-card {
+    position: relative;
+    border-radius: var(--radius-md);
+    overflow: hidden;
     display: block;
-    transition: color 0.2s ease;
+    aspect-ratio: 4 / 3;
   }
 
-  .gh-text-list a:hover {
-    color: var(--ghost-accent-color);
+  .cat-card:hover {
+    opacity: 1;
   }
 
-  .gh-text-list-section .gh-topic-link {
-    margin-top: auto;
-    font-size: 0.9rem;
+  .cat-card:hover img {
+    transform: scale(1.05);
+  }
+
+  .cat-card-large {
+    grid-row: 1 / 3;
+    aspect-ratio: auto;
+  }
+
+  .cat-card-image {
+    position: absolute;
+    inset: 0;
+    background: var(--color-lighter-gray);
+  }
+
+  .cat-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+
+  .cat-card-content {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 16px;
+    background: linear-gradient(0deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.2) 40%, transparent 65%);
+  }
+
+  .cat-card-large .cat-card-content {
+    padding: 24px;
+  }
+
+  .cat-card-title {
+    font-size: 1.4rem;
+    color: white;
+    line-height: 1.3;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .cat-card-large .cat-card-title {
+    font-size: 2rem;
+    -webkit-line-clamp: 4;
+  }
+
+  .cat-card-excerpt {
+    font-size: 1.3rem;
+    color: rgba(255,255,255,0.75);
+    margin-top: 8px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  @media (max-width: 991px) {
+    .cat-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .cat-card-large {
+      grid-column: 1 / 3;
+      grid-row: auto;
+      aspect-ratio: 16 / 9;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .cat-section {
+      padding: 0 12px;
+      margin-bottom: 40px;
+    }
+    .cat-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+    }
+    .cat-card {
+      aspect-ratio: 1;
+    }
+    .cat-card-large {
+      grid-column: 1 / 3;
+      aspect-ratio: 16 / 9;
+    }
+    .cat-card-title {
+      font-size: 1.2rem;
+    }
+    .cat-card-large .cat-card-title {
+      font-size: 1.6rem;
+    }
+    .cat-card-content {
+      padding: 10px;
+    }
+    .cat-card-large .cat-card-content {
+      padding: 16px;
+    }
+    .cat-card-excerpt {
+      display: none;
+    }
+  }
+
+  /* CTA */
+  .home-cta {
+    padding: 0 var(--gap);
+    margin-top: 24px;
+    margin-bottom: 40px;
+  }
+
+  .cta-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    background: var(--color-white);
+    border-radius: var(--radius-lg);
+    padding: 40px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .cta-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .cta-text h2 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+  }
+
+  .cta-text p {
+    font-size: 1.5rem;
+    color: var(--color-secondary-text);
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+
+  .cta-button {
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--color-accent);
+    border: 2px solid var(--color-accent);
+    border-radius: 100px;
+    padding: 8px 20px;
+    transition: all 0.2s;
+  }
+
+  .cta-button:hover {
+    background: var(--color-accent);
+    color: white;
+    opacity: 1;
+  }
+
+  @media (max-width: 600px) {
+    .cta-inner {
+      flex-direction: column;
+      text-align: center;
+      padding: 32px 24px;
+      gap: 20px;
+    }
+    .cta-avatar {
+      width: 80px;
+      height: 80px;
+    }
+    .cta-text h2 {
+      font-size: 1.8rem;
+    }
   }
 </style>

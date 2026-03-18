@@ -4,7 +4,7 @@ description: "A local's guide to getting taxis in Tokyo. No apps needed!"
 pubDate: 2026-02-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Are there taxis available outside Shinjuku station without a reservation?"

@@ -4,7 +4,7 @@ description: "A local explains matsuri culture. When to go, what to expect, and 
 pubDate: 2026-08-20
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["Events🎌"]
+tags: ["Events"]
 ---
 
 > "What are Japanese festivals like? Should I try to see one?"

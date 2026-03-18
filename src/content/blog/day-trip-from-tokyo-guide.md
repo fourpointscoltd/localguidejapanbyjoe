@@ -4,7 +4,7 @@ description: "A local recommends easy day trips. Mountains, beaches, temples, an
 pubDate: 2026-06-21
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528164344705-47542687000d?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What day trips can I do from Tokyo?"

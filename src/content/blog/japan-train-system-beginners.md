@@ -4,7 +4,7 @@ description: "A local's honest guide to navigating Japan's trains. It's easier t
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "How hard is the train system? Any tips for first timers?"

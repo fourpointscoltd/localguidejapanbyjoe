@@ -4,7 +4,7 @@ description: "A local's guide to Japanese hotel amenities. What's free, what you
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "What free amenities do Japanese hotels typically provide? And can I take them home as souvenirs?"

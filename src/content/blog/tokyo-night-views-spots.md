@@ -4,7 +4,7 @@ description: "A local's guide to Tokyo night views. Free and paid observation de
 pubDate: 2026-07-21
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Where can I see the best night view of Tokyo?"

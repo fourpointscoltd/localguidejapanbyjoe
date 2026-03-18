@@ -4,7 +4,7 @@ description: "A local explains fugu (pufferfish) safety and recommends top resta
 pubDate: 2026-12-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Is it safe to eat fugu in Tokyo? Can you recommend a good restaurant?"

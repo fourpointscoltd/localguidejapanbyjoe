@@ -4,7 +4,7 @@ description: "A local's honest answer about insects in Japan. What to expect in 
 pubDate: 2026-03-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Are there bugs and mosquitoes in Tokyo in August? Should I be worried?"

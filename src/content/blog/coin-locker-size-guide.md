@@ -4,7 +4,7 @@ description: "A local explains coin locker sizes and whether your suitcase will 
 pubDate: 2026-12-16
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "What is the size of train station coin lockers? Will my suitcase fit?"

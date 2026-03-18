@@ -4,7 +4,7 @@ description: "A local explains alcohol laws. Where to drink and what to know."
 pubDate: 2026-09-19
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "What's the legal drinking age in Japan?"

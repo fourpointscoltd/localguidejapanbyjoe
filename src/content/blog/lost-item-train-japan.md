@@ -4,7 +4,7 @@ description: "A local explains how to find lost items. Japan's amazing lost and 
 pubDate: 2026-07-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554232456-8727aae0cfa4?w=1200"
-tags: ["Transport🚃"]
+tags: ["Transportation"]
 ---
 
 > "I left my bag on the train! Can I get it back?"

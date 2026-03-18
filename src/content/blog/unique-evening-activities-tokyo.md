@@ -4,7 +4,7 @@ description: "A local's guide to nighttime fun without bars or arcades. Nature, 
 pubDate: 2026-02-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Any recommendations for unique evening activities that don't involve drinking or arcades?"

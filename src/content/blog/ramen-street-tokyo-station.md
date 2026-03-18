@@ -4,7 +4,7 @@ description: "A local recommends which ramen shops to try at Tokyo Ramen Street.
 pubDate: 2026-12-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Which ramen shop at Tokyo Station's Ramen Street is the best?"

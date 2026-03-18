@@ -4,7 +4,7 @@ description: "A local explains Japanese karaoke. Private rooms, ordering, and ha
 pubDate: 2026-09-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "How does karaoke work in Japan? Is it different?"

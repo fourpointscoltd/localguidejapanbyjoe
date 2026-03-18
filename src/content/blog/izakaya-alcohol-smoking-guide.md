@@ -4,7 +4,7 @@ description: "A local's honest guide to izakaya culture in Japan. What to expect
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What is the expectation in an izakaya? We're a family that doesn't drink alcohol or smoke but love the food. Are we expected to order alcohol, and are izakayas smoke-filled?"

@@ -7,29 +7,54 @@ const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="Blog">
+<BaseLayout title="All Articles">
   <main class="gh-main gh-outer">
     <div class="gh-inner">
       <section class="gh-pagehead">
-        <h1 class="gh-pagehead-title">Latest</h1>
+        <h1 class="gh-pagehead-title">All Articles</h1>
+        <p class="gh-pagehead-description">{sortedPosts.length} articles</p>
       </section>
 
-      <div class="gh-topic gh-topic-grid">
-        <div class="gh-topic-content gh-feed">
-          {sortedPosts.map((post, index) => (
-            <PostCard
-              title={post.data.title}
-              slug={post.id}
-              excerpt={post.data.description}
-              image={post.data.image}
-              author={post.data.author}
-              date={post.data.pubDate}
-              featured={post.data.featured}
-              large={index === 0}
-            />
-          ))}
-        </div>
+      <div class="posts-grid">
+        {sortedPosts.map((post, index) => (
+          <PostCard
+            title={post.data.title}
+            slug={post.id}
+            excerpt={post.data.description}
+            image={post.data.image}
+            author={post.data.author}
+            date={post.data.pubDate}
+            featured={post.data.featured}
+            large={index === 0}
+          />
+        ))}
       </div>
     </div>
   </main>
 </BaseLayout>
+
+<style>
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .posts-grid > :first-child {
+    grid-column: 1 / -1;
+  }
+
+  @media (max-width: 991px) {
+    .posts-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .posts-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+  }
+</style>

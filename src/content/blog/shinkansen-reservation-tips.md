@@ -4,7 +4,7 @@ description: "A local explains bullet train reservations. When to book and when 
 pubDate: 2026-08-11
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1565596231581-74bf6ff30c73?w=1200"
-tags: ["Transport🚃"]
+tags: ["Transportation"]
 ---
 
 > "Should I reserve seats on the shinkansen or just get on?"

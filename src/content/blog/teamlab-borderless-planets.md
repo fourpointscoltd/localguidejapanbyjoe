@@ -4,7 +4,7 @@ description: "A local compares both TeamLab museums. Differences, tips, and reco
 pubDate: 2026-07-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "TeamLab Borderless or Planets? Which is better?"

@@ -4,7 +4,7 @@ description: "A local explains ramen styles. From Tonkotsu to Shoyu, find your f
 pubDate: 2026-05-31
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What are the different types of ramen? Which should I try?"

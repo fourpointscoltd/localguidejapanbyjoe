@@ -4,7 +4,7 @@ description: "A local's guide to Tokyo's best coffee shops. From traditional kis
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I'm a coffee snob and need recommendations for quality coffee in Tokyo. Where can I find freshly roasted, well-brewed coffee?"

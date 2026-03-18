@@ -4,7 +4,7 @@ description: "A local explains plugs and voltage. What works and what to bring."
 pubDate: 2026-06-30
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Do I need a power adapter for Japan? Will my devices work?"

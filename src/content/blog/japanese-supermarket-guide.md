@@ -4,7 +4,7 @@ description: "A local's guide to Japanese supermarkets. What to buy and how they
 pubDate: 2026-08-17
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What should I check out at a Japanese supermarket?"

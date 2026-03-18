@@ -4,7 +4,7 @@ description: "A local's guide to matcha cafes. From traditional to Instagram-wor
 pubDate: 2026-07-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Where can I get amazing matcha desserts in Tokyo?"

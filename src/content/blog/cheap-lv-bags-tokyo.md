@@ -4,7 +4,7 @@ description: "A local's honest guide to finding authentic Louis Vuitton bags at 
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200"
-tags: ["Souvenirs👘"]
+tags: ["Souvenirs"]
 ---
 
 > "I want to buy a Louis Vuitton bag in Tokyo. Is there anywhere I can find one cheaper than retail price?"

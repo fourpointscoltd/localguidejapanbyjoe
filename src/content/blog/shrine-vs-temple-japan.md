@@ -4,7 +4,7 @@ description: "A local explains Shinto shrines vs Buddhist temples. How to tell t
 pubDate: 2026-06-27
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What's the difference between shrines and temples in Japan?"

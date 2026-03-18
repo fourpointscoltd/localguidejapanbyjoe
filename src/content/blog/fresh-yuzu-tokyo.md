@@ -4,7 +4,7 @@ description: "A local's guide to finding yuzu fruit in Tokyo. Supermarkets, seas
 pubDate: 2026-03-02
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1608270586620-248524c67de9?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "I'm looking for fresh yuzu fruit in Tokyo. Any recommendations?"

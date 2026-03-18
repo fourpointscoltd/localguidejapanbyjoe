@@ -4,7 +4,7 @@ description: "A local explains healthcare for tourists. Where to go and what to 
 pubDate: 2026-07-09
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "What do I do if I get sick or injured in Japan?"

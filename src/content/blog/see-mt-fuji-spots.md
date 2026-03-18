@@ -4,7 +4,7 @@ description: "A local recommends the best viewing spots around Mt. Fuji."
 pubDate: 2027-01-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Where can I see Mt. Fuji without climbing it?"

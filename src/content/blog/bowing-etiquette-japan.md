@@ -4,7 +4,7 @@ description: "A local explains bowing culture. When to bow and how deep."
 pubDate: 2026-11-09
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528164344705-47542687000d?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Should I bow in Japan? How do I do it right?"

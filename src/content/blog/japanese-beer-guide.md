@@ -4,7 +4,7 @@ description: "A local's guide to Japanese beer. Brands, styles, and where to dri
 pubDate: 2026-11-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What's the beer situation in Japan?"

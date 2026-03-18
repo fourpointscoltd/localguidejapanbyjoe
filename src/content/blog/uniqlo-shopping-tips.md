@@ -4,7 +4,7 @@ description: "A local explains shopping at Japanese Uniqlo. Prices, sizes, and e
 pubDate: 2026-10-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Should I buy Uniqlo in Japan? Is it cheaper?"

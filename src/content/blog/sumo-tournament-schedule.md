@@ -4,7 +4,7 @@ description: "A local's guide to sumo tournaments. Schedule, locations, and how 
 pubDate: 2026-03-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Can I see a sumo tournament in Tokyo, Osaka, or Nagoya during my trip?"

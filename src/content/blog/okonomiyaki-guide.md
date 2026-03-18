@@ -4,7 +4,7 @@ description: "A local explains okonomiyaki. Osaka vs Hiroshima style and how to 
 pubDate: 2026-10-31
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1582450871972-ab5ca641643d?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What is okonomiyaki exactly?"

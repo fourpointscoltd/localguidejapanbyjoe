@@ -4,7 +4,7 @@ description: "A local explains izakaya culture. What to order, how to order, and
 pubDate: 2026-06-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554797589-7241bb691973?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How do izakayas work? I'm confused about ordering."

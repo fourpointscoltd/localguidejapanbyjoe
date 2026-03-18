@@ -4,7 +4,7 @@ description: "A local's recommendation for tracking rain in Japan. Essential for
 pubDate: 2026-04-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Is there a better weather app for Japan? Something that shows rain clouds?"

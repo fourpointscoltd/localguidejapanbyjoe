@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Do Seat and Drink Tickets Include Access to th
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 When I first looked into the "seat and drink" tickets at observation decks here in Japan, I was curious about the same things!

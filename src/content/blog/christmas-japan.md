@@ -4,7 +4,7 @@ description: "A local explains Japan's unique Christmas traditions including KFC
 pubDate: 2026-12-23
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1543589077-47d81606c1bf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What's the best place to spend Christmas in Japan?"

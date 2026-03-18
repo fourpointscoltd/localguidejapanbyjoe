@@ -4,7 +4,7 @@ description: "A local's guide to booking your Japan trip. What you must reserve 
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528164344705-47542687000d?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "We're planning our Japan trip and feeling overwhelmed! How do we book everything, and what actually needs to be reserved in advance?"

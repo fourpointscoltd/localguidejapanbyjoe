@@ -4,7 +4,7 @@ description: "A local's guide to finding Gudetama merchandise and experiences in
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["Souvenirs👘"]
+tags: ["Souvenirs"]
 ---
 
 > "I love Gudetama! Where can I find Gudetama-themed cafes and shops in Tokyo?"

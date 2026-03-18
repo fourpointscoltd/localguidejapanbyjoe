@@ -4,7 +4,7 @@ description: "A local explains sento culture. Different from onsen, and how to u
 pubDate: 2026-07-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What's a sento? Is it different from an onsen?"

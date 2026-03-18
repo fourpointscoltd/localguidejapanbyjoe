@@ -4,7 +4,7 @@ description: "A local compares these two popular day trip destinations from Toky
 pubDate: 2027-01-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Kamakura or Kawagoe for a day trip from Asakusa? Which is better?"

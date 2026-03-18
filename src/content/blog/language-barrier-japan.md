@@ -4,7 +4,7 @@ description: "A local explains why you don't need to worry about not speaking Ja
 pubDate: 2026-12-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is it difficult to communicate with locals in Japan for first-timers?"

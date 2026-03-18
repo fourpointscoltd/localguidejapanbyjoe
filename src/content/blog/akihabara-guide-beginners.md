@@ -4,7 +4,7 @@ description: "A local explains Akihabara. Anime, electronics, and otaku culture.
 pubDate: 2026-11-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What is Akihabara? What can I do there?"

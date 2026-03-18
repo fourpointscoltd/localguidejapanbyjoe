@@ -4,7 +4,7 @@ description: "A local's complete guide to Japan's airport limousine buses. Learn
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "I keep hearing about 'limousine buses' from the airport. How do they work, and do I need to make a reservation?"

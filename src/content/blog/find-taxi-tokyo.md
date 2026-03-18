@@ -4,7 +4,7 @@ description: "A local explains that taxi apps aren't necessary in Tokyo."
 pubDate: 2027-01-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1449965408869-ebd5c1f7ec91?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Are there taxis outside Shinjuku station without reservations?"

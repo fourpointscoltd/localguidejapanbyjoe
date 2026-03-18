@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Tips for Non-Cafe Pokemon Experiences and Card
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?w=1200"
-tags: ["Souvenirs👘"]
+tags: ["Souvenirs"]
 ---
 
 Looking for Pokemon experiences beyond the cafes and Pokemon Centers? Here are my local recommendations!

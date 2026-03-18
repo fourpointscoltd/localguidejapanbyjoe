@@ -4,7 +4,7 @@ description: "A local's guide to free attractions. Save money while exploring."
 pubDate: 2026-10-16
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Are there free things to do in Tokyo?"

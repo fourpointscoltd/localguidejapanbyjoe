@@ -4,7 +4,7 @@ description: "A local's guide to booking group dinners in Tokyo. Restaurant reco
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1553621042-f6e147245754?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I need a dinner restaurant recommendation for a group of 12 people in Tokyo. Any suggestions?"

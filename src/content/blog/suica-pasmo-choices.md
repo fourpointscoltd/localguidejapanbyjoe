@@ -4,6 +4,7 @@ description: "Get the best travel card for Tokyo and Kyoto: choose Suica or Pasm
 pubDate: 2025-07-30
 author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/20241104_ICcard_px.jpg"
+tags: ["Transportation"]
 ---
 
 If you’re planning to visit Tokyo and Kyoto, you might have come across two popular IC cards: Suica and Pasmo. Honestly, from my experience living and traveling around Japan, these two cards are basically the same thing with different names. Here’s the lowdown:

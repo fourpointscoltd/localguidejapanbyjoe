@@ -4,7 +4,7 @@ description: "A local explains train etiquette. Don't be that tourist who breaks
 pubDate: 2026-05-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554232456-8727aae0cfa4?w=1200"
-tags: ["Transport🚃"]
+tags: ["Transportation"]
 ---
 
 > "What should I know about riding trains in Japan? Are there rules?"

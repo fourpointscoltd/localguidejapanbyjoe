@@ -4,7 +4,7 @@ description: "A local explains luggage storage options near Shibuya Sky and Shib
 pubDate: 2026-05-10
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Can I store my luggage at Shibuya Sky? I have bags with me."

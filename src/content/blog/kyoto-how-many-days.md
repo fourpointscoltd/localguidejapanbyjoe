@@ -4,7 +4,7 @@ description: "A local who lived in Kyoto explains how long you should stay."
 pubDate: 2026-12-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is 2 nights in Kyoto too much? Or is 2 days 1 night enough?"

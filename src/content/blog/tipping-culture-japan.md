@@ -4,7 +4,7 @@ description: "A local explains tipping culture. When to tip, when not to, and wh
 pubDate: 2026-05-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Do I need to tip in Japan? Is it rude not to tip?"

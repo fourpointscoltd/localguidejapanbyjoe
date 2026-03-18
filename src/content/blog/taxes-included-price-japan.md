@@ -4,7 +4,7 @@ description: "A local explains how pricing works in Japanese stores. No surprise
 pubDate: 2026-02-08
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Are taxes included in the displayed price when it comes to price tags in stores?"

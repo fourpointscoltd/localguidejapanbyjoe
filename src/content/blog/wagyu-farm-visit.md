@@ -4,7 +4,7 @@ description: "A local's guide to visiting ranches in Japan. Where to see cows an
 pubDate: 2026-04-10
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Do you recommend visiting a Wagyu cattle farm?"

@@ -4,7 +4,7 @@ description: "A local's comparison of two popular day trips from Tokyo. Sea and 
 pubDate: 2026-03-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Which is better for a day trip from Asakusa: Kamakura or Kawagoe?"

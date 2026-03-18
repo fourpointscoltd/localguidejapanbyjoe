@@ -4,7 +4,7 @@ description: "A local explains animal cafes. Cats, owls, hedgehogs and more."
 pubDate: 2026-10-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What are animal cafes? Should I visit one?"

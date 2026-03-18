@@ -4,7 +4,7 @@ description: "A local's guide to eating pufferfish safely. Famous restaurants an
 pubDate: 2026-03-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Can you recommend a safe and top-rated fugu restaurant in Tokyo?"

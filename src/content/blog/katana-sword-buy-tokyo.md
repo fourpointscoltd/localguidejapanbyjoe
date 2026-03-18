@@ -4,7 +4,7 @@ description: "A local's guide to buying Japanese swords. Legal considerations an
 pubDate: 2026-03-10
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Where can I buy a katana sword in Tokyo?"

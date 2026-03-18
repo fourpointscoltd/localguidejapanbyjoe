@@ -4,7 +4,7 @@ description: "A local's honest comparison of Tokyo's two major airports with pra
 pubDate: 2025-08-13
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Can you explain the pros and cons of Haneda Airport versus Narita Airport? Which one should I choose?"

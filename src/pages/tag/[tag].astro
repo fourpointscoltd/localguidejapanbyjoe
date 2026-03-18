@@ -6,7 +6,6 @@ import { getCollection } from 'astro:content';
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 
-  // Get all unique tags
   const tags = new Set<string>();
   allPosts.forEach((post) => {
     post.data.tags?.forEach((tag: string) => tags.add(tag));
@@ -34,21 +33,45 @@ const { tag, posts } = Astro.props;
         <p class="gh-pagehead-description">{posts.length} articles</p>
       </section>
 
-      <div class="gh-topic gh-topic-grid">
-        <div class="gh-topic-content gh-feed">
-          {posts.map((post, index) => (
-            <PostCard
-              title={post.data.title}
-              slug={post.id}
-              excerpt={post.data.description}
-              image={post.data.image}
-              author={post.data.author}
-              date={post.data.pubDate}
-              large={index === 0}
-            />
-          ))}
-        </div>
+      <div class="posts-grid">
+        {posts.map((post, index) => (
+          <PostCard
+            title={post.data.title}
+            slug={post.id}
+            excerpt={post.data.description}
+            image={post.data.image}
+            author={post.data.author}
+            date={post.data.pubDate}
+            large={index === 0}
+          />
+        ))}
       </div>
     </div>
   </main>
 </BaseLayout>
+
+<style>
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .posts-grid > :first-child {
+    grid-column: 1 / -1;
+  }
+
+  @media (max-width: 991px) {
+    .posts-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .posts-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+  }
+</style>

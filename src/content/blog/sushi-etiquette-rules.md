@@ -4,7 +4,7 @@ description: "A local explains sushi etiquette. Hands vs chopsticks, soy sauce t
 pubDate: 2026-06-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Are there rules for eating sushi? I don't want to be rude."

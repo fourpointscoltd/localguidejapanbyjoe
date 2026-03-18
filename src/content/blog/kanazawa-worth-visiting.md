@@ -4,7 +4,7 @@ description: "A local's honest opinion on Kanazawa. Why I love this city and who
 pubDate: 2026-02-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Is it worth visiting Kanazawa? Some people say to skip it."

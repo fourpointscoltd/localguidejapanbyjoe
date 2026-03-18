@@ -4,7 +4,7 @@ description: "A local explains Japan's famous toilets. Buttons, bidets, and ever
 pubDate: 2026-08-29
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "How do I use Japanese toilets? There are so many buttons!"

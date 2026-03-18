@@ -4,7 +4,7 @@ description: "A local's honest answer about skiing in Hokkaido in November. What
 pubDate: 2026-02-05
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Where can I ski in Hokkaido in late November? I'm a first-time visitor."

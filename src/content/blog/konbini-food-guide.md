@@ -4,7 +4,7 @@ description: "A local explains why konbini food is amazing. What to try and tips
 pubDate: 2026-05-19
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1528731708534-816fe59f90cb?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Is convenience store food in Japan actually good? People say it's amazing."

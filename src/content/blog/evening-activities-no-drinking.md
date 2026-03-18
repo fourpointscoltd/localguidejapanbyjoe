@@ -4,7 +4,7 @@ description: "A local shares unique evening activities that don't involve alcoho
 pubDate: 2026-12-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "What are some unique evening activities that don't involve drinking or arcades?"

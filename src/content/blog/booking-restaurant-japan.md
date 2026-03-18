@@ -4,7 +4,7 @@ description: "A local explains booking restaurants. Apps, phone calls, and getti
 pubDate: 2026-09-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554797589-7241bb691973?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "How do I book restaurants in Japan if I don't speak Japanese?"

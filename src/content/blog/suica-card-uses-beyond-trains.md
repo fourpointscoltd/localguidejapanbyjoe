@@ -4,7 +4,7 @@ description: "A local's complete guide to using Suica beyond transportation. Dis
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "I know Suica is for trains, but can I use it anywhere else? What else can I pay for with it?"

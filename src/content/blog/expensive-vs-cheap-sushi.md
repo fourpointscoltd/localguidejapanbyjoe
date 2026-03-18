@@ -4,7 +4,7 @@ description: "A local compares high-end sushi restaurants with conveyor belt sus
 pubDate: 2026-12-03
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Is expensive sushi worth it compared to normal sushi places?"

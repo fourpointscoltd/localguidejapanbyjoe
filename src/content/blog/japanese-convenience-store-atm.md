@@ -4,7 +4,7 @@ description: "A local explains ATM withdrawals. Which stores work and tips for t
 pubDate: 2026-11-30
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Which convenience store ATMs work with foreign cards?"

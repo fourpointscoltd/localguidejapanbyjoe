@@ -4,7 +4,7 @@ description: "A local explains capsule hotel rules. Why they're not for families
 pubDate: 2026-04-18
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200"
-tags: ["Hotel🏨"]
+tags: ["Hotel"]
 ---
 
 > "Are kids allowed in capsule hotels? Can I stay with my son?"

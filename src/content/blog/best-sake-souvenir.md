@@ -4,7 +4,7 @@ description: "A local recommends the top 3 Japanese sake brands for souvenirs."
 pubDate: 2026-12-24
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "What's a good sake to bring home as a gift?"

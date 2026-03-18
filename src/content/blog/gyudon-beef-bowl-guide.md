@@ -4,7 +4,7 @@ description: "A local explains gyudon culture. Cheap, fast, and delicious comfor
 pubDate: 2026-09-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What is gyudon and why do Japanese people love it?"

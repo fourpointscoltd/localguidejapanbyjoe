@@ -4,7 +4,7 @@ description: "A local's guide to Tokyo's oldest temple. What to see and do."
 pubDate: 2026-11-03
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "How do I visit Senso-ji? What should I see?"

@@ -4,7 +4,7 @@ description: "A local explains Tokyo's train systems. Which to use and when."
 pubDate: 2026-10-10
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554232456-8727aae0cfa4?w=1200"
-tags: ["Transport🚃"]
+tags: ["Transportation"]
 ---
 
 > "What's the difference between Metro and JR in Tokyo?"

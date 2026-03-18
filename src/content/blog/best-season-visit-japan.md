@@ -4,7 +4,7 @@ description: "A local breaks down each season. Pros, cons, and what to expect al
 pubDate: 2026-06-06
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "When is the best time to visit Japan?"

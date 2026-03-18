@@ -4,7 +4,7 @@ description: "A local compares both cities. Which one to start with and why."
 pubDate: 2026-05-28
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Should I go to Tokyo or Kyoto first? Which is better for first-time visitors?"

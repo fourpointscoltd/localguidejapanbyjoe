@@ -4,7 +4,7 @@ description: "A local explains why taxis and bicycles are better than buses in K
 pubDate: 2026-12-07
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "What's the best transportation in Kyoto to see famous sites in 2 days?"

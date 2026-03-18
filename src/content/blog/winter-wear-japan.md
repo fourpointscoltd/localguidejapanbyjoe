@@ -4,6 +4,7 @@ description: "Find out if buying winter wear in Japan is cheaper and get top sho
 pubDate: 2025-07-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1734577375727-082ca8d1c728?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHx3aW50ZXIlMjB3ZWFyJTIwamFwYW58ZW58MHx8fHwxNzUzNjA5MTEwfDA&ixlib=rb-4.1.0&q=80&w=2000"
+tags: ["Clothes"]
 ---
 
 When it comes to winter wear in Japan, I usually recommend two types of stores: Uniqlo for everyday basics and outdoor brands like Snow Peak or Montbell for more specialized cold-weather gear. Honestly, many Japanese people’s go-to cold defense is to stock up on Uniqlo’s Heattech innerwear. It’s lightweight, affordable, and surprisingly warm — perfect for layering.

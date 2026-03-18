@@ -4,7 +4,7 @@ description: "A local's complete guide to day hiking Mt. Fuji. Route options, ti
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Have you actually hiked Mt. Fuji as a day hike? How long does it take from the 5th Station?"

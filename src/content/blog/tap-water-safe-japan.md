@@ -4,7 +4,7 @@ description: "A local's answer about drinking water in Japan. Safe, clean, and f
 pubDate: 2026-03-15
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Is the water in Japan safe to drink, or should I buy bottled water?"

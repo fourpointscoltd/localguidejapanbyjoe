@@ -4,7 +4,7 @@ description: "A local's guide to using Wise and foreign cards at Japanese ATMs. 
 pubDate: 2026-02-26
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "Are there specific ATMs in Japan that accept Wise cards for withdrawals?"

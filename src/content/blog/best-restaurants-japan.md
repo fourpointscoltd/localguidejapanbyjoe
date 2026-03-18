@@ -4,7 +4,7 @@ description: "A local's honest guide to finding great restaurants in Japan. From
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "I'm looking for the best restaurants in Japan. Can you recommend some?"

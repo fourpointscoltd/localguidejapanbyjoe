@@ -4,7 +4,7 @@ description: "A local recommends budget-friendly shabu shabu and sukiyaki spots 
 pubDate: 2026-10-04
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "Can you recommend a good and reasonable place for shabu shabu or sukiyaki in Ueno and Asakusa?"

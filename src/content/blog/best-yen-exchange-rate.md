@@ -4,7 +4,7 @@ description: "A local explains money exchange options. ATMs, banks, and exchange
 pubDate: 2026-05-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
-tags: ["Tips💡"]
+tags: ["Tips"]
 ---
 
 > "Where should I exchange money in Japan? What's the best rate?"

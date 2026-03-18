@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Can You Recommend a Good Store to Buy Reasonab
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=1200"
-tags: ["Souvenirs👘"]
+tags: ["Souvenirs"]
 ---
 
 Discover the best outfits and tips for visiting Japan in July's hot weather. Stay cool with lightweight clothing

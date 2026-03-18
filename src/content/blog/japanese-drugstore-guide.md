@@ -4,7 +4,7 @@ description: "A local's guide to Japanese drugstores. Best products and shopping
 pubDate: 2026-11-06
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200"
-tags: ["Souvenirs🎁"]
+tags: ["Souvenirs"]
 ---
 
 > "Are Japanese drugstores worth visiting?"

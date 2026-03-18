@@ -4,7 +4,7 @@ description: "A local's detailed guide to visiting Fushimi Inari Taisha in Novem
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "I'm visiting Kyoto in November. When is the best time of day to visit Fushimi Inari to avoid crowds?"

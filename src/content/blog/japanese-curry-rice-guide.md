@@ -4,7 +4,7 @@ description: "A local explains Japanese curry culture. Different from Indian cur
 pubDate: 2026-08-14
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=1200"
-tags: ["Restaurant🍣"]
+tags: ["Restaurant"]
 ---
 
 > "What makes Japanese curry different?"

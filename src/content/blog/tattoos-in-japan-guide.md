@@ -4,7 +4,7 @@ description: "A local's honest guide to traveling in Japan with tattoos. What's 
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "My boyfriend has a lot of tattoos. Is it a good idea to bring him to Japan, or will it cause problems everywhere we go?"

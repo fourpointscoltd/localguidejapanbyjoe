@@ -4,7 +4,7 @@ description: "A local's list of essential apps for Japan travel. Only the ones y
 pubDate: 2026-03-01
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200"
-tags: ["Others🗾"]
+tags: ["Others"]
 ---
 
 > "What apps should I download before landing in Japan?"

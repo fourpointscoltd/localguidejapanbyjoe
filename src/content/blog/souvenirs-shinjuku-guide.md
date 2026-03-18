@@ -4,7 +4,7 @@ description: "Joe Tanaka answers: Best Place to Buy Souvenirs in Shinjuku"
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=1200"
-tags: ["Souvenirs👘"]
+tags: ["Souvenirs"]
 ---
 
 Shinjuku is actually a great place for souvenir shopping! Here are my local recommendations.

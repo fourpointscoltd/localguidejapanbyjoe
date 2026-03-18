@@ -4,7 +4,7 @@ description: "A local explains airport bus services and why reservations aren't 
 pubDate: 2026-12-22
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "How do airport limousine buses work? Do I need to make reservations?"

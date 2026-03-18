@@ -4,7 +4,7 @@ description: "A local explains why IC cards make Tokyo travel so much easier."
 pubDate: 2026-12-25
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "Why do I need a Suica or Pasmo card for Tokyo?"

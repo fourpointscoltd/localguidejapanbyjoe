@@ -4,7 +4,7 @@ description: "A local explains where to withdraw cash with overseas bank cards."
 pubDate: 2026-12-29
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "Are there specific ATMs in Japan that accept my foreign card?"

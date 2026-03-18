@@ -4,7 +4,7 @@ description: "A local's guide to Shibuya Sky tickets. Standard observation vs. s
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=1200"
-tags: ["TravelSpots🗼"]
+tags: ["TravelSpots"]
 ---
 
 > "I'm looking at Shibuya Sky tickets and there are different options. What's the difference between the regular observation ticket and the seat & drink ticket?"

@@ -4,7 +4,7 @@ description: "A local's complete guide to buying Shinkansen tickets from Osaka t
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=1200"
-tags: ["Transportation🚃"]
+tags: ["Transportation"]
 ---
 
 > "How do I buy bullet train (Shinkansen) tickets from Osaka to Tokyo? And should I fly instead?"
