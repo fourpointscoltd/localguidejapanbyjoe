@@ -1,5 +1,5 @@
 ---
-title: "Kamakura or Kawagoe for day trip from Asakusa and why? Thanks!"
+title: "Kamakura or Kawagoe for a Day Trip from Asakusa?"
 description: "Choose Kamakura for a nature-filled day by the sea or Kawagoe for a compact, cultural trip from Asakusa. Both offer unique charms."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

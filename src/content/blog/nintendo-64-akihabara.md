@@ -1,5 +1,5 @@
 ---
-title: "Where to find a Nintendo 64 in Tokyo? Thanks!"
+title: "Where Can I Find a Nintendo 64 in Tokyo?"
 description: "Find Nintendo 64 consoles in Tokyo’s Akihabara! Discover prices, top shops, game options, budget tips, and testing info for retro gaming gear."
 pubDate: 2025-07-30
 author: "Joe Tanaka"

@@ -1,5 +1,5 @@
 ---
-title: "Please recommend any must-see attractions in Osaka."
+title: "What Are the Must-See Attractions in Osaka?"
 description: "Discover Osaka’s vibrant charm beyond Universal Studios: explore local markets, street food, lively neighborhoods, and nearby day trips to Kyoto and Nara."
 pubDate: 2025-07-30
 author: "Joe Tanaka"

@@ -1,5 +1,5 @@
 ---
-title: "Seeking kaiseki recommendations or meals served in multiple mini bowls. Thanks!"
+title: "Where Can I Find Kaiseki or Multi-Course Meals in Japan?"
 description: "Discover the art of kaiseki dining in Japan! Explore casual spots like Zojirushi Shokudo and the high-end experience at RyuGin. Enjoy multiple mini dishes that reflect seasonal flavors and meticulous presentation!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

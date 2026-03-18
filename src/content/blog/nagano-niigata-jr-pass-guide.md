@@ -1,6 +1,6 @@
 ---
 title: "Places to Visit with Nagano/Niigata JR Pass"
-description: "Joe Tanaka answers: Places to Visit with Nagano/Niigata JR Pass"
+description: "Make the most of your Nagano/Niigata JR Pass with these local recommendations — from Zenkoji Temple to snow monkeys and beyond."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?w=1200"

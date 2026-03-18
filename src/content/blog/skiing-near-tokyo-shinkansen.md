@@ -1,6 +1,6 @@
 ---
 title: "Best Ski Place Within 2 Hours from Tokyo via Shinkansen?"
-description: "Joe Tanaka answers: Best Ski Place Within 2 Hours from Tokyo via Shinkansen?"
+description: "Looking for skiing accessible by Shinkansen from Tokyo? Here are the best options!"
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1200"

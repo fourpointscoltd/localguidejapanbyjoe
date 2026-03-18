@@ -1,6 +1,6 @@
 ---
 title: "Suggest One Thing to Do, See, Eat, or Stay in These Places"
-description: "Joe Tanaka answers: Suggest One Thing to Do, See, Eat, or Stay in These Places"
+description: "Planning a trip around Japan? Here are my personal recommendations for one standout experience in each major destination!"
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"

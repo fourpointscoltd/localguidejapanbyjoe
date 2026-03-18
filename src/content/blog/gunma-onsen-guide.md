@@ -1,5 +1,5 @@
 ---
-title: "Hi wondering if gunma is worth a visit for 1 day/night ?"
+title: "Is Gunma Worth a Visit for a Day Trip or Overnight Stay?"
 description: "Discover Gunma’s top onsen spots like Kusatsu and Ikaho, perfect for day trips or overnight stays to unwind in authentic hot springs."
 pubDate: 2025-07-30
 author: "Joe Tanaka"

@@ -1,5 +1,5 @@
 ---
-title: "Please recommend the top stationery stores in Tokyo for my daughter's wish list."
+title: "What Are the Best Stationery Stores in Tokyo for Kids?"
 description: "Looking for the best stationery in Tokyo? Visit Itoya in Ginza, Kakimori in Kuramae, and Loft for high-quality, cute, and unique items!"
 pubDate: 2025-03-24
 author: "Joe Tanaka"

@@ -1,6 +1,6 @@
 ---
-title: "Hi. I am looking forward to buy this grill. Where can i buy it in Tokyo? TIA"
-description: "Discover solutions to the \"Unexpected end of JSON input\" error and learn how to debug your code effectively. Fix this issue now!"
+title: "Where Can I Buy a Grill in Tokyo?"
+description: "Looking for a grill or cooking gear in Tokyo? Head to Kappabashi near Asakusa — a local's guide to Tokyo's best kitchenware shopping street."
 pubDate: 2025-07-22
 author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/30240j_short_rinji001_pixta.jpg"

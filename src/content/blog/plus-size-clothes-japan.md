@@ -1,6 +1,6 @@
 ---
 title: "Traveling to Japan Soon, Looking for Clothes in Size US Women's 12"
-description: "Joe Tanaka answers: Traveling to Japan Soon, Looking for Clothes in Size US Women's 12"
+description: "Here's what you should know from a local's perspective about finding larger sizes in Japan. Yes, it can be challenging."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200"

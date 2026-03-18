@@ -1,6 +1,6 @@
 ---
 title: "Should I Use a Travel Agent or Book Hotels Myself for Japan Trip?"
-description: "Joe Tanaka answers: Should I Use a Travel Agent or Book Hotels Myself for Japan Trip?"
+description: "Honestly, from my experience, there's really no need to go through a travel agent when booking hotels in Japan. I personally stay in Japanese hotels and..."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=1200"
