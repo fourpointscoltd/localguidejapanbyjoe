@@ -59,6 +59,7 @@ const others = sortedPrefs.filter(p => p.rating < 4);
                       <h3>{pref.name}</h3>
                     </div>
                     <p class="pref-card-cities">{pref.cities.join(' · ')}</p>
+                    <p class="pref-card-similar">🌍 Similar to: {pref.similarTo}</p>
                     <p class="pref-card-review">{pref.review}</p>
                     <div class="pref-card-tip">
                       <strong>Joe's Tip:</strong> {pref.localTip}
@@ -86,6 +87,7 @@ const others = sortedPrefs.filter(p => p.rating < 4);
                       <span class="compact-rating">{'★'.repeat(pref.rating)}{'☆'.repeat(5 - pref.rating)}</span>
                     </div>
                     <p class="pref-card-cities">{pref.cities.join(' · ')}</p>
+                    <p class="pref-card-similar">🌍 {pref.similarTo}</p>
                     <p class="pref-card-compact-review">{pref.review}</p>
                     <p class="pref-card-compact-tip"><strong>Tip:</strong> {pref.localTip}</p>
                   </div>
@@ -181,7 +183,8 @@ const others = sortedPrefs.filter(p => p.rating < 4);
   .pref-card-body { padding: 28px 32px; }
   .pref-card-ja { font-size: 1.3rem; color: var(--color-secondary-text); }
   .pref-card-header h3 { font-size: 2.2rem; margin: 2px 0 0; }
-  .pref-card-cities { font-size: 1.3rem; color: var(--color-secondary-text); margin: 4px 0 16px; }
+  .pref-card-cities { font-size: 1.3rem; color: var(--color-secondary-text); margin: 4px 0 8px; }
+  .pref-card-similar { font-size: 1.3rem; color: var(--color-accent); font-weight: 500; margin: 0 0 16px; }
   .pref-card-review { font-size: 1.5rem; line-height: 1.65; color: var(--color-primary-text); margin-bottom: 16px; }
   .pref-card-tip {
     font-size: 1.35rem;

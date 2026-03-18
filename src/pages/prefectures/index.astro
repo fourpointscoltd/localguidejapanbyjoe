@@ -90,6 +90,7 @@ import { prefectures, regions, getPrefecturesByRegion } from '../../data/prefect
                   <div class="pick-rating">{'★'.repeat(pref.rating)}</div>
                 </div>
                 <p class="pick-card-cities">{pref.cities.join(' · ')}</p>
+                <p class="pick-card-similar">🌍 Similar to: {pref.similarTo}</p>
                 <p class="pick-card-review">{pref.review}</p>
                 <div class="pick-card-tip">
                   <strong>Local Tip:</strong> {pref.localTip}
@@ -274,7 +275,8 @@ import { prefectures, regions, getPrefecturesByRegion } from '../../data/prefect
   .pick-card-ja { font-size: 1.2rem; color: var(--color-secondary-text); }
   .pick-card-header h3 { font-size: 2rem; margin: 0; }
   .pick-rating { color: var(--color-accent); font-size: 1.4rem; letter-spacing: 2px; margin-top: 4px; }
-  .pick-card-cities { font-size: 1.3rem; color: var(--color-secondary-text); margin: 4px 0 12px; }
+  .pick-card-cities { font-size: 1.3rem; color: var(--color-secondary-text); margin: 4px 0 6px; }
+  .pick-card-similar { font-size: 1.3rem; color: var(--color-accent); font-weight: 500; margin: 0 0 12px; }
   .pick-card-review { font-size: 1.5rem; line-height: 1.6; color: var(--color-primary-text); margin-bottom: 16px; }
   .pick-card-tip {
     font-size: 1.35rem;

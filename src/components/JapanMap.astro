@@ -74,6 +74,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
             data-cities={pref.cities.join(', ')}
             data-tip={pref.localTip}
             data-region={pref.region}
+            data-similar={pref.similarTo}
           />
         );
       })}
@@ -106,6 +107,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
       </div>
       <div class="mi-rating" id="mi-rating"></div>
       <p class="mi-cities" id="mi-cities"></p>
+      <p class="mi-similar" id="mi-similar"></p>
       <p class="mi-tip" id="mi-tip"></p>
       <a class="mi-link" id="mi-link" href="/prefectures">View Region Guide</a>
     </div>
@@ -118,6 +120,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
       </div>
       <div class="tt-rating" id="tt-rating"></div>
       <p class="tt-cities" id="tt-cities"></p>
+      <p class="tt-similar" id="tt-similar"></p>
       <p class="tt-tip" id="tt-tip"></p>
       <a class="tt-link" id="tt-link" href="/prefectures">View Region Guide</a>
     </div>
@@ -236,6 +239,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
       setText(prefix + '-name', el.getAttribute('data-name') || '');
       setText(prefix + '-rating', stars + ' (' + rating + '/5)');
       setText(prefix + '-cities', el.getAttribute('data-cities') || '');
+      setText(prefix + '-similar', '\u{1F30D} Similar to: ' + (el.getAttribute('data-similar') || ''));
       setText(prefix + '-tip', el.getAttribute('data-tip') || '');
 
       var link = document.getElementById(prefix + '-link');
@@ -378,6 +382,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
   .tt-name { font-size: 1.8rem; font-weight: 700; color: var(--color-primary, #1b2d3a); }
   .tt-rating { font-size: 1.4rem; color: var(--color-accent, #d4563a); letter-spacing: 1px; margin-bottom: 6px; }
   .tt-cities { font-size: 1.2rem; color: var(--color-secondary-text, #6b7280); margin: 0 0 8px; }
+  .tt-similar { font-size: 1.2rem; color: var(--color-accent, #d4563a); margin: 0 0 8px; font-weight: 500; }
   .tt-tip { font-size: 1.3rem; color: var(--color-primary-text, #333); line-height: 1.5; margin: 0; padding-top: 8px; border-top: 1px solid var(--color-border, #e8e5e0); }
   .tt-link {
     display: inline-block;
@@ -427,6 +432,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
   .mi-name { font-size: 1.8rem; font-weight: 700; color: var(--color-primary); }
   .mi-rating { font-size: 1.4rem; color: var(--color-accent); letter-spacing: 1px; margin-bottom: 6px; }
   .mi-cities { font-size: 1.2rem; color: var(--color-secondary-text); margin: 0 0 8px; }
+  .mi-similar { font-size: 1.2rem; color: var(--color-accent); margin: 0 0 8px; font-weight: 500; }
   .mi-tip { font-size: 1.3rem; line-height: 1.5; margin: 0 0 12px; border-top: 1px solid var(--color-border); padding-top: 8px; }
   .mi-link {
     display: inline-block;
