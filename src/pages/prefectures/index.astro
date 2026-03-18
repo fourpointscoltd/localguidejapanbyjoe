@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import JapanMap from '../../components/JapanMap.astro';
 import { prefectures, regions, getPrefecturesByRegion } from '../../data/prefectures';
 ---
 
@@ -30,6 +31,15 @@ import { prefectures, regions, getPrefecturesByRegion } from '../../data/prefect
         <div class="pref-hero-avatar">
           <img src="/images/profile_circle.png" alt="Joe Tanaka" />
         </div>
+      </div>
+    </section>
+
+    <!-- Interactive Map -->
+    <section class="map-section">
+      <div class="map-inner">
+        <h2 class="section-title">Interactive Map</h2>
+        <p class="section-subtitle">Hover over each prefecture to see my rating and local tip.</p>
+        <JapanMap />
       </div>
     </section>
 
@@ -120,6 +130,23 @@ import { prefectures, regions, getPrefecturesByRegion } from '../../data/prefect
 
 <style>
   .pref-page { background: var(--color-cream); }
+
+  /* Map */
+  .map-section { padding: 56px var(--gap) 32px; }
+  .map-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--color-white);
+    border-radius: var(--radius-lg);
+    padding: 36px;
+    box-shadow: var(--shadow-sm);
+  }
+  .map-section .section-title { margin-bottom: 8px; }
+  .map-section .section-subtitle { margin-bottom: 24px; }
+
+  @media (max-width: 600px) {
+    .map-inner { padding: 20px 16px; }
+  }
 
   /* Hero */
   .pref-hero {
