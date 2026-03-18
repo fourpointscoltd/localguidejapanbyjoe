@@ -1,56 +1,6 @@
 ---
 import { prefectures } from '../data/prefectures';
-
-// Approximate x,y positions for each prefecture on a 500x700 viewBox
-const positions: Record<string, { x: number; y: number }> = {
-  hokkaido:   { x: 380, y: 100 },
-  aomori:     { x: 355, y: 195 },
-  iwate:      { x: 375, y: 225 },
-  miyagi:     { x: 370, y: 260 },
-  akita:      { x: 340, y: 230 },
-  yamagata:   { x: 345, y: 265 },
-  fukushima:  { x: 355, y: 295 },
-  ibaraki:    { x: 370, y: 330 },
-  tochigi:    { x: 350, y: 315 },
-  gunma:      { x: 330, y: 305 },
-  saitama:    { x: 345, y: 340 },
-  chiba:      { x: 375, y: 355 },
-  tokyo:      { x: 355, y: 355 },
-  kanagawa:   { x: 355, y: 370 },
-  niigata:    { x: 315, y: 270 },
-  toyama:     { x: 280, y: 295 },
-  ishikawa:   { x: 265, y: 290 },
-  fukui:      { x: 255, y: 315 },
-  yamanashi:  { x: 330, y: 345 },
-  nagano:     { x: 310, y: 320 },
-  gifu:       { x: 275, y: 330 },
-  shizuoka:   { x: 315, y: 370 },
-  aichi:      { x: 280, y: 360 },
-  mie:        { x: 260, y: 375 },
-  shiga:      { x: 250, y: 340 },
-  kyoto:      { x: 235, y: 330 },
-  osaka:      { x: 240, y: 355 },
-  hyogo:      { x: 220, y: 345 },
-  nara:       { x: 245, y: 365 },
-  wakayama:   { x: 235, y: 385 },
-  tottori:    { x: 195, y: 325 },
-  shimane:    { x: 170, y: 330 },
-  okayama:    { x: 200, y: 345 },
-  hiroshima:  { x: 175, y: 350 },
-  yamaguchi:  { x: 150, y: 355 },
-  tokushima:  { x: 215, y: 380 },
-  kagawa:     { x: 210, y: 365 },
-  ehime:      { x: 190, y: 378 },
-  kochi:      { x: 195, y: 395 },
-  fukuoka:    { x: 130, y: 370 },
-  saga:       { x: 118, y: 378 },
-  nagasaki:   { x: 105, y: 385 },
-  kumamoto:   { x: 125, y: 400 },
-  oita:       { x: 145, y: 385 },
-  miyazaki:   { x: 145, y: 415 },
-  kagoshima:  { x: 120, y: 435 },
-  okinawa:    { x: 70,  y: 580 },
-};
+import { prefecturePaths, prefectureCentroids } from '../data/japan-map-paths';
 
 const ratingColors: Record<number, string> = {
   5: '#d4563a',
@@ -59,48 +9,86 @@ const ratingColors: Record<number, string> = {
   2: '#94a3b8',
   1: '#cbd5e1',
 };
+
+const ratingBorders: Record<number, string> = {
+  5: '#b8432a',
+  4: '#d49540',
+  3: '#4a8fc0',
+  2: '#7f8ea0',
+  1: '#adb5bd',
+};
+
+// Build lookup
+const prefMap = new Map(prefectures.map(p => [p.id, p]));
 ---
 
 <div class="japan-map-container">
   <div class="map-legend">
-    <h3>Rating</h3>
+    <h3>Joe's Rating</h3>
     <div class="legend-items">
       {[5, 4, 3, 2, 1].map(r => (
         <div class="legend-item">
           <span class="legend-dot" style={`background: ${ratingColors[r]}`}></span>
-          <span class="legend-label">{'★'.repeat(r)} ({r}/5)</span>
+          <span class="legend-label">{'★'.repeat(r)}{'☆'.repeat(5-r)}</span>
         </div>
       ))}
     </div>
+    <p class="legend-hint">Hover or tap a prefecture</p>
   </div>
 
   <div class="map-wrapper">
-    <svg viewBox="0 0 500 650" class="japan-svg" xmlns="http://www.w3.org/2000/svg">
-      {/* Japan outline - simplified */}
-      <path class="japan-outline" d="
-        M355,60 Q400,70 410,95 Q420,120 400,145 Q395,165 380,175
-        Q375,185 365,190 Q380,195 390,215 Q395,240 385,260
-        Q380,275 375,295 Q380,320 385,340 Q390,355 380,375
-        Q370,390 355,385 Q340,380 330,370 Q320,375 310,385
-        Q300,380 290,375 Q280,370 270,365 Q260,375 250,390
-        Q240,400 230,395 Q220,400 210,410 Q200,405 195,395
-        Q190,400 180,395 Q170,400 165,390 Q155,395 145,405
-        Q135,415 125,410 Q118,420 110,430 Q105,445 115,455
-        Q125,450 130,440 Q120,435 115,430
-        M70,555 Q55,565 60,580 Q65,595 80,600 Q95,590 90,575 Q85,560 70,555
-      " fill="none" stroke="var(--color-border, #e8e5e0)" stroke-width="1.5" />
+    <svg viewBox="-170 -30 570 730" class="japan-svg" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.15"/>
+        </filter>
+      </defs>
 
-      {prefectures.map((pref) => {
-        const pos = positions[pref.id];
-        if (!pos) return null;
+      {/* Okinawa box indicator */}
+      <rect x="-155" y="490" width="130" height="130" rx="8" fill="none" stroke="var(--color-border, #e8e5e0)" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="-90" y="510" text-anchor="middle" fill="var(--color-secondary-text, #6b7280)" font-size="10" font-weight="500">Okinawa</text>
+
+      {/* Render prefecture shapes */}
+      {Object.entries(prefecturePaths).map(([id, pathD]) => {
+        const pref = prefMap.get(id);
+        if (!pref) return null;
         const color = ratingColors[pref.rating];
-        const r = pref.rating >= 4 ? 12 : pref.rating >= 3 ? 9 : 7;
+        const border = ratingBorders[pref.rating];
         return (
-          <g class="map-marker" data-id={pref.id} data-name={pref.name} data-nameja={pref.nameJa} data-rating={pref.rating} data-cities={pref.cities.join(', ')} data-tip={pref.localTip}>
-            <circle cx={pos.x} cy={pos.y} r={r + 3} fill={color} opacity="0.2" class="marker-glow" />
-            <circle cx={pos.x} cy={pos.y} r={r} fill={color} stroke="white" stroke-width="2" class="marker-dot" />
-            <text x={pos.x} y={pos.y + 1} text-anchor="middle" dominant-baseline="central" fill="white" font-size={r > 9 ? "10" : "8"} font-weight="700" class="marker-text">{pref.rating}</text>
-          </g>
+          <path
+            class="pref-path"
+            id={`pref-${id}`}
+            d={pathD}
+            fill={color}
+            stroke="white"
+            stroke-width="0.8"
+            data-id={id}
+            data-name={pref.name}
+            data-nameja={pref.nameJa}
+            data-rating={pref.rating}
+            data-cities={pref.cities.join(', ')}
+            data-tip={pref.localTip}
+            data-region={pref.region}
+          />
+        );
+      })}
+
+      {/* Rating labels on larger prefectures */}
+      {Object.entries(prefectureCentroids).map(([id, pos]) => {
+        const pref = prefMap.get(id);
+        if (!pref) return null;
+        return (
+          <text
+            class="pref-label"
+            x={pos.x}
+            y={pos.y + 1}
+            text-anchor="middle"
+            dominant-baseline="central"
+            fill="white"
+            font-size="9"
+            font-weight="700"
+            style="pointer-events:none;text-shadow:0 1px 2px rgba(0,0,0,0.4)"
+          >{pref.rating}</text>
         );
       })}
     </svg>
@@ -109,51 +97,69 @@ const ratingColors: Record<number, string> = {
       <div class="tooltip-header">
         <span class="tooltip-ja" id="tooltip-ja"></span>
         <span class="tooltip-name" id="tooltip-name"></span>
-        <span class="tooltip-stars" id="tooltip-stars"></span>
       </div>
+      <div class="tooltip-rating" id="tooltip-rating"></div>
       <p class="tooltip-cities" id="tooltip-cities"></p>
       <p class="tooltip-tip" id="tooltip-tip"></p>
+      <a class="tooltip-link" id="tooltip-link" href="#">View Region Guide →</a>
     </div>
   </div>
 </div>
 
 <script>
-  const markers = document.querySelectorAll('.map-marker');
+  const paths = document.querySelectorAll('.pref-path');
   const tooltip = document.getElementById('map-tooltip');
   const tooltipJa = document.getElementById('tooltip-ja');
   const tooltipName = document.getElementById('tooltip-name');
-  const tooltipStars = document.getElementById('tooltip-stars');
+  const tooltipRating = document.getElementById('tooltip-rating');
   const tooltipCities = document.getElementById('tooltip-cities');
   const tooltipTip = document.getElementById('tooltip-tip');
+  const tooltipLink = document.getElementById('tooltip-link') as HTMLAnchorElement;
 
-  markers.forEach(marker => {
-    marker.addEventListener('mouseenter', (e) => {
+  paths.forEach(path => {
+    path.addEventListener('mouseenter', (e) => {
       const el = e.currentTarget as Element;
+      el.classList.add('active');
       const rating = parseInt(el.getAttribute('data-rating') || '0');
+      const region = el.getAttribute('data-region') || '';
+
       if (tooltipJa) tooltipJa.textContent = el.getAttribute('data-nameja') || '';
       if (tooltipName) tooltipName.textContent = el.getAttribute('data-name') || '';
-      if (tooltipStars) tooltipStars.textContent = '★'.repeat(rating) + '☆'.repeat(5 - rating);
+      if (tooltipRating) tooltipRating.textContent = '★'.repeat(rating) + '☆'.repeat(5 - rating) + ` (${rating}/5)`;
       if (tooltipCities) tooltipCities.textContent = el.getAttribute('data-cities') || '';
       if (tooltipTip) tooltipTip.textContent = el.getAttribute('data-tip') || '';
+      if (tooltipLink) tooltipLink.href = `/prefectures/${region}`;
       if (tooltip) tooltip.classList.add('visible');
     });
 
-    marker.addEventListener('mousemove', (e) => {
+    path.addEventListener('mousemove', (e) => {
       if (!tooltip) return;
       const mapWrapper = document.querySelector('.map-wrapper');
       if (!mapWrapper) return;
       const rect = mapWrapper.getBoundingClientRect();
-      const mouseEvent = e as MouseEvent;
-      let x = mouseEvent.clientX - rect.left + 16;
-      let y = mouseEvent.clientY - rect.top - 8;
-      if (x + 280 > rect.width) x = x - 296;
-      if (y + 160 > rect.height) y = y - 160;
+      const me = e as MouseEvent;
+      let x = me.clientX - rect.left + 20;
+      let y = me.clientY - rect.top - 10;
+      if (x + 300 > rect.width) x = me.clientX - rect.left - 310;
+      if (y + 200 > rect.height) y = rect.height - 210;
+      if (y < 0) y = 10;
       tooltip.style.left = x + 'px';
       tooltip.style.top = y + 'px';
     });
 
-    marker.addEventListener('mouseleave', () => {
+    path.addEventListener('mouseleave', (e) => {
+      (e.currentTarget as Element).classList.remove('active');
       if (tooltip) tooltip.classList.remove('visible');
+    });
+
+    // Mobile tap
+    path.addEventListener('click', (e) => {
+      const el = e.currentTarget as Element;
+      const region = el.getAttribute('data-region') || '';
+      // On mobile, navigate to region
+      if (window.innerWidth < 768) {
+        window.location.href = `/prefectures/${region}`;
+      }
     });
   });
 </script>
@@ -161,14 +167,14 @@ const ratingColors: Record<number, string> = {
 <style>
   .japan-map-container {
     display: flex;
-    gap: 24px;
+    gap: 20px;
     align-items: flex-start;
   }
 
   .map-legend {
     flex-shrink: 0;
-    width: 140px;
-    padding-top: 24px;
+    width: 130px;
+    padding-top: 16px;
   }
 
   .map-legend h3 {
@@ -180,7 +186,7 @@ const ratingColors: Record<number, string> = {
   .legend-items {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
   }
 
   .legend-item {
@@ -190,22 +196,29 @@ const ratingColors: Record<number, string> = {
   }
 
   .legend-dot {
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
     flex-shrink: 0;
   }
 
   .legend-label {
     font-size: 1.2rem;
     color: var(--color-primary-text);
-    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+
+  .legend-hint {
+    font-size: 1.1rem;
+    color: var(--color-secondary-text);
+    margin-top: 16px;
+    font-style: italic;
   }
 
   .map-wrapper {
     position: relative;
     flex: 1;
-    max-width: 600px;
+    max-width: 560px;
   }
 
   .japan-svg {
@@ -213,37 +226,34 @@ const ratingColors: Record<number, string> = {
     height: auto;
   }
 
-  .map-marker {
+  .pref-path {
     cursor: pointer;
-    transition: transform 0.2s;
+    transition: opacity 0.15s, filter 0.15s, transform 0.15s;
+    stroke-linejoin: round;
   }
 
-  .map-marker:hover .marker-dot {
-    filter: brightness(1.15);
+  .pref-path:hover,
+  .pref-path.active {
+    opacity: 0.85;
+    filter: brightness(1.1) drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+    stroke-width: 1.5;
+    stroke: white;
   }
 
-  .map-marker:hover .marker-glow {
-    opacity: 0.4;
-    r: 20;
-  }
-
-  .marker-glow {
-    transition: opacity 0.2s, r 0.2s;
-  }
-
-  .marker-text {
+  .pref-label {
     pointer-events: none;
     user-select: none;
   }
 
+  /* Tooltip */
   .map-tooltip {
     position: absolute;
-    background: var(--color-white, white);
+    background: white;
     border: 1px solid var(--color-border, #e8e5e0);
     border-radius: 12px;
-    padding: 16px;
-    width: 280px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    padding: 16px 18px;
+    width: 290px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18);
     pointer-events: none;
     opacity: 0;
     transform: translateY(4px);
@@ -259,26 +269,26 @@ const ratingColors: Record<number, string> = {
   .tooltip-header {
     display: flex;
     align-items: baseline;
-    gap: 6px;
-    flex-wrap: wrap;
-    margin-bottom: 6px;
+    gap: 8px;
+    margin-bottom: 4px;
   }
 
   .tooltip-ja {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: var(--color-secondary-text, #6b7280);
   }
 
   .tooltip-name {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-weight: 700;
     color: var(--color-primary, #1b2d3a);
   }
 
-  .tooltip-stars {
-    font-size: 1.3rem;
+  .tooltip-rating {
+    font-size: 1.4rem;
     color: var(--color-accent, #d4563a);
     letter-spacing: 1px;
+    margin-bottom: 6px;
   }
 
   .tooltip-cities {
@@ -290,10 +300,24 @@ const ratingColors: Record<number, string> = {
   .tooltip-tip {
     font-size: 1.3rem;
     color: var(--color-primary-text, #333);
-    line-height: 1.45;
+    line-height: 1.5;
     margin: 0;
-    border-top: 1px solid var(--color-border, #e8e5e0);
     padding-top: 8px;
+    border-top: 1px solid var(--color-border, #e8e5e0);
+  }
+
+  .tooltip-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--color-accent, #d4563a);
+    pointer-events: auto;
+  }
+
+  .tooltip-link:hover {
+    opacity: 1;
+    text-decoration: underline;
   }
 
   @media (max-width: 767px) {
@@ -309,15 +333,17 @@ const ratingColors: Record<number, string> = {
     .legend-items {
       flex-direction: row;
       flex-wrap: wrap;
-      gap: 12px;
+      gap: 10px;
     }
+
+    .legend-hint { display: none; }
 
     .map-wrapper {
       max-width: 100%;
     }
 
     .map-tooltip {
-      display: none;
+      display: none !important;
     }
   }
 </style>
