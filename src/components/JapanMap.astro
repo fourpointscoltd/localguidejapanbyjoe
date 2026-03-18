@@ -10,28 +10,21 @@ const ratingColors: Record<number, string> = {
   1: '#cbd5e1',
 };
 
-const regionViewBoxes: Record<string, string> = {
-  'all': '-170 0 810 720',
-  'hokkaido': '320 -18 325 195',
-  'tohoku': '280 114 180 210',
-  'kanto': '255 255 180 160',
-  'chubu': '190 220 200 190',
-  'kansai': '155 300 145 130',
-  'chugoku': '55 285 170 130',
-  'shikoku': '95 340 140 110',
-  'kyushu-okinawa': '-172 335 340 400',
-};
-
 const prefMap = new Map(prefectures.map(p => [p.id, p]));
 ---
 
 <div class="japan-map-container">
   <!-- Region Tabs -->
-  <div class="map-tabs" id="map-tabs">
-    <button class="map-tab active" data-region="all">All Japan</button>
-    {regions.map((r) => (
-      <button class="map-tab" data-region={r.id}>{r.name}</button>
-    ))}
+  <div class="map-tabs">
+    <button class="map-tab active" data-region="all" data-vb="-170 0 810 720">All Japan</button>
+    <button class="map-tab" data-region="hokkaido" data-vb="320 -18 325 195">Hokkaido</button>
+    <button class="map-tab" data-region="tohoku" data-vb="280 114 180 210">Tohoku</button>
+    <button class="map-tab" data-region="kanto" data-vb="255 255 180 160">Kanto</button>
+    <button class="map-tab" data-region="chubu" data-vb="190 220 200 190">Chubu</button>
+    <button class="map-tab" data-region="kansai" data-vb="155 300 145 130">Kansai</button>
+    <button class="map-tab" data-region="chugoku" data-vb="55 285 170 130">Chugoku</button>
+    <button class="map-tab" data-region="shikoku" data-vb="95 340 140 110">Shikoku</button>
+    <button class="map-tab" data-region="kyushu-okinawa" data-vb="-172 335 340 400">Kyushu</button>
   </div>
 
   <!-- Legend -->
@@ -70,7 +63,6 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
         return (
           <path
             class="pref-path"
-            id={`pref-${id}`}
             d={pathD}
             fill={color}
             stroke="white"
@@ -78,7 +70,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
             data-id={id}
             data-name={pref.name}
             data-nameja={pref.nameJa}
-            data-rating={pref.rating}
+            data-rating={String(pref.rating)}
             data-cities={pref.cities.join(', ')}
             data-tip={pref.localTip}
             data-region={pref.region}
@@ -105,164 +97,155 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
       })}
     </svg>
 
-    <!-- Mobile info card (shows on tap) -->
+    <!-- Mobile bottom sheet -->
     <div class="mobile-info" id="mobile-info">
-      <button class="mobile-info-close" id="mobile-info-close">&times;</button>
-      <div class="mobile-info-header">
-        <span class="mobile-info-ja" id="mobile-info-ja"></span>
-        <span class="mobile-info-name" id="mobile-info-name"></span>
+      <button class="mobile-info-close" id="mobile-info-close" aria-label="Close">&times;</button>
+      <div class="mi-header">
+        <span class="mi-ja" id="mi-ja"></span>
+        <span class="mi-name" id="mi-name"></span>
       </div>
-      <div class="mobile-info-rating" id="mobile-info-rating"></div>
-      <p class="mobile-info-cities" id="mobile-info-cities"></p>
-      <p class="mobile-info-tip" id="mobile-info-tip"></p>
-      <a class="mobile-info-link" id="mobile-info-link" href="#">View Region Guide →</a>
+      <div class="mi-rating" id="mi-rating"></div>
+      <p class="mi-cities" id="mi-cities"></p>
+      <p class="mi-tip" id="mi-tip"></p>
+      <a class="mi-link" id="mi-link" href="/prefectures">View Region Guide</a>
     </div>
 
     <!-- Desktop tooltip -->
     <div class="map-tooltip" id="map-tooltip">
-      <div class="tooltip-header">
-        <span class="tooltip-ja" id="tooltip-ja"></span>
-        <span class="tooltip-name" id="tooltip-name"></span>
+      <div class="tt-header">
+        <span class="tt-ja" id="tt-ja"></span>
+        <span class="tt-name" id="tt-name"></span>
       </div>
-      <div class="tooltip-rating" id="tooltip-rating"></div>
-      <p class="tooltip-cities" id="tooltip-cities"></p>
-      <p class="tooltip-tip" id="tooltip-tip"></p>
-      <a class="tooltip-link" id="tooltip-link" href="#">View Region Guide →</a>
+      <div class="tt-rating" id="tt-rating"></div>
+      <p class="tt-cities" id="tt-cities"></p>
+      <p class="tt-tip" id="tt-tip"></p>
+      <a class="tt-link" id="tt-link" href="/prefectures">View Region Guide</a>
     </div>
   </div>
 </div>
 
-<script define:vars={{ regionViewBoxes }}>
-  const svg = document.getElementById('japan-svg');
-  const paths = document.querySelectorAll('.pref-path');
-  const tabs = document.querySelectorAll('.map-tab');
-  const tooltip = document.getElementById('map-tooltip');
-  const mobileInfo = document.getElementById('mobile-info');
-  let currentRegion = 'all';
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var svg = document.getElementById('japan-svg');
+    var allPaths = document.querySelectorAll('.pref-path');
+    var allTabs = document.querySelectorAll('.map-tab');
+    var allLabels = document.querySelectorAll('.pref-label');
+    var tooltip = document.getElementById('map-tooltip');
+    var mobileInfo = document.getElementById('mobile-info');
 
-  // Tab switching with animated zoom
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      const region = tab.getAttribute('data-region') || 'all';
-      currentRegion = region;
+    // --- TABS ---
+    allTabs.forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        var region = this.getAttribute('data-region');
+        var vb = this.getAttribute('data-vb');
 
-      // Update active tab
-      tabs.forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
+        // Active state
+        allTabs.forEach(function(t) { t.classList.remove('active'); });
+        this.classList.add('active');
 
-      // Animate viewBox
-      if (svg) {
-        svg.style.transition = 'none';
-        svg.setAttribute('viewBox', regionViewBoxes[region] || regionViewBoxes['all']);
-      }
-
-      // Dim non-region prefectures
-      paths.forEach(p => {
-        const prefRegion = p.getAttribute('data-region');
-        if (region === 'all') {
-          p.classList.remove('dimmed');
-        } else {
-          p.classList.toggle('dimmed', prefRegion !== region);
+        // Zoom
+        if (svg && vb) {
+          svg.setAttribute('viewBox', vb);
         }
+
+        // Dim others
+        allPaths.forEach(function(p) {
+          var pr = p.getAttribute('data-region');
+          if (region === 'all') {
+            p.classList.remove('dimmed');
+          } else {
+            if (pr === region) {
+              p.classList.remove('dimmed');
+            } else {
+              p.classList.add('dimmed');
+            }
+          }
+        });
+
+        // Labels
+        allLabels.forEach(function(l) {
+          var lr = l.getAttribute('data-region');
+          if (region === 'all') {
+            l.style.display = '';
+          } else {
+            l.style.display = (lr === region) ? '' : 'none';
+          }
+        });
+
+        // Close mobile info
+        if (mobileInfo) mobileInfo.classList.remove('visible');
+      });
+    });
+
+    // --- PREFECTURE INTERACTION ---
+    var isMobile = function() { return window.innerWidth < 768; };
+
+    allPaths.forEach(function(path) {
+      // Desktop hover
+      path.addEventListener('mouseenter', function(e) {
+        if (isMobile()) return;
+        this.classList.add('active');
+        fillTooltip(this, 'tt');
+        if (tooltip) tooltip.classList.add('visible');
       });
 
-      // Update labels visibility
-      document.querySelectorAll('.pref-label').forEach(l => {
-        const lr = l.getAttribute('data-region');
-        if (region === 'all') {
-          (l as HTMLElement).style.display = '';
-        } else {
-          (l as HTMLElement).style.display = lr === region ? '' : 'none';
-        }
+      path.addEventListener('mousemove', function(e) {
+        if (isMobile() || !tooltip) return;
+        var wrapper = document.querySelector('.map-wrapper');
+        if (!wrapper) return;
+        var rect = wrapper.getBoundingClientRect();
+        var x = e.clientX - rect.left + 20;
+        var y = e.clientY - rect.top - 10;
+        if (x + 300 > rect.width) x = e.clientX - rect.left - 310;
+        if (y + 200 > rect.height) y = rect.height - 210;
+        if (y < 0) y = 10;
+        tooltip.style.left = x + 'px';
+        tooltip.style.top = y + 'px';
       });
 
-      // Close mobile info
-      if (mobileInfo) mobileInfo.classList.remove('visible');
-    });
-  });
+      path.addEventListener('mouseleave', function() {
+        if (isMobile()) return;
+        this.classList.remove('active');
+        if (tooltip) tooltip.classList.remove('visible');
+      });
 
-  // Desktop hover
-  const isMobile = () => window.innerWidth < 768;
-
-  paths.forEach(path => {
-    path.addEventListener('mouseenter', (e) => {
-      if (isMobile()) return;
-      const el = e.currentTarget as Element;
-      el.classList.add('active');
-      showTooltipData(el);
-      if (tooltip) tooltip.classList.add('visible');
+      // Mobile tap
+      path.addEventListener('click', function(e) {
+        if (!isMobile()) return;
+        fillTooltip(this, 'mi');
+        if (mobileInfo) mobileInfo.classList.add('visible');
+      });
     });
 
-    path.addEventListener('mousemove', (e) => {
-      if (isMobile() || !tooltip) return;
-      const mapWrapper = document.querySelector('.map-wrapper');
-      if (!mapWrapper) return;
-      const rect = mapWrapper.getBoundingClientRect();
-      const me = e as MouseEvent;
-      let x = me.clientX - rect.left + 20;
-      let y = me.clientY - rect.top - 10;
-      if (x + 300 > rect.width) x = me.clientX - rect.left - 310;
-      if (y + 200 > rect.height) y = rect.height - 210;
-      if (y < 0) y = 10;
-      tooltip.style.left = x + 'px';
-      tooltip.style.top = y + 'px';
-    });
+    // Close mobile info
+    var closeBtn = document.getElementById('mobile-info-close');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', function() {
+        if (mobileInfo) mobileInfo.classList.remove('visible');
+      });
+    }
 
-    path.addEventListener('mouseleave', (e) => {
-      if (isMobile()) return;
-      (e.currentTarget as Element).classList.remove('active');
-      if (tooltip) tooltip.classList.remove('visible');
-    });
+    function fillTooltip(el, prefix) {
+      var rating = parseInt(el.getAttribute('data-rating') || '0');
+      var region = el.getAttribute('data-region') || '';
+      var stars = '';
+      for (var i = 0; i < rating; i++) stars += '\u2605';
+      for (var i = rating; i < 5; i++) stars += '\u2606';
 
-    // Mobile tap -> show info card
-    path.addEventListener('click', (e) => {
-      if (!isMobile()) return;
-      e.preventDefault();
-      const el = e.currentTarget as Element;
-      showMobileInfo(el);
-    });
-  });
+      setText(prefix + '-ja', el.getAttribute('data-nameja') || '');
+      setText(prefix + '-name', el.getAttribute('data-name') || '');
+      setText(prefix + '-rating', stars + ' (' + rating + '/5)');
+      setText(prefix + '-cities', el.getAttribute('data-cities') || '');
+      setText(prefix + '-tip', el.getAttribute('data-tip') || '');
 
-  function showTooltipData(el: Element) {
-    const rating = parseInt(el.getAttribute('data-rating') || '0');
-    const region = el.getAttribute('data-region') || '';
-    const stars = '★'.repeat(rating) + '☆'.repeat(5 - rating);
+      var link = document.getElementById(prefix + '-link');
+      if (link) link.setAttribute('href', '/prefectures/' + region);
+    }
 
-    const set = (id: string, val: string) => {
-      const e = document.getElementById(id);
-      if (e) e.textContent = val;
-    };
-    set('tooltip-ja', el.getAttribute('data-nameja') || '');
-    set('tooltip-name', el.getAttribute('data-name') || '');
-    set('tooltip-rating', stars + ` (${rating}/5)`);
-    set('tooltip-cities', el.getAttribute('data-cities') || '');
-    set('tooltip-tip', el.getAttribute('data-tip') || '');
-    const link = document.getElementById('tooltip-link') as HTMLAnchorElement;
-    if (link) link.href = `/prefectures/${region}`;
-  }
-
-  function showMobileInfo(el: Element) {
-    const rating = parseInt(el.getAttribute('data-rating') || '0');
-    const region = el.getAttribute('data-region') || '';
-    const stars = '★'.repeat(rating) + '☆'.repeat(5 - rating);
-
-    const set = (id: string, val: string) => {
-      const e = document.getElementById(id);
-      if (e) e.textContent = val;
-    };
-    set('mobile-info-ja', el.getAttribute('data-nameja') || '');
-    set('mobile-info-name', el.getAttribute('data-name') || '');
-    set('mobile-info-rating', stars + ` (${rating}/5)`);
-    set('mobile-info-cities', el.getAttribute('data-cities') || '');
-    set('mobile-info-tip', el.getAttribute('data-tip') || '');
-    const link = document.getElementById('mobile-info-link') as HTMLAnchorElement;
-    if (link) link.href = `/prefectures/${region}`;
-    if (mobileInfo) mobileInfo.classList.add('visible');
-  }
-
-  // Close mobile info
-  document.getElementById('mobile-info-close')?.addEventListener('click', () => {
-    if (mobileInfo) mobileInfo.classList.remove('visible');
+    function setText(id, val) {
+      var el = document.getElementById(id);
+      if (el) el.textContent = val;
+    }
   });
 </script>
 
@@ -309,11 +292,7 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     color: white;
   }
 
-  /* Legend - horizontal */
-  .map-legend {
-    padding: 0;
-  }
-
+  /* Legend */
   .legend-items {
     display: flex;
     flex-wrap: wrap;
@@ -348,7 +327,6 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     width: 100%;
     height: auto;
     max-height: 520px;
-    transition: viewBox 0.4s ease;
   }
 
   .pref-path {
@@ -365,8 +343,8 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
   }
 
   .pref-path.dimmed {
-    opacity: 0.15;
-    filter: saturate(0.3);
+    opacity: 0.12;
+    filter: saturate(0.2);
   }
 
   .pref-label {
@@ -395,47 +373,13 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     transform: translateY(0);
   }
 
-  .tooltip-header {
-    display: flex;
-    align-items: baseline;
-    gap: 8px;
-    margin-bottom: 4px;
-  }
-
-  .tooltip-ja {
-    font-size: 1.4rem;
-    color: var(--color-secondary-text, #6b7280);
-  }
-
-  .tooltip-name {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: var(--color-primary, #1b2d3a);
-  }
-
-  .tooltip-rating {
-    font-size: 1.4rem;
-    color: var(--color-accent, #d4563a);
-    letter-spacing: 1px;
-    margin-bottom: 6px;
-  }
-
-  .tooltip-cities {
-    font-size: 1.2rem;
-    color: var(--color-secondary-text, #6b7280);
-    margin: 0 0 8px;
-  }
-
-  .tooltip-tip {
-    font-size: 1.3rem;
-    color: var(--color-primary-text, #333);
-    line-height: 1.5;
-    margin: 0;
-    padding-top: 8px;
-    border-top: 1px solid var(--color-border, #e8e5e0);
-  }
-
-  .tooltip-link {
+  .tt-header { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+  .tt-ja { font-size: 1.4rem; color: var(--color-secondary-text, #6b7280); }
+  .tt-name { font-size: 1.8rem; font-weight: 700; color: var(--color-primary, #1b2d3a); }
+  .tt-rating { font-size: 1.4rem; color: var(--color-accent, #d4563a); letter-spacing: 1px; margin-bottom: 6px; }
+  .tt-cities { font-size: 1.2rem; color: var(--color-secondary-text, #6b7280); margin: 0 0 8px; }
+  .tt-tip { font-size: 1.3rem; color: var(--color-primary-text, #333); line-height: 1.5; margin: 0; padding-top: 8px; border-top: 1px solid var(--color-border, #e8e5e0); }
+  .tt-link {
     display: inline-block;
     margin-top: 10px;
     font-size: 1.2rem;
@@ -443,22 +387,18 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     color: var(--color-accent, #d4563a);
     pointer-events: auto;
   }
+  .tt-link:hover { opacity: 1; text-decoration: underline; }
 
-  .tooltip-link:hover {
-    opacity: 1;
-    text-decoration: underline;
-  }
-
-  /* Mobile Info Card */
+  /* Mobile Bottom Sheet */
   .mobile-info {
     display: none;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
     background: white;
     border-radius: 16px 16px 0 0;
-    padding: 20px;
+    padding: 20px 20px 28px;
     box-shadow: 0 -4px 24px rgba(0,0,0,0.15);
     z-index: 200;
     transform: translateY(100%);
@@ -479,22 +419,16 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     color: var(--color-secondary-text);
     cursor: pointer;
     line-height: 1;
-    padding: 0;
+    padding: 4px;
   }
 
-  .mobile-info-header {
-    display: flex;
-    align-items: baseline;
-    gap: 8px;
-    margin-bottom: 4px;
-  }
-
-  .mobile-info-ja { font-size: 1.4rem; color: var(--color-secondary-text); }
-  .mobile-info-name { font-size: 1.8rem; font-weight: 700; color: var(--color-primary); }
-  .mobile-info-rating { font-size: 1.4rem; color: var(--color-accent); letter-spacing: 1px; margin-bottom: 6px; }
-  .mobile-info-cities { font-size: 1.2rem; color: var(--color-secondary-text); margin: 0 0 8px; }
-  .mobile-info-tip { font-size: 1.3rem; line-height: 1.5; margin: 0 0 12px; border-top: 1px solid var(--color-border); padding-top: 8px; }
-  .mobile-info-link {
+  .mi-header { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+  .mi-ja { font-size: 1.4rem; color: var(--color-secondary-text); }
+  .mi-name { font-size: 1.8rem; font-weight: 700; color: var(--color-primary); }
+  .mi-rating { font-size: 1.4rem; color: var(--color-accent); letter-spacing: 1px; margin-bottom: 6px; }
+  .mi-cities { font-size: 1.2rem; color: var(--color-secondary-text); margin: 0 0 8px; }
+  .mi-tip { font-size: 1.3rem; line-height: 1.5; margin: 0 0 12px; border-top: 1px solid var(--color-border); padding-top: 8px; }
+  .mi-link {
     display: inline-block;
     font-size: 1.3rem;
     font-weight: 600;
@@ -503,29 +437,16 @@ const prefMap = new Map(prefectures.map(p => [p.id, p]));
     border: 2px solid var(--color-accent);
     border-radius: 100px;
   }
+  .mi-link:hover { background: var(--color-accent); color: white; opacity: 1; }
 
   @media (max-width: 767px) {
-    .map-tab {
-      padding: 7px 14px;
-      font-size: 1.2rem;
-    }
-
-    .map-tooltip {
-      display: none !important;
-    }
-
-    .mobile-info {
-      display: block;
-    }
-
-    .japan-svg {
-      max-height: 400px;
-    }
+    .map-tab { padding: 7px 14px; font-size: 1.2rem; }
+    .map-tooltip { display: none !important; }
+    .mobile-info { display: block; }
+    .japan-svg { max-height: 400px; }
   }
 
   @media (min-width: 768px) {
-    .mobile-info {
-      display: none !important;
-    }
+    .mobile-info { display: none !important; }
   }
 </style>
