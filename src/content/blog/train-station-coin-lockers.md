@@ -5,6 +5,7 @@ pubDate: 2025-07-25
 author: "Joe Tanaka"
 tags: ["Others"]
 ---
+> "What is the size of train station coin lockers and availability?"
 
 Great question! From my experience traveling all over Japan, coin lockers at train stations come in three basic sizes: small, medium, and large. Even the smallest lockers are usually big enough to fit a standard suitcase, which surprised me the first time I checked. I actually measured some before to be sure because these lockers are super popular and sometimes hard to find during busy travel seasons.
 
@@ -53,3 +54,7 @@ Japanese culture values efficiency and neatness, so coin lockers help keep stati
 ---
 
 **In summary:** Coin lockers are a staple of Japanese travel life, and even the smallest size can fit standard luggage. Prices are reasonable and vary by size. If you can’t find one right away, check different locker spots or consider luggage delivery services. Having some coins ready is helpful, but major stations are slowly catching up with card payments. For longer stays, dedicated luggage storage is a better bet. This system reflects the Japanese love for order and convenience—even in everyday things like storing your bags!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

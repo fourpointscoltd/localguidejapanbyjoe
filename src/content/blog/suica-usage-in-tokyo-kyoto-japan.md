@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30840j_short_rinji_001_pixta.jpg"
 tags: ["Transportation"]
 ---
+> "Can we use Suica at Tokyo and Kyoto and other areas?"
 
 ### Conclusion
 
@@ -89,3 +90,7 @@ And if you have an iPhone or Android, you can add **Suica to your phone** with A
 - **Check for the “IC” symbol** on buses, taxis, and shops
 - **You don’t need to tap out** if you’re only shopping (just tap to pay)
 - **No need to get a new card** for each region — Suica works almost everywhere
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

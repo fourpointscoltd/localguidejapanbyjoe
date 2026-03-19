@@ -35,3 +35,7 @@ Locals often visit Narita-san for more than just sightseeing—they might pray f
 
 ---
 So, to sum up, if you want the fastest and most straightforward route from Ginza to Narita-san, head to Higashi-Ginza Station and take a direct train to Narita Station. Leave your luggage in the lockers there and enjoy the temple without the extra legwork of detouring through the airport. It’s a little-known but local favorite way to experience this iconic spot.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

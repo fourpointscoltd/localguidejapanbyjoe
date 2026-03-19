@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/20231024_130422_7fb17ab0_w1920.webp"
 tags: ["Daytrip"]
 ---
+> "Is Nikko worth visiting compared to Kyoto?"
 
 ### Conclusion
 
@@ -49,3 +50,7 @@ It’s perfect for anyone who wants to **slow down and relax** while still seein
 - **Autumn is peak season** — book accommodation early 🍂
 - **Wear layers** — the mountain climate can change quickly
 - **Less English signage** compared to Kyoto — have a translation app ready
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,9 +6,6 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1539606420556-14c457c45507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNsZWVwaW5nJTIwcG9kJTIwSmFwYW58ZW58MHx8fHwxNzUzNDk4OTA2fDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
-
-Are kids allowed in capsule hotels? Specifically for a mom and son.
-
 Great question! From my personal experience and what I know from Japanese capsule hotels, the short answer is: usually no, especially if your son is under 13 years old. Capsule hotels in Japan tend to have strict age limits—typically you need to be at least 13 years old to stay, even if accompanied by a parent.
 
 Why is that? Capsule hotels were originally designed for salarymen or travelers who missed the last train home. The rooms are tiny, very communal, and separated by gender. For instance, men and women stay in completely separate floors or sections. Plus, inside the capsule space itself, you aren’t really supposed to talk or hang out—it’s basically a compact sleeping pod. So it’s not built with families or kids in mind.
@@ -42,3 +39,7 @@ Most Japanese families stay in regular hotels, ryokans (traditional inns), or mi
 In summary: capsule hotels are generally off-limits for kids under 13, even with parents. They’re designed for solo adult travelers with strict gender separation and quiet, minimal spaces. For a mom traveling with her son, regular hotels or family-friendly inns will be much more comfortable and culturally appropriate. If your child is a teenager, some capsule hotels might welcome you both, but expect separate floors and no shared capsules. The “real” Japanese experience for families is staying in traditional or business hotels that offer more space and flexibility.
 
 If you’re curious about capsule hotels as an adult traveler, I’m happy to share my favorite spots! But for families, I’d stick to something more conventional.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

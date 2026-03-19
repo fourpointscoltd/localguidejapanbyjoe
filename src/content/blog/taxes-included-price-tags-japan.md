@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30370j_short_rinji_001_pixta.webp"
 tags: ["Money"]
 ---
+> "Are taxes included in the displayed price when it comes to price tags in stores?"
 
 ## General Answer
 
@@ -20,3 +21,7 @@ Personally, I find the consistent total price display convenient, especially in 
 ## A Local’s Real Perspective
 
 While the rule clarifies price tags in most stores, many restaurants have their own fee structures. The Otoshi (お通し:table charge) system is practically a seat charge bundled with a small appetizer. It might feel unusual for first-time visitors to Japan, but it’s standard practice here.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

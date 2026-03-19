@@ -50,3 +50,7 @@ That said, some rural lines or small buses still only accept cash, so it’s goo
 To sum up, Suica is a fantastic, everyday tool for getting around and making small purchases in Japan. Japanese people rely on it every day for commuting and quick shopping. But when it comes to charging money, the easiest way is still to use cash at stations or convenience stores. The app-based credit card charge options are improving but can be a bit complicated for tourists without a Japanese phone setup.
 
 If you’re planning a trip, I’d recommend picking up a plastic Suica card at the airport or a major train station, loading it with some cash, and then topping it up as needed during your stay. It’s part of the real Japanese daily experience—just like locals do.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -41,3 +41,7 @@ Also, Okinawans have a strong sense of community and respect for nature. Visitin
 
 ---
 Okinawa truly feels like a world of its own within Japan. For a visitor, blending the usual sightseeing with these local experiences can reveal a side of Japan that’s rarely seen but deeply rewarding. Whether it’s the food, the music, or the pace of life, Okinawa invites you to slow down and enjoy things in a way that leaves a lasting impression.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

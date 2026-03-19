@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30290j_short_rinji_001_pixta.jpg-1.jpg"
 tags: ["Events"]
 ---
+> "Sumo wrestling, how far in advance do they sell out?"
 
 ### **General Answer**
 
@@ -26,3 +27,7 @@ If you want **ringside seats (sand seats) or premium box seats**, you need to **
 - Check **resale tickets** (some cancellations may become available).
 
 If you struggle to get tickets in Tokyo, try tournaments in **Osaka, Nagoya, or Fukuoka**, where demand is slightly lower.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

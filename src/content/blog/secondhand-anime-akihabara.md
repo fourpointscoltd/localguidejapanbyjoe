@@ -42,3 +42,7 @@ Big figures can be tricky due to size and fragility. Japanese people often use p
 
 ---
 Akihabara’s secondhand anime scene is a real window into how Japanese fans enjoy their hobbies—careful collectors hunting through specialized shops, balancing passion with practicality. Even if you’re just browsing, watching how locals interact with their favorite items gives a glimpse of the deep respect and enthusiasm anime culture inspires here. And if you do decide to buy, those gently used treasures carry a story that brand-new items just can’t match.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

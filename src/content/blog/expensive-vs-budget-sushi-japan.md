@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30710j_short_rinji_001_pixta.jpg"
 tags: ["Restaurant"]
 ---
+> "Is expensive sushi dinner worth it compared to normal sushi place?"
 
 ### Conclusion
 
@@ -79,3 +80,7 @@ Both are **worth it in different ways**.
 - **Eat the sushi as soon as it’s served** — timing is crucial for taste
 - **Most conveyor belt places have touchscreens with English menus**
 - **High-end places may not allow photos** — check the rules before taking out your phone
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

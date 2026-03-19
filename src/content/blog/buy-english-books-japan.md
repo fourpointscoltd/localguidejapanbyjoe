@@ -58,3 +58,7 @@ Honestly, most people I know just use Amazon Japan or Kindle these days. Amazon 
 - **Convenience:** Amazon Japan or Kindle
 
 Happy book hunting in Tokyo! 📚
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxGdWppfGVufDB8fHx8MTc1MzYwODIwMHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Transportation"]
 ---
+> "Which side of the Shinkansen is Mount Fuji on?"
 
 If you want to catch a glimpse of Mount Fuji while riding the Shinkansen, the key is to book an E seat—the window seat on the right side of the train when heading from Tokyo to Osaka (downward direction on the Tokaido Shinkansen). The train seats are arranged in a 3-seat side (A, B, C) and 2-seat side (D, E) layout, with A and E being window seats. Since Mount Fuji appears on the right side in the direction from Tokyo to Osaka, reserving an E seat ensures you get the best view.
 
@@ -53,3 +54,7 @@ Also, many Japanese people don’t just admire Mount Fuji from the train—they 
 - Don’t rely solely on the train view if Mount Fuji is a trip highlight—consider dedicated visits to nearby areas.
 
 Getting that perfect Fuji shot from the Shinkansen can be a small but memorable highlight of your Japan trip, and knowing the seat number is a neat insider tip to make it happen!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

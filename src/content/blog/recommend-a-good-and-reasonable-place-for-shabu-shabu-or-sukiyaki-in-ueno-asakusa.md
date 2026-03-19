@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30910j_short_rinji_002_pixta.jpg"
 tags: ["Restaurant"]
 ---
+> "Recommend a good and reasonable place for shabu shabu or sukiyaki in Ueno & Asakusa?"
 
 ### Conclusion
 
@@ -60,3 +61,7 @@ These dishes can be pricey at dinner—but in Japan, **lunch meals are often hea
 - **Cash or card?** These shops usually accept cash; check for card availability if needed.
 - **Dining solo?** No problem. Many places in Japan are solo-friendly, especially at lunch.
 - **Not sure what to pick?** Go for pork shabu-shabu—it’s lighter and often cheaper.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

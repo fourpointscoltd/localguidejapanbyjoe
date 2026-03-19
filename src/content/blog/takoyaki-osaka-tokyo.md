@@ -41,3 +41,7 @@ Definitely! Osaka has a long history as a merchant city with a rich street food 
 If you’re curious about “real” takoyaki, my personal recommendation is to visit a small takoyaki stand in Osaka, order a fresh batch, and watch the vendor skillfully turn the balls. The soft, dashi-rich batter melting in your mouth is something you just can’t get from mass-produced versions. And if you find yourself in Tokyo, try Gindaco, but keep in mind it’s a different takoyaki vibe—more crunchy, snack-like, and often eaten on the go.
 
 Takoyaki is a simple dish but shows how regional tastes and lifestyles shape even the most familiar foods in Japan. It’s a small window into everyday Japanese food culture.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

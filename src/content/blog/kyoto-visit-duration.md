@@ -28,3 +28,7 @@ Kyoto has a wide range of accommodations, from budget hostels around ¥3,000–5
 Japanese visitors often treat Kyoto as a kind of mini-retreat. They might stay a night or two but focus on a slower pace—morning temple visits before the crowds, lunch at a small soba or tofu restaurant, and then an afternoon break at a café or along the river. Dinner might be at a cozy izakaya or a small kaiseki (traditional multi-course) restaurant that locals frequent. The idea is less about checking off as many sights as possible and more about savoring the city’s unique atmosphere and seasonal changes.
 
 So overall, if you only have 2 days and 1 night, you can definitely get a taste of Kyoto, but two nights or more let you enjoy the city in a more relaxed, authentic way—one that locals appreciate as well.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

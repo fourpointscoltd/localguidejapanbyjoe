@@ -32,3 +32,7 @@ Most locals use bicycles, trains, or their own cars, but not buses as much as to
 Because Kyoto’s layout is roughly a square, it makes sense to pick a side of the city and explore all the temples and shrines there before moving to the next side. For example, start on the east side near Gion and Kiyomizu-dera, then move westward toward Arashiyama on another day. This way you avoid backtracking across town, which can waste precious sightseeing time. Your driver can often suggest the best route based on your interests.
 
 **In short:** If you’re in a small group and want comfort and efficiency, a private taxi is the way to go. Solo travelers or those on a budget can manage with buses but expect some crowds and slower travel. And if you want the authentic local vibe, try walking or renting a bike for short distances—there’s nothing like discovering Kyoto’s charm at your own pace.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

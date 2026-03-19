@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30860j_short_rinji_002_pixta.webp"
 tags: ["Others", "Events"]
 ---
+> "Are stores open during the year-end and New Year holidays?"
 
 ### Conclusion
 
@@ -85,3 +86,7 @@ Also, during this time:
 - **Check Google Maps hours**, but also be flexible — they might not be accurate
 - **Try a fukubukuro (lucky bag)** for a fun Japanese shopping tradition
 - **Wear warm layers** — New Year mornings can be very cold, especially if you go to a shrine at midnight or early dawn
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

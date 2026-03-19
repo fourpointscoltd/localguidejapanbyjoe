@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/1.jpg"
 tags: ["Restaurant"]
 ---
+> "How hard is it to find good espresso coffee in Tokyo, Kyoto, Nara, and Kobe?"
 
 Finding **good espresso coffee** in Tokyo, Kyoto, Nara, and Kobe is **relatively easy**, but the availability and quality vary by city. 
 
@@ -76,3 +77,7 @@ In Japan, there are two types of cafés: **kissaten** and **cafés**. Japanese p
 On the other hand, **cafés** are generally non-smoking.
 
 Looking at various comments online, it seems that Australian visitors, in particular, don’t have the best impression of Japanese coffee and espresso.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

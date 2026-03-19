@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30660j_short_rinji_003_pixta.JPG"
 tags: ["Restaurant", "Souvenirs"]
 ---
+> "Best Japanese cakes or pastries to try?"
 
 ### **Conclusion**
 
@@ -65,3 +66,7 @@ SituationMy Recommendation☕ Afternoon tea with friends**PARIYA**, **Harbs**�
 🏬 ShopMy Review**Harbs**Truly delicious — I highly recommend trying it, especially their **mille crêpe**, which is one of the best in Tokyo. It might feel a bit pricey, but it’s worth it. **Be prepared for long lines** at the café, especially on weekends.**Ginza Cozy Corner**A **very common chain** often found near train stations. The taste is honestly average, but it’s **very affordable**, and **kids are usually happy** to receive these as a treat. Great for casual snacking.**Pierre Hermé Paris**Elegant in both flavor and presentation, but **you can get it outside Japan too**, so it may not feel special to eat here. That said, the **packaging is gorgeous**, so it makes for an **excellent gift**.**Sadaharu AOKI**A refined fusion of French technique and Japanese ingredients. **Elegant and subtle in flavor**, not for everyone — but **definitely worth trying at least once**, especially for adult palates.
 
 ---
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

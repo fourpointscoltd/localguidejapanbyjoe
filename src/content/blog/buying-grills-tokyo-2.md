@@ -43,3 +43,7 @@ Japanese shopping culture here is quite polite and respectful. It’s common to 
 One last note: If you’re interested in other types of goods, just ask! Tokyo’s neighborhoods really showcase how locals live and shop beyond the usual tourist spots. For example, if you want fabric, I’d recommend Nippori, which feels like a maze of textile shops and is where many local designers get their materials. It’s a whole different vibe from Kappabashi’s kitchen focus.
 
 So, that’s the scoop on buying a grill in Tokyo. Kappabashi is my personal recommendation, and I hope you find exactly what you’re looking for!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -103,3 +103,7 @@ Just remember: **bring a towel, sunscreen, and check the entry rules — tattoos
 - **Footwear:** Bring flip-flops — shoes are not allowed near poolside
 - **Book in advance** during busy weekends or holidays
 - **Bring swimwear** — rentals are rare or expensive
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

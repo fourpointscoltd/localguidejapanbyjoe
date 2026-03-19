@@ -67,3 +67,7 @@ Mojiko has this nostalgic atmosphere with early 20th-century Western-style build
 
 ---
 Japan is a country of contrasts where big cities and tiny towns each have their own rhythms. The places listed above aren’t just tourist spots—they’re living communities where you can catch glimpses of how Japanese people really live, play, and relax. If you want to feel Japan beyond the guidebook, try mixing famous spots with these local favorites.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

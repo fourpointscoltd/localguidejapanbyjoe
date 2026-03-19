@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1200"
 tags: ["TravelSpots"]
 ---
+> "Best Ski Place Within 2 Hours from Tokyo via Shinkansen?"
 
 Looking for skiing accessible by Shinkansen from Tokyo? Here are the best options!
 

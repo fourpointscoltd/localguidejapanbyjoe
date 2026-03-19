@@ -29,3 +29,7 @@ Coins are pretty durable and rarely get damaged, but if a coin is noticeably wor
 
 ---
 To sum up, Japanese people tend to keep their bills neat and don’t make a big fuss if there’s a minor rip. For seriously torn bills, the Bank of Japan branches will exchange them, but they’re inconvenient to access. Casual passing on or using the bill among friends happens, but it’s not a formal practice. If you’re visiting, you can probably get by with a slightly damaged bill, but if it’s badly torn, either use it as a quirky gift or try exchanging it if you happen to be near a bank branch.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

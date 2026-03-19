@@ -83,3 +83,7 @@ Includes a **Torokusho**
 ### **Bonus Note**
 
 Japan has **strict sword laws**, and police may stop and question anyone carrying a blade in public—even in a case. You must **carry it in a secure, sealed case** and **only for legal reasons** (e.g. transport from store to post office). Never walk around with it openly, even if it’s just a replica.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

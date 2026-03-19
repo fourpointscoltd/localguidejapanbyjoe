@@ -36,3 +36,7 @@ If you’re into sushi, art, or sake, Kanazawa should be on your itinerary. [Myo
 ## A Local’s Real Perspective
 
 I fell in love with Kanazawa during a student trip; its compact size makes it easy to explore by bike or bus. Thanks to good transit links from Tokyo, it’s not too hard to reach. Do note that winter weather can be snowy, so plan accordingly.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

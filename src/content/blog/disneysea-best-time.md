@@ -42,3 +42,7 @@ January and February, after New Year’s rush, are quieter months. Also, early D
 To sum up, the “real” way Japanese locals approach DisneySea visits is pragmatic: they watch the weather forecast closely and pick weekdays when the forecast is less promising, hoping the rain stays light or passes. It’s a bit like hunting for a sweet spot. Tourists often aim for sunny weekends, but embracing a slightly cloudy or drizzly weekday can give you a more peaceful, authentic experience.
 
 If you’re willing to be flexible and prepared for a bit of rain, you’ll avoid long waits and enjoy the park more like a local does—less stress, more fun.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

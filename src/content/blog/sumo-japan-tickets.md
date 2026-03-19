@@ -45,3 +45,7 @@ If you can, try to arrive early and stay until the end to get the full experienc
 
 ---
 Sumo tickets, seating, and atmosphere might seem straightforward, but the real experience lies in these little details that locals cherish. Whether you sit in family seats, ringside, or just soak in the buzz around Ryogoku Kokugikan (the main sumo arena in Tokyo), you’ll get a glimpse into a tradition that’s deeply woven into modern Japanese life.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

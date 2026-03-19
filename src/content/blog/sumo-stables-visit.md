@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1574908445051-d9e0c2f4f763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN1bW98ZW58MHx8fHwxNzUzNjA4MzA3fDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Events"]
 ---
+> "Can we see a Sumo tournament in Tokyo, Nagoya, Kyoto, or Osaka in late May to Mid June?"
 
 If you’re hoping to catch a sumo tournament during late May to mid June in Japan, here’s the honest scoop from someone who’s followed sumo for years. Official grand sumo tournaments, called honbasho, happen only six times a year, and their schedule is pretty fixed. Tokyo hosts tournaments in January, May, and September; Osaka does March; Nagoya is July; and Fukuoka in November. Kyoto doesn’t have a grand sumo tournament.
 
@@ -41,3 +42,7 @@ During tournament days, you’ll see families, groups of friends, and even busin
 
 ---
 So, if you’re planning a visit in late May to mid June and want to see sumo, your best bet is to catch the last days of the May Tokyo tournament if your schedule matches up. Otherwise, explore sumo stables or local sumo-related experiences for an authentic taste of this uniquely Japanese world. It’s a rare window, but the sumo spirit is alive all year round in many small ways beyond the big tournaments.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1618749543000-4a3885939752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHRlbXBsZSUyMGphcGFufGVufDB8fHx8MTc1MzYwOTMyNHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
+> "Are sandals acceptable in Japan or disrespectful when visiting temples?"
 
 I get this question a lot from visitors worried about stepping into Japan’s temples or shrines wearing sandals. Honestly, from my experience living here and traveling all over the country, sandals are generally fine almost everywhere. Japan isn’t super strict about footwear like some cultures might be. But there are a few nuances worth knowing.
 
@@ -42,3 +43,7 @@ To sum up my personal take: sandals are perfectly acceptable in Japan—in templ
 If you want a casual, authentic experience, sandals are a great choice. They’re practical for Japan’s humid summers and make temple visits easy since you don’t have to wrestle with laces when taking shoes off. From my trips around all 47 prefectures, I can say sandals fit right in with how most Japanese live day to day.
 
 Got more sandal or shoe questions about Japan? Just ask!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

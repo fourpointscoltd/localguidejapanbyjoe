@@ -39,3 +39,7 @@ If you want to try eating on the plane, ZipAir’s menu isn’t extensive but ha
 
 ---
 In a nutshell, ZipAir fits naturally into how many Japanese people travel domestically: low-cost, efficient, and no-frills. It won’t feel luxurious, but it’s practical and often the cheapest way to cover long distances inside Japan. If you’re okay with paying extra for luggage or seat preferences and planning ahead, it’s a very solid option worth considering.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

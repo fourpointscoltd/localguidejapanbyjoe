@@ -90,3 +90,7 @@ Even if the app is in Japanese, you can still understand the map and rain cloud 
 
 ---
 ###
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

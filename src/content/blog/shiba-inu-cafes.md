@@ -53,3 +53,7 @@ Try to go early on weekdays when it’s less crowded. Be respectful of the dogs�
 
 ---
 In short, while a “best Shiba Inu cafe” isn’t a well-defined title due to their scarcity, exploring dog-friendly parks, local events, and even Shiba Inu culture in everyday life can offer a rich experience. The Japanese affection for this breed goes beyond cafes and is woven into daily life in subtle, charming ways. If you’re eager to see these spirited dogs, be flexible, open-minded, and enjoy the authentic side of Japan’s Shiba Inu scene!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

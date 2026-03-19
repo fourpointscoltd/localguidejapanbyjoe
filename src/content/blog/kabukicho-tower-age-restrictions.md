@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1554797589-7241bb691973?w=1200"
 tags: ["TravelSpots"]
 ---
+> "Can 8-Year-Olds Enter Shinjuku Tokyu Kabukicho Tower?"
 
 If you're traveling with kids and wondering whether it's okay to bring an 8-year-old to Shinjuku Tokyu Kabukicho Tower, the short answer is **yes, they can enter**. But there are some important things to keep in mind!
 

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1650481071423-5991cf10f995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxza3l0cmVlfGVufDB8fHx8MTc1MzYwODM3MHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Souvenirs"]
 ---
+> "Can I visit the Pokémon center and ghibli store at Skytree without a ticket?"
 
 If you’re planning a trip to Tokyo Skytree and wondering whether you need to buy a ticket just to visit the Pokémon Center or the Ghibli Store, here’s the straightforward answer from someone who’s been there many times: You do *not* need a Skytree observation ticket to go to these shops.
 
@@ -58,3 +59,7 @@ Unlike just rushing to the observation deck and back, locals often spend hours w
 
 ---
 So yes, feel free to explore the Pokémon Center and Ghibli Store at Skytree without worrying about tickets. It’s a nice way to enjoy the area’s vibe, do some unique shopping, and maybe grab a delicious sushi meal without the crowd pressure of the observation decks. This approach reflects how many Japanese locals naturally enjoy the space—shopping and relaxing rather than just ticking off tourist spots.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

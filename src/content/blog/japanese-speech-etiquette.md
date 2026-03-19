@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1571565846371-01e14a6d0eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM4fHxqYXBhbiUyMHBlb3BsZXxlbnwwfHx8fDE3NTMxMTM1MTh8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
+> "Is speaking basic Japanese appreciated or rude?"
 
 When I first started traveling around Japan’s 47 prefectures, I wondered the same thing—is it polite or awkward if I try to speak even basic Japanese? From my experiences and chats with locals, here’s the honest scoop:
 
@@ -43,3 +44,7 @@ Try learning phrases you’ll actually use daily—greetings, ordering food, ask
 In summary, speaking basic Japanese is usually welcomed and appreciated, not rude. Even small attempts open doors to warmer, more authentic experiences. But don’t stress if you can’t speak much; kindness and a smile matter most.
 
 Have you tried speaking Japanese on your travels here? What was your experience? Feel free to share in the comments!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -38,3 +38,7 @@ Squid ink ice cream isn’t very common across Japan, but you can occasionally f
 It’s partly cultural curiosity and partly a love for seasonal and regional ingredients. Japan has a long tradition of incorporating local flavors into sweets and snacks. Ice cream shops here often push boundaries to attract customers and keep things interesting. For locals, trying a new flavor like squid ink ice cream is like a fun mini-adventure, especially when hanging out with friends or family. It’s less about everyday eating and more about enjoying variety and surprise within food culture.
 
 So, when you’re in Shinjuku, don’t hesitate to hunt down that squid ink ice cream. It’s a small, unexpected window into how Japanese people enjoy mixing tradition with modern fun—and a delicious conversation starter too!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

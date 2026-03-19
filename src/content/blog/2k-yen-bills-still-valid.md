@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30350j_short_rinji001_pixta.png"
 tags: ["Money"]
 ---
+> "Are 2k yen bills still valid in Japan or have they been discontinued?"
 
 ## General Answer
 
@@ -18,3 +19,7 @@ I personally haven’t seen a 2000 yen bill in regular circulation for over a de
 ## A Local’s Real Perspective
 
 Originally created to celebrate the year 2000, the 2000 yen note has become more of a novelty than useful currency. You’ll hardly see it in daily life, and if you do manage to get one, you might find it more exciting to keep rather than spend.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

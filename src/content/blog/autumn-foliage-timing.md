@@ -38,3 +38,7 @@ From my travels, the best approach is to track the leaf forecasts once you’re 
 The changing colors are a signal that Japan is transitioning into cooler weather, a time when locals start enjoying hot drinks, warming foods, and cozy indoor gatherings. Autumn leaves are as much about the feeling of the season as the colors themselves. So even if you catch the foliage just before or after its peak, you’ll still experience a uniquely Japanese sense of autumn.
 
 If you want to share when you’re visiting, I can help suggest spots that might have colorful leaves around that time!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/35880j_short_rinji_001_pixta.jpeg"
 tags: ["Souvenirs"]
 ---
+> "Where Can I Buy Mario Merchandise in Tokyo?"
 
 ## Conclusion
 
@@ -61,3 +62,7 @@ Don’t miss the nearby **Shibuya Sky observation deck** for a great city view a
 - **Bring a backpack** — the store bags are cute but not the most durable for travel
 - **No ticket needed** to enter, but it can get crowded during holidays
 - **Combine with Pokémon Center or Shibuya sightseeing** for a full afternoon!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

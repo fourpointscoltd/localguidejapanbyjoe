@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30790j_short_rinji_002_pixta.jpg"
 tags: ["Souvenirs"]
 ---
+> "Where can I buy affordable women and kids clothes in Kyoto?"
 
 ### Conclusion
 
@@ -105,3 +106,7 @@ If you have more time, **Katsuragawa’s Aeon Mall** has even more choices.
 - **Shimamura locations are usually in residential areas** — check Google Maps before going
 - **Many stores have English signage or simple visuals**, so shopping is stress-free
 - **Size range is limited**, so try things on if possible
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

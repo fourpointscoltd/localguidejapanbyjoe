@@ -45,3 +45,7 @@ Also, I carry a small scarf or neck warmer around this time, especially for kids
 
 ---
 So, in a nutshell: expect mild but changeable weather, prepare for some rain, layer up, and don’t stress about packing every single clothing item. Tokyo has plenty of shops to fill in any gaps if you need to pick up something last minute. The key is to stay flexible and enjoy the city, rain or shine!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -43,3 +43,7 @@ Also, keep an eye on the price—imported goods can be pricier than in your home
 
 ---
 So, while Milo might seem like a simple item, tracking it down in Tokyo can be a fun little adventure that leads you to some great grocery stores and food experiences beyond the usual tourist spots. I often pick up Milo and other imported treats at Don Quijote or Kaldi when I’m craving something different, and it feels like a small taste of home mixed with the local vibe.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

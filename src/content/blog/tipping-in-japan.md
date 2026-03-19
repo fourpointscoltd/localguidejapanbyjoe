@@ -32,3 +32,7 @@ A sincere thank you and polite behavior go a long way here. If you really want t
 If you want to see this in action, try a local izakaya or family-run restaurant in a smaller town. The warmth and attentiveness don’t come from a tip, but genuine hospitality. That’s the real Japan serving you your meal.
 
 Have more questions about dining culture or other Japanese customs? Just ask!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

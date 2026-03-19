@@ -53,3 +53,7 @@ If you want a genuine local feel, look for smaller family-run lodgings rather th
 
 ---
 **Summary:** Gunma is definitely worth visiting if you love onsen culture and want a break from big cities. A day trip to Kusatsu is doable but a bit rushed, and staying overnight lets you enjoy the authentic pace and atmosphere locals cherish. Outside of hot springs, Gunma offers peaceful countryside vibes and tasty local food, but it’s not packed with tourist attractions. If you’re seeking a true taste of Japan’s onsen lifestyle and rural charm, Gunma is a lovely choice.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1565776324809-470d2602109d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxqYXBhbiUyMHRheGl1fGVufDB8fHx8MTc1Mzg5MzA2OHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Transportation"]
 ---
+> "How do I request a Taxi from my current location?"
 
 How do I request a Taxi from my current location in Japan?
 
@@ -32,3 +33,7 @@ In recent years, most taxis in cities accept credit cards, including major inter
 One thing I’ve noticed is that taxi drivers here are very polite and usually won’t ask you to buckle your seatbelt, but it’s polite to do so anyway. Also, taxis in Japan often have automatic doors that the driver will open and close for you, so it’s considered rude to touch the door handle yourself. Sitting quietly during the ride is normal, and most drivers won’t make conversation unless you start it.
 
 In short, if you’re in Tokyo or other big cities, just raise your hand to catch a taxi or use Uber for convenience. Outside cities, apps like JapanTaxi or calling a local company will be your best friends. Having your destination written out and some cash on hand will make your ride smoother. From personal experience, I find Japanese taxis clean, polite, and quite comfortable – a nice way to experience a bit of everyday Japan beyond the trains and buses.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -44,3 +44,7 @@ BarPrice (JPY)USD (~1 USD = 150 JPY)EUR (~1 EUR = 160 JPY)**The Gate Hotel Bar**
 - **For a budget-friendly rooftop experience:** → Try **The Gate Hotel Asakusa** or **Didot in Ueno**.
 - **For the best photos:** → Go to **The Roof Shibuya Sky** at sunset.
 - **For special occasions:** → **Andaz Tokyo or Bvlgari Bar** offer a luxury setting.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=1200"
 tags: ["Souvenirs"]
 ---
+> "Is Nakano Broadway Worth Visiting for Non-Anime Related Shops?"
 
 Absolutely! While Nakano Broadway is famous for anime and manga shops, there's actually a surprising variety of non-anime stores that make it worth visiting.
 

@@ -72,3 +72,7 @@ Budget: **3,000 yen/person (~$20, ~€18.8)**
 - **Payment:** Some shops are cash-only, so check before visiting.
 - **Queues:** Many famous restaurants have long lines, so plan ahead.
 - **Other Popular Japanese Dishes:** Besides tempura, ramen, and yakiniku, Tokyo is also famous for **tonkatsu (deep-fried pork cutlet), sukiyaki, shabu-shabu (hot pot dishes), okonomiyaki (savory pancakes), and yakitori (grilled chicken skewers).** If you have extra time, I highly recommend trying these as well!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -41,3 +41,7 @@ Good news! The Japan Rail Pass, which many tourists buy, covers most shinkansen 
 In short: For a trip to Osaka, if you’re traveling during the year-end holidays or Golden Week, booking your shinkansen ticket in advance is a smart move. For other times, just show up and buy your ticket—there’s usually plenty of room, and trains come often. Japanese people value punctuality and convenience, so the system is designed to handle huge numbers of travelers smoothly without requiring everyone to plan months ahead.
 
 If you want a stress-free trip and guaranteed seating, go for reserved seats, especially during busy times! Otherwise, enjoy the ease of Japan’s bullet trains and their frequent schedules.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

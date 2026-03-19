@@ -89,3 +89,7 @@ But if you're short on time, **Ariake Garden** is your best nearby bet.
 
 ---
 ###
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

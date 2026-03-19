@@ -34,3 +34,7 @@ It’s partly health and partly taste preference. Rice is a staple, but Japanese
 ---
 **A bit more from my own experience:**
 When I’m out for sushi, I usually order a mix of nigiri with smaller rice portions and some sashimi. It feels more satisfying and less bloated. And if I’m in a rush or want something healthy and filling, Salad Works’ FARM BOWL never disappoints—it’s colorful, fresh, and full of umami flavors, way beyond a boring salad. It’s a neat way to enjoy a low-carb meal without losing the joy of eating out in Japan.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

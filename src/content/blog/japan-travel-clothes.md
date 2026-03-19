@@ -40,3 +40,7 @@ Yes, no problem! Japanese people often wear clothes with English or other foreig
 To sum up, while you won’t see many locals in shorts or T-shirts casually, tourists have plenty of freedom to dress comfortably. Japanese fashion leans toward modest, neat styles for daily life, but you won’t get weird looks for casual clothes—especially if you’re sightseeing or hanging out at casual spots. Packing breathable long pants, light tops, and a few casual pieces like shorts or T-shirts will keep you comfy and blend in nicely with the local vibe.
 
 If you want to experience a bit of the “real” Japanese approach to summer style, try shopping at local department stores or malls—there you’ll find lots of lightweight but polished summer clothes popular with locals. It’s a great way to understand what people actually wear day-to-day beyond tourist hotspots!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

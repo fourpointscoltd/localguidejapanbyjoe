@@ -32,3 +32,7 @@ Yes, many temples and shrines in Kyoto hold special light-up events in December 
 
 ---
 So, if you ask me, Kyoto offers a lovely blend of traditional atmosphere and festive sparkle that’s perfect for young kids to experience a unique Christmas in Japan. Osaka is fantastic if you want a lively, modern holiday with theme park thrills and city lights. Either way, you’ll get a Christmas that’s very different from what you might expect—and that’s part of the fun!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

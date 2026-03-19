@@ -44,3 +44,7 @@ Traditional Japanese breakfasts at home often include rice, miso soup, grilled f
 - If you want to experience a kissaten-style breakfast, look for coffee shops that have simple sets with toast, egg, salad, and coffee for around ¥600 to ¥800 ($4.50 to $6).
 
 The charm of Japanese breakfast lies in how people incorporate both tradition and daily practicality, so whether it’s a quick gyudon or a slow café morning, you get a glimpse of the real rhythm of life here.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

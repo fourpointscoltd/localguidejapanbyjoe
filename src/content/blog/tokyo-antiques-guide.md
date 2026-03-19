@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1517142099008-c2eb9227b575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fEphcGFuZXNlJTIwYW50aXF1ZSUyMHNob3B8ZW58MHx8fHwxNzUzNDk3ODYyfDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Souvenirs"]
 ---
-
-Are there weekday antique markets in Tokyo?
+> "Are there weekday antique markets in Tokyo?"
 
 When I think of antique markets in Tokyo, most of them happen on weekends—especially at shrines, temples, or parks. The famous ones like the Oedo Antique Market near Tokyo Station or the one in Ueno Park usually run on Saturdays or Sundays. But if you’re here during summer vacation in July or August, you’ll find more weekday markets popping up. It’s a bit of a treasure hunt because antique market info isn’t widely advertised in English or even easy to find in Japanese. I found a helpful website listing these markets, but it’s all in Japanese, so you might want to use a translation tool.
 
@@ -33,3 +32,7 @@ Selling at these markets usually requires some Japanese language ability and loc
 
 ---
 From my experience, these antique markets give you a really authentic glimpse into Japanese daily culture beyond the usual tourist spots. Locals treasure these markets as a way to preserve history and discover unique items. If you hit one during a weekday in summer, it feels like a little secret shared among insiders. And wandering around a sunny shrine grounds or park while browsing stalls is a simple pleasure that captures a slower, nostalgic side of Tokyo life.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

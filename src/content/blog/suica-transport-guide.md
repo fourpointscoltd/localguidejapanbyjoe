@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1553628223-5a98a5cf8e81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGphcGFuJTIwc3RhdGlvbnxlbnwwfHx8fDE3NTM4NzYwNzF8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Transportation"]
 ---
+> "Can I use a Suica card for all types of public transportation in Japan?"
 
 Great question! The short answer is yes, you can use a Suica card pretty much everywhere in Japan nowadays — trains, buses, and even taxis — but there are some little details worth knowing from a local’s point of view.
 
@@ -39,3 +40,7 @@ This nationwide IC card interoperability reflects how Japan’s transportation s
 If you want to experience Japan like a local, using Suica (or any IC card) is a small but essential step. It makes hopping on a train or bus effortless and lets you focus on enjoying your trip instead of ticket hassle.
 
 Have more questions about using Suica or public transport in Japan? Just ask me!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -50,3 +50,7 @@ That said, if you prefer the convenience of booking ahead, these apps can be use
 ---
 
 To sum up: catching an unbooked taxi outside Shinjuku Station is totally normal and easy in Japan. Just join the line at the official taxi stand, carry your phone cable for charging, and have your destination info ready. This straightforward approach is how most Japanese people do it every day, blending convenience with that famously smooth urban order.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

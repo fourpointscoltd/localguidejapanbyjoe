@@ -62,3 +62,7 @@ Japanese people tend to choose hotels based on convenience and safety first. Bus
 - If you want to experience the “real” Tokyo, consider staying in a less touristy neighborhood nearby and commuting in.
 
 Tokyo’s train network is so efficient that no matter where you stay, you can explore a wide range of attractions—you just might want to think about what kind of experience you want when you’re back at your hotel!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

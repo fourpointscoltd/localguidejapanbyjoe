@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30520j_short_rinji_001_pixta.jpg"
 tags: ["Daytrip"]
 ---
+> "Which is better for 1 night: Kanazawa or Takayama after Shirakawago?"
 
 #### **Conclusion**
 
@@ -66,3 +67,7 @@ DestinationAccommodationFoodTransportation from Shirakawago
 - **If you are heading back to Tokyo/Kyoto:** Kanazawa has the better transportation network.
 - **If you love traditional towns:** Takayama has a more preserved historic feel.
 - **If you are a foodie:** Kanazawa has **better seafood and more variety**.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

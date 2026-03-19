@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/02/suica.png"
 tags: ["Transportation"]
 ---
+> "Why do I need a suica or pasmo card for Tokyo, Kyoto, and Osaka?"
 
 ### **What Are Suica and Pasmo Cards?**
 
@@ -50,3 +51,7 @@ Once you have it, **just tap at the gate and start exploring Japan hassle-free!*
 If you're visiting Japan, **getting a Suica or Pasmo card is a must**. It simplifies transportation, saves time, and even works for small purchases. Instead of worrying about tickets, you can **focus on enjoying Tokyo’s neon streets, Kyoto’s temples, and Osaka’s famous street food**.
 
 So, before you land in Japan, **get your IC card and travel like a pro!**
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

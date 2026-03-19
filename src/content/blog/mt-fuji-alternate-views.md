@@ -37,3 +37,7 @@ Hakone is about 1.5 to 2 hours from Tokyo by train and bus. The views of Mount F
 
 ---
 Mount Fuji isn’t just a mountain to climb; it’s woven into the daily lives and scenic pleasures of people living nearby. The spots I’ve mentioned are where locals go to feel close to Fuji without the tourist rush or physical strain. Whether it’s a lakeside picnic, a peaceful park hike, or just a quirky photo by a convenience store, these places capture the spirit of how Fuji fits naturally into Japanese life.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

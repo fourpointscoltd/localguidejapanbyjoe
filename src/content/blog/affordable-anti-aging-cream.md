@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1643168343279-3f93c2e592ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNraW5jYXJlJTIwZmxhdCUyMGxheXxlbnwwfHx8fDE3NTM3MjIyMTh8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Souvenirs"]
 ---
-
-**Where can I find affordable, high-quality anti-aging face cream for souvenirs?**
+> "Where can I find affordable, high-quality anti-aging face cream for souvenirs?"
 
 Honestly, I don’t use makeup or skincare much myself, so I’m not an expert in recommending specific products. But from what I’ve heard and seen around Japan, a great place to start is a store called Atcosme (often written as @cosme). It’s actually tied to Japan’s most popular cosmetic review website, and the shop only sells products that rank high on their site. So you can trust that what you find there is well-loved by Japanese users.
 
@@ -52,3 +51,7 @@ For most tourists, visiting Atcosme or major drugstores is easier, but if you’
 ---
 
 So, while I don’t use anti-aging creams myself, from what I’ve gathered, starting at Atcosme is a practical and fun way to find popular, high-quality skincare souvenirs. You get a glimpse of what Japanese people actually like and use, plus you can try products before buying, which makes it feel less like a gamble. And if you want to go budget-friendly or explore local options, there are plenty of other spots around the city to check out too!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

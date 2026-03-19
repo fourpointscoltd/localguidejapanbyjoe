@@ -49,3 +49,7 @@ If you want to speed things up, download the Suica app before arriving and regis
 
 ---
 In short: Yes, you can buy Suica at Narita, but you’ll likely need to visit a ticket counter these days. Or try the mobile app if you want a smooth, contactless start to your Tokyo trip.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -44,3 +44,7 @@ SUICA works primarily in the Greater Tokyo area and some nearby regions. Other r
 In my day-to-day life in Tokyo, I always keep my SUICA card handy. It’s not just for trains—it’s accepted at lots of stores and vending machines, which makes small purchases a breeze. Even as a local, I can tell you that mixing and matching train companies without an IC card means fumbling with tickets, which nobody enjoys. The JR Pass is like a long-distance ticket, perfect for hopping between cities, but the SUICA card is your all-around pass for navigating the city like a local.
 
 So, combining a JR Pass for your intercity rides and a SUICA card for local subways and buses is the most straightforward way to experience Japan’s trains without the usual headaches.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

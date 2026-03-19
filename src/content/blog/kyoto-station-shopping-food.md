@@ -45,3 +45,7 @@ These subtle habits reflect Japanese dining etiquette focused on respect and eff
 
 ---
 In short, staying near Kyoto Tower puts you right in the heart of a vibrant local scene. You can enjoy authentic Kyoto flavors, relaxed dining, and genuine shopping experiences that Japanese people actually do day-to-day — not just the tourist hotspots. Those little details make a visit special, in my opinion!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -65,3 +65,7 @@ Children will love it, and if you are visiting Japan during the event period, **
 - **Official app and website** → Get maps, schedules, and real-time updates
 - **Pokémon Café and Shop** → Often require advance reservations
 - **Nearby attractions** → Explore Red Brick Warehouse, Yamashita Park, and more while you’re there
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

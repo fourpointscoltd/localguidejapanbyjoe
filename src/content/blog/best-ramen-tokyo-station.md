@@ -37,3 +37,7 @@ In my experience, yes, especially if you plan a visit to Tokyo Station’s Ramen
 **A bit about how locals experience ramen:** For many in Japan, ramen isn’t just a meal, it’s a ritual. We slurp the noodles loudly (yes, it’s polite!), savor the broth, and often eat standing up or at small counters. It’s not usually a place for long chats but a quick, satisfying stop. At Tokyo Station, ramen serves this exact purpose—fuel for your journey or a brief comforting break. So even if you’re just passing through, try to soak in that atmosphere. It’s a small window into everyday Japanese life.
 
 If you want to explore beyond Tokyo Station later, neighborhoods like Ikebukuro or Nakameguro offer more niche ramen experiences, but for a convenient, authentic introduction, Ramen Street is hard to beat.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

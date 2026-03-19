@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/02/pixta_85222762_M.jpg"
 tags: ["Clothes"]
 ---
+> "What should I wear in Tokyo, Kyoto, and Osaka in July?"
 
 July in Japan is **hot and humid**, especially in major cities like **Tokyo, Kyoto, and Osaka**. The temperatures often exceed **30°C (86°F)** with high humidity, so dressing comfortably is key.
 
@@ -33,3 +34,7 @@ Japan is quite open when it comes to fashion—you can wear **cosplay, tradition
 #### **4. Packing Light? Buy Clothes Locally!**
 
 If you want to **save luggage space**, consider shopping at **Uniqlo or GU** after arriving. These stores offer **affordable, high-quality clothes**, including summer-friendly pieces like [**AIRism**](https://www.uniqlo.com/feature/airism/au/)** shirts and UV-protection outerwear**.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

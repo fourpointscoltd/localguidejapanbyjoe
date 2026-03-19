@@ -45,3 +45,7 @@ If someone moves away from Japan or stops using public transport, they might ret
 
 ---
 In short, Suica and Pasmo cards don’t expire in the sense that the card itself stops working, but the balance can be lost if unused for 10 years. Since the maximum stored value is limited, it’s not a huge risk. Plus, with NFC-enabled smartphones, you can even check your balance from your home country if you set it up right. This is a neat example of how technology and daily convenience intersect in Japan, beyond just being a tourist tool.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

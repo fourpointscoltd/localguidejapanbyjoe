@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30870j_short_rinji_002_pixta.jpg"
 tags: ["Others"]
 ---
+> "Can you wear jewelry in a public onsen?"
 
 ### Conclusion
 
@@ -51,3 +52,7 @@ The **locker key** is usually worn on your wrist or ankle with a rubber band, an
 - **Bring a small towel** into the bath (but don’t put it in the water)
 - **Always shower and rinse off before entering the onsen**
 - **Tattoos may not be allowed** — check the rules or use a cover sticker
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

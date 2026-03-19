@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1636015856875-00ce4b89433d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxjaGFyZ2VyfGVufDB8fHx8MTc1MzExNjM5OHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
+> "Recommendations for portable iPhone chargers for a trip with heavy phone usage?"
 
 When you’re traveling in Japan—especially if you rely heavily on your iPhone for navigation, translation apps, photos, and social media—battery life can drain fast. From my experience living here and traveling all over the country, having a reliable portable charger is more than a convenience; it’s almost a must-have.
 
@@ -57,3 +58,7 @@ Most locals don’t fuss too much about carrying huge power banks. They usually 
 
 ---
 Keeping a small, affordable portable charger from a convenience store is my personal recommendation for anyone visiting Japan with heavy phone use. It’s a simple solution that fits into everyday Japanese life and keeps your trip powered up without hassle.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

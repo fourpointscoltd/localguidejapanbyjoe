@@ -38,3 +38,7 @@ If you plan to stay in Tokyo for a while and don’t have a washing machine, usi
 So, while laundry charges in Tokyo might seem high compared to other places, they reflect the city’s lifestyle and infrastructure. From my experience, it’s manageable and part of everyday life here.
 
 If you have more questions about daily life or want tips on navigating Tokyo’s neighborhoods, just ask!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

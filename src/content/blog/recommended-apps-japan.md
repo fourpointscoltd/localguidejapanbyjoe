@@ -39,3 +39,7 @@ For dining, many Japanese people use apps like Tabelog to check restaurant revie
 
 ---
 To sum it up: prepare for reliable internet access first (pocket WiFi or SIM), have Google Maps and Translate handy, and if you visit in rainy season, a rain radar app changes your game completely. These apps cover what Japanese people actually use day-to-day, so you can experience Japan more like a local instead of just ticking tourist checkboxes.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

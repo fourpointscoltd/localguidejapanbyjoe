@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1577735478058-4964581822c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFRva3lvJTIwSGFsbG93ZWVuJTIwU2hpYnV5YXxlbnwwfHx8fDE3NTM1MDAyMjZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Events"]
 ---
+> "Are there any recommended Halloween events in Tokyo and is it worth going to Disneyland?"
 
 I’ve noticed Halloween really took off in Japan about 10 years ago, even though the holiday was known here for around 30 years before that. These days, it’s a big deal mainly in places like Shibuya and Universal Studios Japan (USJ). If you want the real Halloween party vibe, Shibuya is where locals and visitors alike gather in costume to enjoy the street scene. But if you’re looking for a full-on themed experience, my personal recommendation is USJ.
 
@@ -30,3 +31,7 @@ At USJ, you can absolutely participate. They encourage visitors to wear costumes
 Halloween’s rise in Japan is tied to a mix of pop culture influence and the appeal of dressing up. Before 10 years ago, it was mostly a niche holiday known from movies or imports. As cosplay culture grew and events like Shibuya’s street gatherings became popular, Halloween gave people a fun excuse to dress extravagantly without the usual social pressure. Plus, it fits with Japan’s love for seasonal events and decorations. However, the way Japanese people celebrate tends to be quite different from Western countries—often cuter or more controlled, except for places like USJ that go all out.
 
 In summary, if you’re visiting Tokyo for Halloween and want a real taste of how Japanese people enjoy the holiday, Shibuya’s street party and USJ’s horror-themed event are the highlights. Disneyland offers a more polished, family-friendly celebration centered on decorations and shows. Each has its own charm depending on what kind of Halloween experience you’re looking for.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

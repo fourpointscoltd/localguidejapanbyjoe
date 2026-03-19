@@ -44,3 +44,7 @@ Look for seasonal ingredients like matsutake mushrooms or chestnuts, which start
 —
 
 So that’s a glimpse of how I personally spend a day in Kyoto during October—not rushing to famous spots but soaking in the local rhythms, simple foods, and early autumn vibes. It’s a different experience from the usual tourist trail but one that shows the real Kyoto from a local’s eyes.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -52,3 +52,7 @@ Japanese skiers often accept this as part of the fun of early season—getting f
 - Being flexible and watching the real conditions on-site or via cams will make your trip smoother.
 
 This blend of tech, local knowledge, and patience is how Japanese skiers get the best out of Niseko’s winter, especially before the big powder season kicks in.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

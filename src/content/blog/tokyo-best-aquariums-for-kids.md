@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30680j_short_rinji_002_pixta.webp"
 tags: ["TravelSpots"]
 ---
+> "Best aquarium in Tokyo for kids?"
 
 ### Conclusion
 
@@ -57,3 +58,7 @@ Even though I love Okinawa, **Churaumi Aquarium** (while large) didn’t feel as
 - **Weekdays** are less crowded
 - **Summer** → bring water, hat, and cooling items. Some aquariums like Enoshima & Hakkeijima are outdoors.
 - **Rainy days** → Aqua Park or Sumida Aquarium are perfect indoor options
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

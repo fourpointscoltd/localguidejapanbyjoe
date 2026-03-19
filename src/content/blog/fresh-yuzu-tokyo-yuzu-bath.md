@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30530j_short_rinji_001_pixta.jpg"
 tags: ["Souvenirs"]
 ---
+> "Looking for fresh yuzu fruit in Tokyo, any sightings or alternatives?"
 
 #### **Conclusion**
 
@@ -51,3 +52,7 @@ ProductPrice in JPYUSD (~1 USD = 150 JPY)EUR (~1 EUR = 160 JPY)**Fresh Yuzu (per
 
 - **Want fresh yuzu?** Try **LIFE Asakusa** or **OK Store Ginza**.
 - **Love Japanese citrus flavors?** Consider trying **sudachi** or **kabosu** as alternatives.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

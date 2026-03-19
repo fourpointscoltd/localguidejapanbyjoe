@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "/images/japan-packing-essentials.png"
 tags: ["Transportation"]
 ---
+> "What Should I Buy and Pack Before Traveling to Japan?"
 
 One of the most common questions I get from travelers is: **"What should I pack for Japan?"** Here's the truth – Japan is relatively affordable right now, and with the weak yen, buying things locally is often cheaper than bringing everything with you.
 

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/chichibuyoru.png"
 tags: ["Daytrip"]
 ---
+> "Are there any winter festivals or light-up events near Tokyo that can be visited for a day？"
 
 ### Conclusion
 
@@ -62,3 +63,7 @@ Yes! Tokyo and its surrounding areas host some of Japan’s **most magical winte
 - **Bring a tripod or phone stand** for beautiful light-up photos
 - **Check event websites** for the latest times and any weather updates
 - **Try local street food**—many events have special food stalls
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

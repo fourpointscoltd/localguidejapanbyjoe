@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1650807905761-ed11bfc8ec36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fEhhcmFqdWt1JTIwc3RyZWV0fGVufDB8fHx8MTc1MzQ5MDY4MXww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
-
-When do stores in Harajuku and Shibuya typically open?
+> "When do stores in Harajuku and Shibuya typically open?"
 
 Great question! From my experience living in Tokyo and spending a lot of time around Harajuku and Shibuya, the opening times vary quite a bit depending on the type of shop or restaurant.
 
@@ -35,3 +34,7 @@ If you want to experience the local vibe, try grabbing breakfast at a small cafe
 
 ---
 To sum up, the “real” pace in Harajuku and Shibuya starts with early cafes opening around 8 or 9 AM, followed by the main shopping areas waking up closer to 10 or 11 AM. This schedule reflects the local lifestyle and work routines, giving you a glimpse into how Tokyoites experience their day. If you arrive too early to the big shopping spots, grab a coffee and enjoy some people-watching—it’s a perfect way to feel the city’s pulse before the shopping frenzy begins!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

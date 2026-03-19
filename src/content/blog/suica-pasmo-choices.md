@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/20241104_ICcard_px.jpg"
 tags: ["Transportation"]
 ---
+> "Which travel card is better for Tokyo and Kyoto: Suica, Pasmo, or both?"
 
 If you’re planning to visit Tokyo and Kyoto, you might have come across two popular IC cards: Suica and Pasmo. Honestly, from my experience living and traveling around Japan, these two cards are basically the same thing with different names. Here’s the lowdown:
 
@@ -52,3 +53,7 @@ For example, I remember once forgetting my card on a train trip between Tokyo an
 - Keep your card balance in mind because if you don’t have enough, you can’t pass the gate.
 
 Getting a Suica or Pasmo card is honestly one of the most hassle-free ways to navigate Tokyo and Kyoto like a local. It makes city travel feel effortless and even a bit fun once you get the hang of it. So grab that Welcome Suica first thing at the airport and enjoy the ride!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

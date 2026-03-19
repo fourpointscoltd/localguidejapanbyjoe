@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=1200"
 tags: ["Transportation"]
 ---
+> "I'm Confused About the Suica Card, Can You Explain?"
 
 Sure! Usually, Suica cards are super easy to get—you can buy them from ticket vending machines at almost any train station across Japan. But let me explain what Suica actually is and how it works.
 

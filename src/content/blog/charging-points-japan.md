@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/02/30210j_short_rinji001_pixta.jpeg"
 tags: ["Others"]
 ---
+> "Are there charging points in cafes and trains, etc? any tips?"
 
 ### **Where to Charge Your Devices in Japan – Cafes, Trains, and More**
 
@@ -26,3 +27,7 @@ If you're traveling in Japan and wondering where you can charge your devices, th
 - **Japan uses 100V Type A plugs**, similar to the U.S. but lower in voltage. If your charger isn’t compatible, head to **Seven-Eleven** and buy an **Anker plug charger (~1000 yen = 6.5USD, great quality)**.
 - Bringing a **portable battery** is **highly recommended**, especially for long sightseeing days.
 - Charger rental services are not widespread in Japan.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

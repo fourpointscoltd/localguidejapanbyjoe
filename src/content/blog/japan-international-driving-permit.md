@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/02/30160j_short_rinji001_pixta-1.jpg"
 tags: ["Transportation"]
 ---
+> "Do I need an international driver's license to rent a car?"
 
 ### **Is an International Driver’s License Required?**
 
@@ -74,3 +75,7 @@ While driving in Japan is generally a pleasant experience, **driving in major ci
 Driving in Japan is an exciting and convenient way to explore the country, but make sure you **have the right documents** before you go. An [**International Driving Permit (IDP)**](https://internationaldrivingpermit.org/)** is essential**, and understanding Japan’s unique traffic rules will ensure a smooth experience. While driving in rural areas is a fantastic experience, **avoid driving in congested cities like Kyoto or Tokyo**. With the right preparation, you’ll enjoy the freedom of discovering Japan on your own terms!
 
 **Japan experiences heavy snowfall, and driving in snowy conditions can be extremely dangerous, so you should absolutely avoid it.**
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

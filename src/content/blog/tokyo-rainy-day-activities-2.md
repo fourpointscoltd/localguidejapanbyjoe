@@ -32,3 +32,7 @@ In daily life, most people carry compact umbrellas, which are sold everywhere fo
 If you forget to bring one, you can grab a decent umbrella at convenience stores or 100-yen shops. The quality is surprisingly good for the price. I usually buy a compact one that fits in my bag. When you enter shops or restaurants, you’ll often see plastic bags for wet umbrellas — it’s polite to cover your umbrella so the floor stays dry. If the rain stops, many people fold their umbrellas quickly and stash them away, so it’s handy to pick one with a fast-drying fabric.
 
 So yeah, rainy days in Tokyo aren’t a reason to cancel your plans. They offer a chance to see the city from a different angle, avoid long lines, and enjoy some cozy indoor spots. Just embrace the rain with a good umbrella and comfortable shoes, and you’ll probably find yourself enjoying Tokyo in a way many tourists miss out on!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

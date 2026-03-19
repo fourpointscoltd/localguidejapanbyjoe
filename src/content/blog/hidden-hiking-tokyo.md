@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1624864406461-ab62e33928c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHx0YWthb3xlbnwwfHx8fDE3NTQxOTMwMTV8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Daytrip"]
 ---
+> "Looking for hidden gems or hiking spots near Tokyo, any suggestions?"
 
 25,000
 Looking for hidden gems or hiking spots near Tokyo, any suggestions?
@@ -68,3 +69,7 @@ Most casual hikes don’t require special gear beyond good walking shoes and wea
 
 ---
 These spots are a bit off the typical tourist radar but show the side of Japan where locals go to recharge, enjoy nature, and connect with history and culture. I hope this gives you a feel for what hiking near Tokyo can really be like beyond the usual guidebook picks!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

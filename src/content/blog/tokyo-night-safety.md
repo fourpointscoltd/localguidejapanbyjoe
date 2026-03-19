@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1679097844800-b0cb637306ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fFRva3lvJTIwbmlnaHQlMjBzdHJlZXR8ZW58MHx8fHwxNzUzNjM5NTg4fDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
-
-Is it safe to walk late at night in Tokyo and which streets should be avoided?
+> "Is it safe to walk late at night in Tokyo and which streets should be avoided?"
 
 When it comes to safety in Tokyo at night, my honest experience as someone who’s lived and traveled all over Japan is that it’s remarkably safe compared to many big cities worldwide. It’s extremely rare for someone to get hurt by strangers or have valuables stolen. Even if you lose your wallet, chances are high you’ll get it back by reporting it to a nearby police box, called a kōban.
 
@@ -42,3 +41,7 @@ To sum up, the “real” Japan at night is mostly calm and safe. People go abou
 If you want to experience Tokyo like locals do, try exploring neighborhoods like Meguro, Kichijoji, or Nakameguro in the evening. These areas have cozy streets and cafes that stay open late without the overwhelming crowds. It’s a nice way to see a side of Tokyo that tourists often miss—and to understand how people really live here.
 
 Just keep your wits about you, enjoy the city lights, and you’ll find Tokyo’s nighttime atmosphere uniquely safe and welcoming.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

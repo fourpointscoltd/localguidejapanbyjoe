@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/pixta_61731161_M.jpg"
 tags: ["ThemeParks"]
 ---
+> "Have you visited both Disneyland and Disneysea in one day?"
 
 ## Can You Visit Both Tokyo Disneyland and DisneySea in One Day?
 
@@ -70,3 +71,7 @@ ProsConsYou can say “I did both!”Limited time in each parkQuick overview of 
 - **Arrive early** if you plan to do even half of one park in a day
 - **Stay at a nearby hotel** if possible — it gives you more flexibility
 - **Some restaurants inside the park require reservations**, and many have beautiful themes and interiors — it’s a good idea to check in advance 🍽️
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

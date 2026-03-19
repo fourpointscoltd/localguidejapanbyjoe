@@ -39,3 +39,7 @@ Japanese people tend to love natural-looking makeup with a focus on skin health.
 To sum up, while I can’t recommend specific foundations, blushes, or mascaras from personal use, @cosme shops in Tokyo are the perfect spot to explore what Japanese people are actually using. It’s like a mini beauty museum of Japan’s current favorites, and you can get your hands on real local hits instead of just random tourist picks.
 
 If you want, I can share some photos of the @cosme storefronts next time I’m there—I know pictures really help when you’re navigating Tokyo’s busy shopping districts!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -38,3 +38,7 @@ Yes, partly. In Japan, personal space and neatness are valued. Tourist spots oft
 In summary, if you’re visiting Shibuya Sky right after landing, plan ahead for your luggage. The lockers on site are too small for large suitcases, so using nearby station lockers, luggage storage services, or airport options will save you a headache. It’s a small detail, but knowing this will help your visit go smoothly and let you enjoy Shibuya Sky’s amazing views without dragging bags around.
 
 If you have other questions about navigating Tokyo with luggage or local tips for Shibuya, just ask!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

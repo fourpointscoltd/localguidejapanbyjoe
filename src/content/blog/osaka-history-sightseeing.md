@@ -32,3 +32,7 @@ Wakayama and Shiga offer a slower pace and plenty of natural beauty alongside hi
 ---
 
 So, while Osaka is definitely worth a quick visit to experience its lively city life and food scene, if your heart is set on history, shrines, and sightseeing, think about spending more time in neighboring areas that reveal Japan’s rich past and natural beauty in a way Osaka doesn’t. It’s all about what kind of Japan you want to see—urban energy or traditional calm—and luckily, this region gives you access to both!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

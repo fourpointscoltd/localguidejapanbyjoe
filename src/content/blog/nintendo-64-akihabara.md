@@ -36,3 +36,7 @@ A Japanese Nintendo 64 is designed for the NTSC-J video standard. If your home c
 > **Can I also find controllers and other accessories for the Nintendo 64?**
 
 Yes, absolutely. The specialized retro game stores in Akihabara, particularly places like Super Potato and Trader, stock a wide array of Nintendo 64 accessories. You can typically find official Nintendo-brand controllers in various colors, as well as third-party controllers. Prices for controllers vary based on condition, especially the tightness of the joystick, which is a common wear point on Nintendo 64 controllers. You will also find other accessories such as Rumble Paks, Transfer Paks, Jumper Paks (which are essential for the console to work), Expansion Paks (needed for some games and improved graphics), and even original video cables and power supplies. These items are often sold separately from the console, allowing you to customize your purchase based on your needs."
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

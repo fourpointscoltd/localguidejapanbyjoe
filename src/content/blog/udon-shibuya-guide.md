@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/udon.jpg"
 tags: ["Restaurant"]
 ---
+> "Where can we get some fantastic udon noodles in Shibuya,Tokyo?"
 
 ***** I want to get some udon in Shibuya. Where should I go?***TsuruTonTan is a famous spot, especially for the nice view and stylish interior—really good for tourists! But fair warning, you’ll often see a long line (sometimes hours!), especially at lunchtime or dinner. In my opinion, the taste is decent, a bit above average, and the portions are huge! If you’re going with a group, this is a fun pick.
 
@@ -40,3 +41,7 @@ If you want to taste real Sanuki udon outside Kagawa, Miyatake is a great choice
 Udon is super regional in Japan—you’ll find local styles everywhere, from thin to extra thick noodles, fresh or dried. The most famous are Sanuki Udon from Kagawa (thick, chewy) and Inaniwa Udon from Akita (thin, silky). Personally, I’m obsessed with Inaniwa Udon. Fun tip: try searching for “Inaniwa Udon” on Google Maps! Also, true udon specialty shops are rare; most people eat udon at soba places. Hardcore fans go all the way to Kagawa—nicknamed “**Udon Prefecture**”—but if you ever go, renting a car is almost a must to reach the best shops.
 
 [Kagawa · JapanJapan![](https://www.localguide-japan.com/content/images/icon/maps15_bnuw3a_32dp-38.ico)Kagawa · Japan![](https://www.localguide-japan.com/content/images/thumbnail/AC9h4np-sm6sD0wF36oikQzQ5Cfs3dAf2ppZvz3-O9VmxKXha_B80MnsgW9YsroMTiiLOjoMJ_kTqtSVLlg0qc88NzsOZHLGs7Uvn3Ih66jV5oDVoJZ4vsnpKmvd3I8AtECs_0lBCm8-w900-h900-p-k-no)](https://maps.app.goo.gl/ALWNngi7UShT4Gvp7)
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

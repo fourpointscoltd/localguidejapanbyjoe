@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1730276694888-9fc1df06003d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGljaGlyYW58ZW58MHx8fHwxNzUzNjA4ODEzfDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Restaurant"]
 ---
+> "Does Ichiran offer children's portions for my picky eaters?"
 
 Great question! Ichiran is famous for its tonkotsu ramen and solo dining booths, but many travelers wonder how it works for families with kids. From my experience and what I’ve learned, Ichiran actually has a pretty thoughtful system for children. If you order for one adult, up to five kids can eat for free! The kids get a half-size bowl of the same rich tonkotsu ramen that adults enjoy. Plus, they have a special “kids’ order sheet” just like the adults, so even little ones can customize their noodles, broth richness, and toppings to their liking.
 
@@ -48,3 +49,7 @@ If you’re visiting Ichiran with kids, here are some handy tips:
 - Expect the kids’ ramen to be half-size, so bring snacks or extra food if your kids are big eaters
 
 Ichiran’s kids’ ramen is a rare example of a popular ramen chain thoughtfully accommodating children, which I think shows a nice side of Japan’s food culture beyond just the tourist experience.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

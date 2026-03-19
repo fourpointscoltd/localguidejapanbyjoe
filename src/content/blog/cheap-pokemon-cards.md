@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1621568670868-24a7dfc590e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHBva2Vtb24lMjBjYXJkfGVufDB8fHx8MTc1Mzg5NTU4Nnww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Souvenirs"]
 ---
+> "Where to buy cheap Pokemon cards in Tokyo or Osaka?"
 
 If you’re hunting for Pokémon cards on a budget while visiting Japan, the first place that comes to mind for most locals and collectors is Akihabara in Tokyo. It’s famous for electronics and otaku culture, and that includes tons of shops selling Pokémon cards at all price points. Osaka has some great spots too, but Akihabara really stands out as the go-to area for variety and deals.
 
@@ -44,3 +45,7 @@ Practical tips for visiting Akihabara or Nipponbashi:
 - Opening booster packs on the spot is common and part of the fun, but be mindful of other customers and store rules.
 
 Hopefully, this gives you a better sense of where and how to hunt for Pokémon cards in Japan like a local! If you have more questions about Japanese pop culture or shopping, just ask.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

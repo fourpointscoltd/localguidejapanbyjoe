@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1572807289393-e6010864927a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fFRva3lvJTIwc25vdyUyMGdsb2JlJTIwc291dmVuaXJ8ZW58MHx8fHwxNzUzNjM2OTUwfDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Souvenirs"]
 ---
-
-Looking for a small snow globe souvenir in Tokyo, any recommendations?
+> "Looking for a small snow globe souvenir in Tokyo, any recommendations?"
 
 If you’re hunting for a small snow globe souvenir while in Tokyo, one place that popped up from my Japanese Twitter friends is the souvenir shop at Tokyo Tower. I haven’t been there recently, so the info might be a bit dated, but it’s a classic spot for Tokyo-themed goodies, including snow globes. I’m happy to call the store and check if they still have them if you want a more definite answer.
 
@@ -32,3 +31,7 @@ Snow globes are fragile, so Japanese people often wrap them carefully in bubble 
 Japanese department stores love seasonal campaigns. Visiting around Christmas or New Year, you might spot limited-edition snow globes themed around the season. Checking out the basement floors (depachika) or gift corners in major department stores like Takashimaya or Daimaru can be rewarding. Also, small artisan shops sometimes make handcrafted snow globes, which you might find in trendy areas like Daikanyama or Nakameguro. These are pricier (¥3,000 to ¥6,000 / $21–$42 USD) but feel more personal.
 
 To sum up, Tokyo Tower souvenir shop is a classic first stop for small snow globes, but don’t hesitate to explore department stores and traditional shopping streets for more variety. Snow globes aren’t a traditional Japanese craft, but they fit nicely with how locals enjoy collecting seasonal and place-related keepsakes. Bringing one home safely is doable with a bit of care, and hunting for limited editions adds a fun local twist to your souvenir shopping. If you want, I can try calling Tokyo Tower’s shop to see if they still stock snow globes—just let me know!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

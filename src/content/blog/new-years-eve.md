@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/30050j_short_rinji002_pixta-1.webp"
 tags: ["Events"]
 ---
+> "What is the best place in Japan to spend New Year's Eve?"
 
 Spending New Year's Eve in Japan is quite a unique experience. It really depends on what kind of New Year’s vibe you want. Are you looking for a lively, party-like atmosphere similar to what you might find in many countries? Or do you want to immerse yourself in the traditional Japanese way of welcoming the new year?
 
@@ -41,3 +42,7 @@ New Year’s Day is often a quiet family time. People relax at home, watch speci
 Public transportation runs but sometimes on reduced schedules, especially on January 1st. Some train lines near popular shrines run extra services late at night on New Year’s Eve for hatsumode visitors. However, many shops and restaurants close for a few days after January 1st, so plan accordingly.
 
 To sum up, if you want to experience New Year's the way many Japanese do, Kyoto’s temples and shrines are the best places to visit. Join locals in their quiet but meaningful traditions: cleaning, toshikoshi soba, shrine visits, and family time with osechi. It’s a slower, reflective celebration that’s very different from the typical New Year's Eve party scenes elsewhere. And if you can, spend it with Japanese friends or a local family—that’s when you really get to see what New Year means here!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

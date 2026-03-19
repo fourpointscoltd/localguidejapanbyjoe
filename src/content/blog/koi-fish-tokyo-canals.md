@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/27256705_s.jpg"
 tags: ["Others"]
 ---
+> "Where can we see koi fish in Tokyo's drainage canals?"
 
 Where Can We See Koi Fish in Tokyo's Drainage Canals?
 
@@ -32,3 +33,7 @@ Definitely. Koi fish symbolize perseverance, strength, and good fortune in Japan
 Skip hunting down koi in drainage canals and instead spend time in a traditional garden or shrine pond. For example, I love visiting Rikugien Garden (entrance fee around ¥300 ≈ $2.20 USD), where koi swim alongside seasonal flowers and historic landscaping. It’s a chance to slow down, enjoy nature’s details, and experience how Japanese people find calm in everyday life. Plus, you might spot a few older locals quietly feeding the fish or meditating nearby—that’s the real vibe.
 
 So while Tokyo’s drainage canals won’t offer you koi fish encounters, the city’s gardens and shrines provide a glimpse of how koi are truly appreciated in Japanese daily life. It’s a subtle, peaceful experience rather than a wildlife adventure—one of those quiet cultural moments you might not expect but end up loving.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -36,3 +36,7 @@ Definitely! Stores like Uniqlo, GU, and other fast fashion brands are everywhere
 ---
 
 To sum up, Japanese people are pretty relaxed about women wearing shorts in the summer as long as the outfit fits the occasion. You won’t be out of place wearing shorts for daily activities, sightseeing, or festivals. Just be mindful of places where more modest or formal wear is expected, and avoid swimsuits away from the beach or pool. Buying affordable summer clothes in Japan can also be a fun way to blend in and stay comfortable in the heat.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

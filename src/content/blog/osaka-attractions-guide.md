@@ -60,3 +60,7 @@ Also, don’t rush to see “everything.” Osaka’s charm is in its everyday l
 ---
 
 So, to wrap up: Osaka’s main tourist draw is definitely Universal Studios Japan if you’re into theme parks. But if you want to see the city through Japanese eyes, think of it as a lively, working-class hub with amazing food and a relaxed vibe—not a shrine or castle-heavy sightseeing spot. That’s what makes Osaka special for locals and worth a visit if you want something different from the usual Japan travel routine.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

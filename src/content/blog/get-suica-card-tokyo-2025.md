@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30610j_short_rinji_003_pixta.png"
 tags: ["Transportation"]
 ---
+> "I couldn't purchase Suica card around Tokyo. Where can I find it?"
 
 ### **Conclusion**
 
@@ -111,3 +112,7 @@ FeatureWelcome Suica MobilePhysical Welcome SuicaName Registration❌ Not needed
 - 🤖 **Using Android?** Wait for future support or use **Mobile PASMO** / **ICOCA**
 - ✈️ **Flying into Japan?** Don’t rely on finding a physical card — stock is very limited.
 - 🧳 **Short trip?** Digital options are 100% better than the 28-day paper card.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

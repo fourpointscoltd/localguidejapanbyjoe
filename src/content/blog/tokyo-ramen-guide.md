@@ -39,3 +39,7 @@ Ramen Street can get quite busy during lunch and dinner rush hours, especially s
 
 ---
 In Japan, ramen isn’t just fast food; it’s a beloved comfort meal with regional identities and passionate chefs. Tokyo Station’s Ramen Street is a microcosm of that diversity. For locals, it’s a convenient place to grab a quick yet satisfying meal between trains or work. For visitors, it’s a great introduction to the many flavors ramen can offer beyond what you might see on the surface. Exploring different shops and styles there can be surprisingly insightful—and tasty!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

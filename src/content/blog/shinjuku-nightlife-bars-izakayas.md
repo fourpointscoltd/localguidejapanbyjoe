@@ -100,3 +100,7 @@ Ni-Chome is **Japan’s biggest LGBTQ+ district**, filled with welcoming bars, d
 
 Even if you're not a big drinker (like me), **Shinjuku at night is full of interesting places** to explore.
 You don’t need a plan — just **walk around Golden Gai**, peek into a few bars, and see what feels right. You might find an unforgettable experience in a bar with just five seats and great conversation.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

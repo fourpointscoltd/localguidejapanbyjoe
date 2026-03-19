@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30890j_short_rinji_002_pixta.jpeg"
 tags: ["Souvenirs"]
 ---
+> "Must-try food and drink items from convenience stores – and great picks to bring back for friends?"
 
 ## Must-Try Food and Snacks from Japanese Convenience Stores
 
@@ -57,3 +58,7 @@ Japanese convenience stores (like 7-Eleven, FamilyMart, and Lawson) are incredib
 - **Frozen meals are great too** → If your hotel has a microwave, try frozen dumplings or fried rice.
 - **Hot snacks at the counter sell out quickly** → Go earlier in the day to catch them fresh.
 - **Regional exclusives** → Stores in places like Hokkaido or Kansai may stock local specialty flavors.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

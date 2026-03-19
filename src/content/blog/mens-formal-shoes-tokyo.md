@@ -42,3 +42,7 @@ My personal approach is to buy a budget pair for occasional use and invest in on
 - **Language**: Staff at big chains usually speak some English, but smaller artisan shops might not. Bringing photos or pointing at what you want works fine.
 
 Tokyo offers a broad spectrum for men’s formal shoes—from budget-friendly chains to luxury boutiques. What Japanese people actually do is choose based on daily needs, comfort, and how long the shoes will last. So if you want to experience the “real” way locals shop, think about your lifestyle while you’re here and pick accordingly.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

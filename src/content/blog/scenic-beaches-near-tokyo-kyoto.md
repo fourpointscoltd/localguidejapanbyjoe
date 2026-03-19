@@ -95,3 +95,7 @@ In summer, beaches near Tokyo can get quite busy on weekends, especially Kamakur
 Japan’s beaches might not be as tropical as some other countries, but they offer a unique mix of seaside relaxation with local culture. For a quick trip near Tokyo or Kyoto, I’d personally choose Atami or Kamakura for a balance of accessibility and atmosphere. And if you’re dreaming of tropical vibes, Okinawa is the real deal—even if it takes a bit longer to get there.
 
 If you want to hear about the best local seafood spots by the beach or how to find hidden fishing villages, just ask!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

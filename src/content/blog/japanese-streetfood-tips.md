@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1701694492928-fd5919cfcb5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fEphcGFuZXNlJTIwc3RyZWV0JTIwZm9vZHxlbnwwfHx8fDE3NTM0OTYzOTV8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Restaurant"]
 ---
+> "How was ordering street food for non-Japanese speakers?"
 
 **Q&A: Ordering Street Food in Japan When You Don’t Speak Japanese**
 
@@ -44,3 +45,7 @@ Street food in Japan isn’t just about grabbing a quick bite; it’s a social e
 - Don’t worry about perfect pronunciation—your effort matters more.
 
 Ordering street food in Japan is one of those simple joys where you get to experience local flavors and culture up close. From my own walks through festivals and busy street corners, I’ve found the process surprisingly friendly and rewarding—even without fluent Japanese.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

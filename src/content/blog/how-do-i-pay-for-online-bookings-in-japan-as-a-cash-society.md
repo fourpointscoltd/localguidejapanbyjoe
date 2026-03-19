@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30740j_short_rinji_001_pixta.jpg"
 tags: ["Money"]
 ---
+> "How do I pay for online bookings in Japan as a cash society?"
 
 ### Conclusion
 
@@ -77,3 +78,7 @@ Vending machines
 - Station lockers
 
 ![](https://www.localguide-japan.com/content/images/2025/03/img_main_welcome.png)
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

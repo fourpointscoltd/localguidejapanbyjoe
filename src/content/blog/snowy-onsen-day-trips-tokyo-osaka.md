@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/skii003.jpg"
 tags: ["Daytrip"]
 ---
+> "Are there hot spring resorts with snow views that can be visited as a day trip from major cities？"
 
 ### Conclusion
 
@@ -77,3 +78,7 @@ Yes! If you're looking for a magical winter experience, Japan has several **snow
 
 ---
 ##
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

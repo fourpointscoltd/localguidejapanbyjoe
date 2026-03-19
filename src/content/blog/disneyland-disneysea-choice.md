@@ -35,3 +35,7 @@ What Japanese people actually do at these parks is interesting: families with yo
 If you want to experience the “real” Japan side of these parks, notice how detailed the staff are with customer service and how even the small food stands have seasonal menus. Plus, Japanese visitors often plan their days around specific shows or parades, so grab a schedule at the entrance and join in on those moments—it’s a big part of the local Disney experience.
 
 In short: if you want the unique, grown-up vibe and something you can’t get outside Japan, choose DisneySea. If you want classic Disney magic tailored for kids, Disneyland is your place. Both are worth it, but your choice depends on the kind of experience you want.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

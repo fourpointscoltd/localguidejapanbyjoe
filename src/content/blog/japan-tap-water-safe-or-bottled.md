@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30820j_short_rinji_002_pixta.jpg"
 tags: ["Others"]
 ---
+> "Is the water in Japan safe to drink or should we buy bottled water?"
 
 ### Conclusion
 
@@ -53,3 +54,7 @@ If you're in these areas, **don’t miss the chance to drink local water straigh
 - **Soft water is gentle on the stomach** — even for sensitive travelers
 - **Buy bottled water** only if you're hiking, in very rural areas, or prefer a specific taste
 - **Local bottled water brands** from mountain areas (like Mt. Fuji or the Japanese Alps) can be fun souvenirs
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

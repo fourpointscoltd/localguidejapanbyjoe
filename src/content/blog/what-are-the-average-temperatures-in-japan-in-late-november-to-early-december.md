@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/IMG_8533.JPG"
 tags: ["Others"]
 ---
+> "What are the average temperatures in Japan in late November to early December?"
 
 ### Conclusion
 
@@ -62,3 +63,7 @@ You don’t have to overpack—just check the forecast and buy what you need loc
 - **Bring layers**: It helps you adapt to day/night temperature changes.
 - **Plan for indoor/outdoor balance**: Museums, cafes, and train stations are usually warm.
 - **Public transport is heated**: You may get warm quickly inside buses or trains—wear clothes you can remove easily.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

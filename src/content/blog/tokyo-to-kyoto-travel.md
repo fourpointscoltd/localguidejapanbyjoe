@@ -36,3 +36,7 @@ I love the smooth ride, the clean and spacious seats, and the snack carts that c
 
 ---
 In short, flying from Tokyo to Kyoto isn’t really practical because of Kyoto’s lack of an airport and the extra transfers involved. The Shinkansen is the real winner here—quick, reliable, and deeply woven into how Japanese people actually travel between these two cities. If you want to experience Japan like locals do, hopping on that bullet train is the way to go.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

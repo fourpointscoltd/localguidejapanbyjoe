@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=1200"
 tags: ["Souvenirs"]
 ---
+> "Where to Find Personalized Chopsticks in Kyoto, Osaka, or Hiroshima?"
 
 If you're looking for personalized chopsticks in Japan, **Kyoto** is definitely one of the best places to start!
 

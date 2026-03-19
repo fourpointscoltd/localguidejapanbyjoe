@@ -6,8 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1640488009453-8b38ae1b8808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fEphcGFuJTIwdHJhdmVsJTIwY29udmVyc2F0aW9ufGVufDB8fHx8MTc1Mzc2OTA0MHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Others"]
 ---
-
-**Is it difficult to communicate with locals in Japan for first-timers?**
+> "Is it difficult to communicate with locals in Japan for first-timers?"
 
 I get this question a lot from visitors worried about the so-called “language barrier” when coming to Japan for the first time. Honestly, from my experience and talking to many tourists, most say it’s not as tricky as they expected. Sure, not many people here speak fluent English, but that doesn’t mean you’re stuck. Let me explain what really goes on and what you can expect.
 
@@ -49,3 +48,7 @@ If you want, here are a few quick tips to keep in mind:
 - Pay attention to the date format when filling out paperwork.
 
 Japan’s not as intimidating language-wise as you might think once you’re here living it day to day!
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

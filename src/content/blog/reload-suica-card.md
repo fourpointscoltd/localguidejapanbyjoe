@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1666945044221-d8c77947e721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHx0cmFpbiUyMGphcGFufGVufDB8fHx8MTc1Mzg3NTIzNnww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Transportation"]
 ---
+> "Can I reload and use a Suica card with someone else's name?"
 
 Great question! Here’s the honest scoop from my experience living in Japan and using Suica cards daily.
 
@@ -39,3 +40,7 @@ Usually no. Visitors can buy anonymous Suica cards at airports or stations witho
 So in short, while the official rule is that only the registered person should use a Suica card, in everyday life people often share cards without trouble. For visitors, anonymous Suica cards are the easiest and best option, since they don’t require registration and can be freely used and reloaded by anyone.
 
 If you’re visiting Japan and get a Suica, just think of it like a prepaid card anyone can use, but if you want to protect your balance or get special passes, that’s when personalized cards come into play.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/07/kadokawamusashino.jpg"
 tags: ["TravelSpots"]
 ---
+> "Any recommendations for art galleries/museums in Tokyo?"
 
 ## Exploring Roppongi's Art Scene
 
@@ -25,3 +26,7 @@ For contemporary art enthusiasts, the **Ueno Royal Museum** often features speci
 - **Check Exhibition Schedules:** Some museums may have limited exhibitions, so check their websites for the latest updates.
 - **Consider Guided Tours:** For a deeper understanding of the art, consider joining a guided tour at major museums.
 - **Enjoy Local Cuisine:** Both Roppongi and Ueno offer a variety of dining options; take breaks between art explorations to enjoy Japanese cuisine.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1709809994895-2d59065093e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGthbWFrdXJhfGVufDB8fHx8MTc1MzYwNzk0OHww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["TravelSpots"]
 ---
+> "Kamakura or Kawagoe for a Day Trip from Asakusa?"
 
 This is a great question, and honestly, it’s a bit tough to pick between Kamakura and Kawagoe because both have their unique charms. But if I had to choose, I’d lean toward Kamakura for a day trip from Asakusa. Let me share why, based on my personal experience and what Japanese people often enjoy about these places.
 
@@ -42,3 +43,7 @@ Transportation is the biggest cost, so using a prepaid IC card like Suica or Pas
 So to sum up: If you want a breezy, nature-filled day with a bit of sea breeze and don’t mind starting early, Kamakura is my personal pick. If you prefer a compact, culturally rich town with easy access and a relaxed afternoon, Kawagoe won’t disappoint.
 
 Either way, you’ll get a genuine feel of how locals enjoy these historic and charming spots outside Tokyo’s urban sprawl.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

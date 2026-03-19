@@ -34,3 +34,7 @@ A Peruvian restaurant in Gotanda serves traditional dishes such as **ceviche**, 
 Located near Tokyo Tower, this Thai street food restaurant is known for its authenticity, with ingredients imported directly from Thailand. Popular dishes include **gapao rice**, **khao man gai (Hainanese-style chicken rice)**, and **pad thai**. The owner, a Japanese Thai food enthusiast, visits Thailand multiple times a year to refine the recipes. The restaurant’s atmosphere, complete with Thai decor and even a tuk-tuk, transports diners to the streets of Bangkok. It has even been featured on Thailand’s national TV as a certified Thai restaurant abroad. [It is introduced around the 14:47** **minute mark on YouTube.](https://youtu.be/XOqF-BPk2pM?si=ZgyhOuzTjPbW7AxW&t=887)
 
 [Thai Gohan Senshu Yatai · 2 Chome-2-10 Shibakoen, Minato City, Tokyo 105-0011, Japan★★★★☆ · Thais restaurant![](https://www.localguide-japan.com/content/images/icon/maps15_bnuw3a_32dp-22.ico)Thai Gohan Senshu Yatai · 2 Chome-2-10 Shibakoen, Minato City, Tokyo 105-0011, Japan![](https://www.localguide-japan.com/content/images/thumbnail/AF1QipN2_fSL_u961pajBD6-4j9J-j7y8vRSctKrwIm2-w900-h900-p-k-no)](https://maps.app.goo.gl/ohVwAvWVnwD2cLmdA)
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

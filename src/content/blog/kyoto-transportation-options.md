@@ -47,3 +47,7 @@ For tourists, using taxis or bikes gives a taste of this local lifestyle, unlike
 
 ---
 If you’re planning just two days in Kyoto, think of taxis as a practical way to maximize your time, cycling as a scenic adventure if the weather’s good, and buses or trains as backup options if budget is tight or you like a bit of unpredictability. For me, a mix of taxi rides and some cycling is the “real” way to experience Kyoto like a local without getting stuck in crowds.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

@@ -44,3 +44,7 @@ While the bar isn’t a huge nightclub or party spot, it captures the friendly, 
 ---
 
 If you want to explore Tokyo beyond the usual tourist trails, staying at Nui. Hostel in Kuramae gives you that authentic, lived-in vibe with easy access to famous spots like Asakusa. Plus, the riverside walk and cozy bar make it feel more like visiting a friend’s place than just booking a bed.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

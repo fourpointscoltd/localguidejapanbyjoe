@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30700j_short_rinji_001_pixta.jpg"
 tags: ["Souvenirs"]
 ---
+> "Best Tokyo mall with Japanese designers for shopping with 13 yr old?"
 
 ### Conclusion
 
@@ -77,3 +78,7 @@ Dinner in the Tokyo Station area or nearby Ginza
 - **Tax-free shopping is available** for many items (bring your passport)
 - **Try to avoid weekends** if possible, as these malls can get busy
 - **Stationery, fashion accessories, and Japanese skincare** are popular with teens
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*

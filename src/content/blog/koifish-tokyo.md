@@ -6,6 +6,7 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1616989161881-6c788f319bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGtvaSUyMGZpc2h8ZW58MHx8fHwxNzUzNjA4NDc3fDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["TravelSpots"]
 ---
+> "Where can we watch koi fishes in Tokyo?"
 
 If you’re in Tokyo and want to see koi fish, I’d say the best spot is Asakusa Shrine. It might sound surprising since it’s a shrine, but there’s a lovely pond there with colorful koi that locals often stop by to watch. Besides that, if you want a more traditional garden vibe, Tokyo has several beautiful Japanese gardens where koi swim peacefully in ponds. My favorites are Kiyosumi Shirakawa Garden, Rikugien, and Hamarikyu Gardens. These spots give you a chance to enjoy koi in a serene, green setting right in the middle of the city.
 
@@ -30,3 +31,7 @@ Generally, feeding koi is discouraged or not allowed in the gardens and shrines 
 Koi are considered symbols of good luck and perseverance in Japan, so many people appreciate them quietly rather than making a fuss. Visiting a garden with koi is often part of a calm walk or a moment of reflection, especially for older generations. It’s not a flashy activity but rather something soothing and familiar. Personally, I find watching koi a nice way to slow down and connect with nature even in a big city like Tokyo.
 
 If you want to experience koi fish the way many Tokyoites do, try visiting these gardens during a weekday morning when it’s less crowded. Bring a book or just sit by the pond and enjoy the peaceful scene. It’s a simple pleasure that often gets overlooked by tourists rushing from one famous landmark to another.
+
+---
+
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
