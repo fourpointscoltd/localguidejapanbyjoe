@@ -6,39 +6,52 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1670854754247-c8951b09c2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxhdXR1bW4lMjBmb2xpYWdlJTIwamFwYW58ZW58MHx8fHwxNzUzMTE2NDczfDA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Events", "TravelSpots"]
 ---
+> "Around what date does the autumn foliage start?"
 
-Autumn leaves in Japan are famous worldwide, but if you’re wondering exactly when the foliage starts changing colors, the answer isn’t so simple. From my experience traveling through all 47 prefectures, the timing really varies each year and depends on where you are.
+The timing changes **every year** and varies dramatically by location. Japan stretches from subarctic Hokkaido to subtropical Okinawa, so the foliage season lasts about **2.5 months** across the country. Here's my local guide:
 
-> Around what date does the autumn foliage start in Japan?
+## When to See Fall Colors by Region
 
-Honestly, there’s no fixed date. The start of autumn colors shifts every year due to weather patterns, temperature changes, and even elevation. Generally, in northern regions like Hokkaido, leaves begin to change around late September to early October. In central areas such as Tokyo and Kyoto, it’s usually mid to late November. Southern parts like Kyushu might see colors in late November to early December.
+| Region | Peak Season | Best Spots |
+|---|---|---|
+| **Hokkaido** | Mid-October | Daisetsuzan National Park, Lake Toya |
+| **Tohoku** | Late October | Nikko, Oirase Gorge, Ginzan Onsen |
+| **Kanto (Tokyo)** | Late November – Early December | Meiji Jingu Gaien, Rikugien Garden |
+| **Chubu** | Late October – November | Kamikochi, Hakone, Kawaguchiko |
+| **Kansai (Kyoto)** | Mid to Late November | Tofuku-ji, Eikan-do, Arashiyama |
+| **Kyushu** | Late November – December | Dazaifu, Kirishima |
 
-For example, last year in Hokkaido, I saw vibrant reds as early as September 25th, while in Kyoto, the peak was around November 20th. But in some years, a warm autumn delays the color change by a week or two. The official “leaf viewing” season is more like a moving window rather than a fixed date.
+## My Top 5 Spots (Based on Personal Experience)
 
-> Does elevation impact when leaves change colors?
+### 1. Tofuku-ji Temple, Kyoto
+The most famous autumn spot in Japan for good reason. Over **2,000 maple trees** turning red at once. Go early morning (before 8am) to avoid the worst crowds.
 
-Absolutely. Higher elevations cool down faster, so the leaves at mountain tops change earlier than in valleys or cities. During visits to Nikko (about 1,300 meters / 4,265 feet elevation), I noticed the foliage turning in early October while Tokyo city remained mostly green. So if you’re aiming for early colors, head to mountainous areas first.
+### 2. Meiji Jingu Gaien, Tokyo
+A stunning **300-meter ginkgo tree avenue** that turns brilliant gold. Completely free. Best in late November.
 
-> How do Japanese people usually track the best time to see autumn leaves?
+### 3. Nikko, Tochigi
+Waterfalls + temples + red maples = perfection. About **2 hours from Tokyo** by train. Peak is usually mid-to-late October.
 
-Locals often rely on regional weather reports and leaf color forecasts published by newspapers and TV in autumn. These forecasts track the progress from north to south and help plan outings on weekends. There’s also a tradition of “momijigari” (leaf hunting), where friends and families make day trips or weekend plans to leaf-viewing spots once the colors start. But many Japanese people also enjoy just casually noticing leaves turning on their daily walks rather than chasing perfect timing.
+### 4. Kawaguchiko, Yamanashi
+Red maple leaves with **Mt. Fuji in the background**. The Momiji Corridor along the lake is lit up at night during the festival (usually mid-November).
 
-> Are there places where the leaves always change early or late?
+### 5. Oirase Gorge, Aomori
+A **14km stream walk** through a forest of color. Less crowded than Kyoto. Best in late October.
 
-Yes. Hokkaido and the Japanese Alps are among the first places to see autumn colors, often starting late September. Coastal cities like Fukuoka or Okinawa see colors later or sometimes not vibrant at all due to milder climates. So if you want an early autumn experience, northern or high-altitude spots are your best bet.
+## How to Track the Foliage
 
-> What if I’m visiting a city like Tokyo or Kyoto—is there a typical “peak” period for leaves?
+- **Japan Meteorological Corporation** releases foliage forecasts starting September
+- The color change moves **south** over time (opposite of cherry blossoms)
+- **Temperature drops** trigger the change — a sudden cold snap can speed things up
 
-In Tokyo and Kyoto, the peak is usually in mid to late November. But remember, this can vary. If you arrive too early, you might see mostly green trees; too late, and some leaves have already fallen. Japanese people often check local parks or temples known for their autumn colors—like Meiji Jingu Gaien in Tokyo or Arashiyama in Kyoto—because these spots have a good mix of maples and ginkgo trees that turn reliably each year.
+## Pro Tips
 
----
-
-From my travels, the best approach is to track the leaf forecasts once you’re in Japan, and be flexible with your plans. Enjoying autumn leaves here isn’t just about hitting the exact peak date but soaking in the seasonal atmosphere, whether it’s a stroll down a quiet tree-lined street or a hike up a mountain trail.
-
-The changing colors are a signal that Japan is transitioning into cooler weather, a time when locals start enjoying hot drinks, warming foods, and cozy indoor gatherings. Autumn leaves are as much about the feeling of the season as the colors themselves. So even if you catch the foliage just before or after its peak, you’ll still experience a uniquely Japanese sense of autumn.
-
-If you want to share when you’re visiting, I can help suggest spots that might have colorful leaves around that time!
+- **Kyoto gets VERY crowded** during peak foliage — book hotels months in advance
+- **Weekday visits** are much more pleasant than weekends
+- **Night illuminations** (ライトアップ) at temples make autumn leaves even more magical — Eikan-do and Kiyomizu-dera in Kyoto are especially stunning
+- **Rain after peak** can strip leaves quickly — check forecasts and go when you can
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

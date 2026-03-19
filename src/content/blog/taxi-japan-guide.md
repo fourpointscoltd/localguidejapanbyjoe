@@ -8,32 +8,56 @@ tags: ["Transportation"]
 ---
 > "How do I request a Taxi from my current location?"
 
-How do I request a Taxi from my current location in Japan?
+Getting a taxi in Japan is easy — and they're actually a great option, especially for groups of 3-4 people. Here's everything you need to know:
 
-If you’re in Tokyo or other big cities like Osaka or Yokohama, getting a taxi isn’t too complicated, but it can feel a bit different from what you might be used to back home. From my experience, the easiest way nowadays is using the Uber app, but flagging down a regular taxi on the street is also very common and usually pretty quick.
+## How to Get a Taxi
 
-In Tokyo, taxis are everywhere, especially in busy areas around train stations or popular neighborhoods like Shibuya or Ginza. They often have a little orange or green light on the dashboard – if it’s lit, that taxi is available. Just raise your hand and one will usually stop within seconds. It’s kind of fun to do because it feels like a quick street interaction, quite different from hailing a cab in many Western cities where you might not find one so easily.
+### 1. Hail One on the Street
+In major cities, just **raise your hand** when you see a taxi with a red light (空車 = available). Green light means occupied. The **door opens automatically** — don't try to open it yourself!
 
-Uber in Japan works a bit differently than in other countries. Instead of the typical ride-sharing drivers, Uber partners with local taxi companies here. So when you order an Uber, you’re almost always getting a regular taxi through the app, which can be super convenient if you’re in an area where taxis aren’t passing by often or if language is a concern.
+### 2. Go to a Taxi Stand (タクシー乗り場)
+Found at:
+- **Train stations** — look for the taxi sign outside major exits
+- **Hotels** — doormen can call one for you
+- **Department stores** — usually have a stand at the entrance
+- **Airports** — follow the taxi signs
 
-> “What if I’m outside of big cities? Are taxis still easy to find or should I rely on apps?”
+### 3. Use an App
+- **GO** — Japan's #1 taxi app. Available in English. Works like Uber
+- **JapanTaxi** — another popular option
+- **Uber** — works in Tokyo and some major cities, but limited
 
-Outside major cities, taxis are less common on the streets and you probably won’t be able to just flag one down. In those cases, calling a taxi company or using an app like JapanTaxi (which is popular here) is your best bet. JapanTaxi works in many places and lets you specify your pickup location precisely, which helps when you’re in a rural area or a hotel that’s hard to find. Expect to pay a bit more for taxi rides outside cities because distances tend to be longer and taxis less frequent.
+**My recommendation:** In Tokyo, **don't bother with apps.** Taxis are everywhere. Just walk to the nearest main road and raise your hand. In rural areas, apps or hotel calls are better.
 
-> “Are there any costs or quirks I should be aware of when taking taxis in Japan?”
+## How Much Does It Cost?
 
-Yes, taxis here start with a base fare that’s usually around ¥410 to ¥730 (about $3 to $5 USD) for the first 1 to 2 kilometers (0.6 to 1.2 miles). After that, the fare increases by roughly ¥80 to ¥90 (about 70 cents to 80 cents USD) every 300 to 400 meters (1,000 to 1,300 feet). So short rides can be quite affordable, but long rides add up quickly. Also, note that many taxi drivers won’t speak much English, so having your destination written down in Japanese or using a map app to show it helps a lot.
+| Distance | Approximate Fare |
+|---|---|
+| **Initial fare** | ¥500 (first 1.1km) |
+| **5 km ride** | ~¥1,500-2,000 |
+| **10 km ride** | ~¥3,000-4,000 |
+| **Airport to city (Tokyo)** | ~¥6,000-10,000 |
 
-> “Can I pay by credit card or do I need cash?”
+- **Late night surcharge** (10pm-5am): +20%
+- **Highway tolls:** Added to your fare
+- **Tip:** Not expected or wanted. Don't tip!
 
-In recent years, most taxis in cities accept credit cards, including major international ones like Visa and Mastercard. However, in rural areas, cash is still king, so it’s a good idea to carry some yen just in case. Uber payments go through the app, so you don’t have to worry about cash there.
+## Practical Tips
 
-> “Are there any cultural things I should know when riding a taxi in Japan?”
+- **The door opens and closes automatically** — seriously, don't touch it
+- **Payment:** Cash, credit cards, and IC cards (Suica/PASMO) accepted at most taxis
+- **Language:** Show your destination on Google Maps or have the address written in Japanese
+- **Receipts:** Always take one (レシート) — useful if you leave something behind
+- **Lost items:** Call the taxi company using the receipt number. Japanese taxis have a very high return rate for forgotten items
 
-One thing I’ve noticed is that taxi drivers here are very polite and usually won’t ask you to buckle your seatbelt, but it’s polite to do so anyway. Also, taxis in Japan often have automatic doors that the driver will open and close for you, so it’s considered rude to touch the door handle yourself. Sitting quietly during the ride is normal, and most drivers won’t make conversation unless you start it.
+## When to Use a Taxi vs Train
 
-In short, if you’re in Tokyo or other big cities, just raise your hand to catch a taxi or use Uber for convenience. Outside cities, apps like JapanTaxi or calling a local company will be your best friends. Having your destination written out and some cash on hand will make your ride smoother. From personal experience, I find Japanese taxis clean, polite, and quite comfortable – a nice way to experience a bit of everyday Japan beyond the trains and buses.
+- **Group of 3-4 people:** Taxi can be cheaper than 3-4 train tickets for short distances
+- **Late at night:** After the last train (around midnight), taxis are your only option
+- **Heavy luggage:** Much easier than navigating train station stairs
+- **Kyoto sightseeing:** Faster and more comfortable than the crowded buses
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

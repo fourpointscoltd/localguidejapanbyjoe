@@ -3,12 +3,10 @@ title: "Where to find the best Japanese cheesecake in Tokyo?"
 description: "Looking for the best Japanese cheesecake in Tokyo? Try Mr. Cheesecake at pop-up events, LeTAO’s Double Fromage, or a classic Japanese strawberry shortcake. These desserts are light, creamy, and a must-try in Tokyo!"
 pubDate: 2025-02-14
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/02/---
-> "Where to find the best Japanese cheesecake in Tokyo?"
-
--------2025-02-23-0.03.05.png"
+image: "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=1200"
 tags: ["Restaurant"]
 ---
+> "Where to find the best Japanese cheesecake in Tokyo?"
 
 If you’re a cheesecake lover visiting Tokyo, you’re in for a treat! Japan has its own unique take on cheesecake that’s lighter, creamier, and often more delicate than what you might be used to. But with so many options, it can be hard to know where to start. Luckily, I’ve tried some of the best, and I’m here to guide you on where to find the most amazing Japanese-style cheesecakes in Tokyo!
 

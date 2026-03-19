@@ -8,18 +8,36 @@ tags: ["Money"]
 ---
 > "Are 2k yen bills still valid in Japan or have they been discontinued?"
 
-## General Answer
+**Yes, the 2,000 yen bill is still completely valid.** You can use it anywhere in Japan. But here's the thing — you'll almost never see one.
 
-The 2000 yen note remains legal tender in Japan, even though it was originally introduced to commemorate the year 2000. In practical terms, this bill is rarely encountered today, as it’s not commonly distributed through ATMs and many vending machines or ticket kiosks won’t accept it. However, you can still use it for direct, in-person transactions at most shops or exchange it at banks if needed.
+## Why Are They So Rare?
 
-## My Opinion / Honest Answer
+The 2,000 yen note was introduced in 2000 to celebrate the G8 Summit in Okinawa. But Japanese people found it confusing (since all other bills are 1,000 / 5,000 / 10,000), so banks and ATMs stopped distributing them. Today, most Japanese people have never even held one.
 
-I personally haven’t seen a 2000 yen bill in regular circulation for over a decade. It’s an interesting piece of currency, but somewhat inconvenient if you plan to use it in everyday transactions—especially since many machines won’t take it. If you happen upon one, it could be a fun souvenir or collector’s item.
+## What Should You Do If You Get One?
 
-## A Local’s Real Perspective
+- **Spend it normally** — every shop, restaurant, and vending machine accepts it
+- **Keep it as a souvenir** — many travelers frame them because they're so rare
+- **Don't worry about change** — cashiers will accept it without any issues, though some younger staff might look surprised!
 
-Originally created to celebrate the year 2000, the 2000 yen note has become more of a novelty than useful currency. You’ll hardly see it in daily life, and if you do manage to get one, you might find it more exciting to keep rather than spend.
+## Fun Facts
+
+| Detail | Info |
+|---|---|
+| **Year introduced** | 2000 |
+| **Design** | Shureimon Gate (Okinawa) on front, Tale of Genji on back |
+| **Still printed?** | Yes, but in very small quantities |
+| **Value** | About $13-14 USD |
+
+## Where You Might Find One
+
+- **Okinawa** — they're much more common there since the bill was made to honor the region
+- **Bank exchanges** — you can specifically request one at most banks
+- **Lucky change** — occasionally received from older shops or rural areas
+
+Most Japanese people treat getting a 2,000 yen bill like finding a four-leaf clover — it's a fun little surprise!
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+
