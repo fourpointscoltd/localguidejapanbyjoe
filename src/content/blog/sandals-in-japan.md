@@ -18,23 +18,33 @@ That said, when it comes to other places like upscale restaurants inside high-en
 
 Here’s a deeper dive into your sandal questions:
 
-> “What if I want to enter a temple building that requires removing shoes but I’m wearing sandals? Do I have to wear socks?”
+
+## “What if I want to enter a temple building that requires removing shoes but I’m...
+
 
 Not necessarily. Most temples don’t require socks, but if you want to be tidy or warm, you can wear socks. Some locals just go barefoot when inside. The key is just to remove your footwear at the entrance area. Sandals are actually easier to slip off quickly compared to lace-up shoes. So sandals can be convenient for temple visits.
 
-> “Are flip-flop style sandals okay, or should I avoid them?”
+
+## “Are flip-flop style sandals okay, or should I avoid them?”
+
 
 Flip-flops are fine for casual visits, especially in summer. But if you plan to walk a lot or visit multiple temples, something more secure might be better for comfort. Also, very flimsy flip-flops can feel a bit too casual for some traditional settings, but they’re not considered disrespectful. Just use your judgment based on the place and weather.
 
-> “What about sandals in cities or on public transport? Any issues there?”
+
+## “What about sandals in cities or on public transport? Any issues there?”
+
 
 No problems at all. Japanese people wear sandals on streets, in shops, on trains—just like anywhere else. In fact, many locals switch to sandals in warmer months for comfort. Just keep in mind that some public transport or buildings require removing shoes (rare but possible), but that’s independent of whether they’re sandals or other shoes.
 
-> “If I want to visit a fancy restaurant or hotel lounge, do I need to change shoes?”
+
+## “If I want to visit a fancy restaurant or hotel lounge, do I need to change...
+
 
 Sometimes, yes. High-end places in big cities like Tokyo or Kyoto often have dress codes. Sandals might be too casual especially if they look beachy or sporty. It’s best to carry a pair of neat, closed shoes if you plan to dine somewhere upscale. But many casual restaurants and cafes welcome sandals, so it depends on where you go.
 
-> “Why do temples ask people to remove shoes regardless of footwear type?”
+
+## “Why do temples ask people to remove shoes regardless of footwear type?”
+
 
 This tradition dates back to maintaining cleanliness and purity inside sacred spaces. Historically, outside shoes could bring dirt or impurities, so removing them is a way to respect the spiritual environment. It’s less about fashion or what type of shoes you wear and more about the act of leaving the outside world at the entrance. It’s a humble gesture that Japanese people take seriously, but it’s also very common and natural.
 

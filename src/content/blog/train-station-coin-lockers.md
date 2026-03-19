@@ -17,11 +17,13 @@ Here’s a quick rundown of what you can expect:
 
 - **Large lockers:** Close to 57 cm x 57 cm x 57 cm (22" x 22" x 22"), perfect for big suitcases or bulky items.
 
-Prices usually depend on the size, ranging from about ¥300 (~$2.20 USD) for small, ¥400 (~$3 USD) for medium, to ¥600 (~$4.50 USD) for large lockers. You pay for usage typically up to 24 hours, so if you need it longer, you’ll have to pay again.
+Prices usually depend on the size, ranging from about **¥300** (~$2.20 USD) for small, **¥400** (~$3 USD) for medium, to **¥600** (~$4.50 USD) for large lockers. You pay for usage typically up to **24 hours**, so if you need it longer, you’ll have to pay again.
 
 ---
 
-> **What if all the lockers are full when I arrive at the station?**
+
+## What if all the lockers are full when I arrive at the station?
+
 
 This happens often, especially at busy stations like Tokyo or Osaka during rush hour or holiday seasons. Japanese people often arrive early to secure lockers for day trips or sightseeing. If you find lockers full, some stations have multiple locker areas—check both sides of the platform or entrances. Also, look for coin locker areas near shopping malls or bus terminals connected to the station.
 
@@ -29,23 +31,29 @@ If still no luck, many stations now offer luggage storage services or “takkyub
 
 ---
 
-> **Are there coin lockers that accept credit cards or just coins?**
 
-Traditionally, coin lockers only take coins (¥100 or ¥500 coins mainly). But lately, some big stations have upgraded to electronic lockers that accept IC cards like Suica or Pasmo, or even credit/debit cards. These are super handy if you don’t have the right change.
+## Are there coin lockers that accept credit cards or just coins?
+
+
+Traditionally, coin lockers only take coins (**¥100** or **¥500** coins mainly). But lately, some big stations have upgraded to electronic lockers that accept IC cards like Suica or Pasmo, or even credit/debit cards. These are super handy if you don’t have the right change.
 
 However, these advanced lockers aren’t everywhere yet—mostly in major urban hubs. So, carrying some coins is still a good idea if you’re traveling to smaller or rural stations.
 
 ---
 
-> **Can I leave my luggage overnight or for several days in a coin locker?**
+
+## Can I leave my luggage overnight or for several days in a coin locker?
+
 
 Usually, coin lockers allow a 24-hour usage period. If you keep your luggage longer, the locker may automatically open, and your belongings could be removed by station staff. Some stations might charge extra fees for longer storage, but it’s not common.
 
-For longer-term storage, look for dedicated luggage storage counters or lockers in airports and major stations. They are a bit pricier (around ¥500 to ¥1,000 per day, or $4.50-$9 USD), but safer and more reliable.
+For longer-term storage, look for dedicated luggage storage counters or lockers in airports and major stations. They are a bit pricier (around **¥500** to **¥1,000** per day, or $4.50-$9 USD), but safer and more reliable.
 
 ---
 
-> **Do Japanese people use coin lockers often?**
+
+## Do Japanese people use coin lockers often?
+
 
 Absolutely! Coin lockers are a daily convenience for many locals, especially commuters and shoppers. For example, I frequently use a locker near my work station to leave bulky items or shopping bags before heading home. During festivals or sightseeing trips, it’s common to stash your luggage so you can enjoy walking around without dragging suitcases.
 

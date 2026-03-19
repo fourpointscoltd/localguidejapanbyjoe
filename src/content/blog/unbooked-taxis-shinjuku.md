@@ -17,15 +17,19 @@ One handy thing I’ve noticed on taxis around Tokyo is that many now offer USB-
 
 ---
 
-> How long might I have to wait for a taxi at Shinjuku Station during rush hour?
 
-During peak times—like weekday mornings (7-9 AM) or evenings (5-7 PM)—the lines can get pretty long since a lot of people are commuting or heading home. I’ve waited anywhere from 5 to 20 minutes depending on how busy it is and which exit you use. The south exit tends to have more taxi traffic, so sometimes the line moves faster there.
+## How long might I have to wait for a taxi at Shinjuku Station during rush hour?
+
+
+During peak times—like weekday mornings (7-9 AM) or evenings (5-7 PM)—the lines can get pretty long since a lot of people are commuting or heading home. I’ve waited anywhere from 5 to **20 minutes** depending on how busy it is and which exit you use. The south exit tends to have more taxi traffic, so sometimes the line moves faster there.
 
 If you’re in a hurry, try to avoid the busiest hours or walk a little further from the station exits. Sometimes a short 5-minute walk away from the main entrances can lead you to less crowded taxi stands.
 
 ---
 
-> What if I don’t speak Japanese? Is catching a taxi at Shinjuku Station difficult?
+
+## What if I don’t speak Japanese? Is catching a taxi at Shinjuku Station...
+
 
 Not at all. Taxi drivers in Tokyo are usually patient and used to foreign visitors. Most drivers understand basic English phrases like “Shibuya, please” or “Narita Airport.” Also, many taxis now have navigation systems that can display your destination in English if you show the address on your phone.
 
@@ -33,15 +37,19 @@ If you’re worried about communication, it helps to have your destination writt
 
 ---
 
-> Are taxi fares from Shinjuku Station expensive compared to other transportation?
 
-Taxi fares in Tokyo are generally more expensive than trains or buses, but they’re very convenient if you have luggage or travel late at night. The initial fare starts around ¥450 (about $3.30 USD) for the first 1.052 kilometers (~0.65 miles), then roughly ¥80 (~$0.60 USD) for every 237 meters (~0.15 miles) after that.
+## Are taxi fares from Shinjuku Station expensive compared to other transportation?
 
-For example, a 10-minute taxi ride (around 3 km or 1.9 miles) from Shinjuku to a nearby neighborhood might cost about ¥1,500–¥2,000 ($11–$15 USD). If you’re traveling with others, splitting the fare can make it more reasonable.
+
+Taxi fares in Tokyo are generally more expensive than trains or buses, but they’re very convenient if you have luggage or travel late at night. The initial fare starts around **¥450** (about $3.30 USD) for the first 1.052 kilometers (~0.65 miles), then roughly **¥80** (~$0.60 USD) for every 237 meters (~0.15 miles) after that.
+
+For example, a 10-minute taxi ride (around 3 km or 1.9 miles) from Shinjuku to a nearby neighborhood might cost about **¥1,500–¥2,000** ($11–$15 USD). If you’re traveling with others, splitting the fare can make it more reasonable.
 
 ---
 
-> Can I use taxi apps to book a ride from Shinjuku Station instead?
+
+## Can I use taxi apps to book a ride from Shinjuku Station instead?
+
 
 While taxi apps like JapanTaxi or LINE Taxi exist, they’re not as popular in Tokyo as in other big cities worldwide. Most locals just line up at the taxi stands because it’s usually faster and simpler.
 

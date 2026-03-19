@@ -6,33 +6,44 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1645343182679-bf59289a9c89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFRva3lvJTIwcmFpbiUyMHN0cmVldHxlbnwwfHx8fDE3NTM3MjEwNDl8MA&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Daytrip"]
 ---
+> "Looking for suggestions on what to do in Tokyo on rainy days."
 
-Looking for suggestions on what to do in Tokyo on rainy days?
+My first piece of advice: **just get an umbrella and go out!** Rainy days in Tokyo aren't usually cold (especially spring/summer), and many great spots are actually **less crowded** in the rain. But if you want to stay dry, here are my recommendations:
 
-Honestly, my first thought is: just get an umbrella and go out! Rainy days in Tokyo aren’t usually cold, especially in spring and summer, so it’s pretty comfortable to be outside if you’re prepared. Plus, many touristy spots that are usually packed become way less crowded, which makes exploring a lot more enjoyable. For example, I often head to Tokyo Disney Resort on a rainy day — it’s surprisingly fun and the atmosphere changes completely.
+## Indoor Activities
 
-> “Is it really okay to go to outdoor places like parks or temples when it’s raining?”
+### Museums & Art
+- **teamLab Borderless/Planets** — immersive digital art. Actually better on rainy days (shorter queues!)
+- **Mori Art Museum** (Roppongi Hills) — contemporary art with city views from the 53rd floor
+- **National Museum** (Ueno) — Japan's oldest and largest museum. You could spend a full day here
+- **Ghibli Museum** (Mitaka) — requires advance tickets but absolutely magical
 
-Totally! Japanese people don’t tend to cancel plans just because of a little rain. I’ve gone to places like Ueno Park or Asakusa’s Senso-ji temple during drizzle, and it feels quite different but in a nice, peaceful way. The rain can bring out beautiful reflections on the pavement and even make the colors of gardens and shrines pop more vividly. Just wear waterproof shoes and bring a sturdy umbrella. Many locals do the same. Of course, if it’s a heavy downpour or typhoon-level weather, you might want to stay indoors, but light rain isn’t a big deal here.
+### Shopping & Food
+- **Depachika** (department store basements) — underground food halls are a rainy day paradise. Try Isetan Shinjuku or Takashimaya Nihonbashi
+- **Nakano Broadway** — vintage toys, anime goods, and retro shops across 4 floors
+- **Kappabashi Street** — kitchen supplies and the famous plastic food samples
+- **Akihabara** — electronics, anime, and arcades. Most are indoors
 
-> “What makes visiting Tokyo Disney on a rainy day special?”
+### Unique Experiences
+- **Onsen / Sento** — nothing beats a hot bath on a rainy day. Try **Thermae-yu** near Shinjuku Station or **Oedo Onsen** in Odaiba
+- **Robot Restaurant** (Shinjuku) — wild and entertaining show, fully indoors
+- **Karaoke** — rent a private room for ¥500-1,000/hour per person. Try **Round 1** or **Big Echo**
+- **Game centers** — crane games, rhythm games, and purikura photo booths
 
-Disney on rainy days is a secret little gem. Most visitors avoid going when it rains, so the lines for rides are way shorter. You can sometimes walk right onto popular attractions without waiting 30-60 minutes. Also, the cast members are super friendly and sometimes offer ponchos or special merchandise related to rainy weather. The park’s atmosphere changes — the usual bright and sunny vibe becomes kind of cozy and whimsical with everyone in colorful rain gear. Just keep in mind that some outdoor shows or parades might be canceled, but for me, the trade-off is worth it. Tickets cost about ¥8,200 (~$60 USD) for a one-day adult pass, same price rain or shine.
+## Spots That Are Actually Beautiful in Rain
 
-> “Are there good indoor alternatives if I want to stay dry?”
+- **Meiji Shrine** — the forest path looks mystical with rain mist
+- **Senso-ji at night** — reflections on wet stone are gorgeous for photos
+- **Yanaka Ginza** — old Tokyo neighborhood with covered shopping street
 
-Definitely. Tokyo has tons of indoor options. I often visit department stores like Takashimaya or Mitsukoshi in Ginza — they’re not just shopping spots but also cultural hubs with food basements (depachika), art exhibits, and quiet cafes. Museums like the Mori Art Museum or teamLab Borderless (though check if they’ve reopened) are also great. If you want something uniquely Japanese, try a sento (public bath) or onsen (hot spring) in the city — the warm water on a cold rainy day feels amazing and is a classic local pastime. Prices vary but expect around ¥600-1,000 (~$4.50-$7.50 USD) for a sento.
+## Practical Tips
 
-> “How do Japanese people handle rainy days in their daily life?”
-
-In daily life, most people carry compact umbrellas, which are sold everywhere for about ¥500-1,000 (~$3.50-$7.50 USD), and adjust their schedule if the rain is heavy. Commuters are used to juggling umbrellas on crowded trains and usually take care not to drip water inside. It’s common to see umbrella stands at entrances of shops and restaurants. For kids, rainy days don’t mean staying home — they might wear rain boots and splash in puddles. So, the rain is just a normal part of life here, not a reason to freeze indoors.
-
-> “Any tips for buying and managing umbrellas in Tokyo?”
-
-If you forget to bring one, you can grab a decent umbrella at convenience stores or 100-yen shops. The quality is surprisingly good for the price. I usually buy a compact one that fits in my bag. When you enter shops or restaurants, you’ll often see plastic bags for wet umbrellas — it’s polite to cover your umbrella so the floor stays dry. If the rain stops, many people fold their umbrellas quickly and stash them away, so it’s handy to pick one with a fast-drying fabric.
-
-So yeah, rainy days in Tokyo aren’t a reason to cancel your plans. They offer a chance to see the city from a different angle, avoid long lines, and enjoy some cozy indoor spots. Just embrace the rain with a good umbrella and comfortable shoes, and you’ll probably find yourself enjoying Tokyo in a way many tourists miss out on!
+- **Buy a clear vinyl umbrella** at any convenience store — **¥500-700**. Everyone uses them
+- **Coin lockers** at stations let you store wet bags while you explore
+- **Waterproof shoes** or shoe covers are available at Don Quijote and 100 yen shops
+- **Tokyo Metro** connects most major areas underground — you can stay mostly dry between spots
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

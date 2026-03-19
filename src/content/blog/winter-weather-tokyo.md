@@ -17,23 +17,33 @@ That said, it’s definitely cold enough to need gloves, scarves, and a warm coa
 One handy tip: Japan has Uniqlo stores everywhere — near train stations, airports, and in city centers — where you can buy affordable heat-tech innerwear, gloves, scarves, or coats if you find yourself underprepared. Even convenience stores sell simple gloves and scarves if you need a quick fix. So no stress about packing the heaviest winter wardrobe; you can always pick up what you need locally at reasonable prices.
 
 ---
-> **What if I want to see snow during my trip? Is it possible near Tokyo?**
+
+## What if I want to see snow during my trip? Is it possible near Tokyo?
+
 
 If you’re set on experiencing snow, you’ll need to head north or to mountainous areas. Places like Nagano Prefecture or the mountains around Gunma and Niigata often have snow by late December. They’re just a couple of hours by train from Tokyo. For example, the ski resorts around Hakuba in Nagano usually have snow then. So if snow is a must, plan a day trip or overnight stay in those areas.
 
-> **How about warm clothing on a budget? What should I buy in Japan?**
 
-Uniqlo is your best friend — their heat-tech layers are lightweight but really warm and cost around ¥1,500 to ¥3,000 (~$11 to $22 USD). A basic fleece or down jacket might be ¥5,000 to ¥10,000 (~$37 to $75 USD). Gloves and scarves at convenience stores or 100-yen shops are cheap and practical, perfect for someone who doesn’t want to carry bulky gear from home.
+## How about warm clothing on a budget? What should I buy in Japan?
 
-> **Are there any cultural reasons why Japanese people dress the way they do in winter?**
+
+Uniqlo is your best friend — their heat-tech layers are lightweight but really warm and cost around **¥1,500** to **¥3,000** (~$11 to $22 USD). A basic fleece or down jacket might be **¥5,000** to **¥10,000** (~$37 to $75 USD). Gloves and scarves at convenience stores or 100-yen shops are cheap and practical, perfect for someone who doesn’t want to carry bulky gear from home.
+
+
+## Are there any cultural reasons why Japanese people dress the way they do in...
+
 
 Yes! Japanese winters are dry and often windy, so even if temperatures aren’t freezing, the chill cuts through clothes. Locals tend to layer and cover exposed skin — gloves, scarves, and masks are common not just for warmth but also to protect from cold wind and dry air. You’ll see many people wearing masks in winter, partly for warmth and partly because it’s a considerate way to avoid spreading colds. So layering is very much a part of how Japanese people deal with winter, not just fashion.
 
-> **Can I realistically walk around comfortably in Tokyo in winter without snow gear?**
+
+## Can I realistically walk around comfortably in Tokyo in winter without snow...
+
 
 You can, but it depends on your tolerance. Many locals wear down coats, gloves, and scarves on a typical winter day. For tourists, if you’re used to chilly weather, a warm jacket and maybe a scarf might be enough. But if you’re from a warmer country, even Tokyo’s 5°C (41°F) day can feel pretty cold, especially if there’s wind. Since you can always buy extra gear here, it’s easy to start light and add layers as you go.
 
-> **What about other parts of Japan, like the south or islands? Will it be warmer?**
+
+## What about other parts of Japan, like the south or islands? Will it be warmer?
+
 
 Yes, southern Japan, like Okinawa or Kyushu, tends to be milder and usually doesn’t see snow at all. Temperatures there might be around 10°C to 15°C (50°F to 59°F), so a light jacket is often enough. But it can still be chilly in the mornings and evenings. It’s a different winter vibe compared to Tokyo or northern regions — more like a cool autumn than a freezing winter.
 

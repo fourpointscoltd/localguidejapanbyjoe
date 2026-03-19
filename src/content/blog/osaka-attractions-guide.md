@@ -9,7 +9,7 @@ tags: ["Daytrip"]
 
 > Please recommend any must-see attractions in Osaka.
 
-Alright, to be honest, if you’re looking for classic “must-see” tourist spots in Osaka, Universal Studios Japan (USJ) is the big one that everyone talks about. It’s a world-class theme park, and I’ve been a few times myself. The rides, shows, and especially the Wizarding World of Harry Potter are genuinely fun and well done. Tickets run about ¥8,400 (~$60 USD) for a one-day adult pass, and getting there is easy—just take the JR Yumesaki Line to Universal-City Station.
+Alright, to be honest, if you’re looking for classic “must-see” tourist spots in Osaka, Universal Studios Japan (USJ) is the big one that everyone talks about. It’s a world-class theme park, and I’ve been a few times myself. The rides, shows, and especially the Wizarding World of Harry Potter are genuinely fun and well done. Tickets run about **¥8,400** (~$60 USD) for a one-day adult pass, and getting there is easy—just take the JR Yumesaki Line to Universal-City Station.
 
 That said, as a local who’s lived near Osaka and explored it beyond the tourist bubble, I usually don’t push Osaka as a sightseeing hotspot. It’s a fantastic city to *live* in—full of energy, great food, and down-to-earth people—but it doesn’t have as many “wow” tourist landmarks compared to places like Kyoto, Hiroshima, or Kanazawa. Many Japanese folks I know actually skip Osaka for sightseeing and use it more as a base or a quick stop on the way to other destinations.
 
@@ -27,23 +27,29 @@ So, if you only have a short time in Japan, I’d say Osaka can be skipped in fa
 
 ---
 
-> If I want to skip Universal Studios Japan, what else can I do in Osaka that locals enjoy?
 
-Great question! Locals often spend time in casual, everyday spots. For example, Namba and Umeda are popular shopping and eating districts where you can explore department stores, underground markets, and cozy izakaya (Japanese pubs). I personally enjoy visiting Kuromon Market to try fresh seafood and street snacks—prices are reasonable, like ¥500–¥1,000 (~$4–$7 USD) for a decent snack portion.
+## If I want to skip Universal Studios Japan, what else can I do in Osaka that...
+
+
+Great question! Locals often spend time in casual, everyday spots. For example, Namba and Umeda are popular shopping and eating districts where you can explore department stores, underground markets, and cozy izakaya (Japanese pubs). I personally enjoy visiting Kuromon Market to try fresh seafood and street snacks—prices are reasonable, like **¥500–¥1,000** (~$4–$7 USD) for a decent snack portion.
 
 Also, the Sumiyoshi Taisha Shrine is a peaceful place locals visit, especially during New Year, but it’s less crowded than the big tourist shrines. It’s a nice contrast to the busy city streets.
 
 ---
 
-> How about day trips from Osaka? Are there places locals visit nearby?
 
-Absolutely! Osaka is a great base for exploring the Kansai region. Many locals take quick trips to Kyoto (just 15 minutes by train), Nara, or Kobe. These cities have more traditional temples, historic sites, and nature spots. For instance, Nara’s deer park and giant Buddha statue are quite peaceful and offer a slower pace than Osaka’s urban buzz.
+## How about day trips from Osaka? Are there places locals visit nearby?
 
-If you want something unique, I sometimes head to Minoh Park (about 30 minutes north by train) for an easy hike and to see the waterfall—especially nice in autumn when the leaves change color.
+
+Absolutely! Osaka is a great base for exploring the Kansai region. Many locals take quick trips to Kyoto (just **15 minutes** by train), Nara, or Kobe. These cities have more traditional temples, historic sites, and nature spots. For instance, Nara’s deer park and giant Buddha statue are quite peaceful and offer a slower pace than Osaka’s urban buzz.
+
+If you want something unique, I sometimes head to Minoh Park (about **30 minutes** north by train) for an easy hike and to see the waterfall—especially nice in autumn when the leaves change color.
 
 ---
 
-> What is the cultural vibe of Osaka compared to Tokyo or Kyoto?
+
+## What is the cultural vibe of Osaka compared to Tokyo or Kyoto?
+
 
 Osaka people are known for being more outgoing, funny, and straightforward compared to the more reserved Tokyoites or the traditional Kyoto locals. The city has a working-class history, so the atmosphere is lively and casual. You’ll often hear the Osaka dialect, which sounds friendlier and more relaxed.
 
@@ -51,7 +57,9 @@ This cultural vibe influences how people socialize—Osaka’s food culture, for
 
 ---
 
-> Any tips for tourists who want to experience Osaka like a local?
+
+## Any tips for tourists who want to experience Osaka like a local?
+
 
 If you want to blend in a bit, avoid sticking only to tourist-heavy spots like Dotonbori during peak hours. Instead, try going to smaller neighborhoods like Tenma or Tsuruhashi, where you can find mom-and-pop shops, local markets, and less touristy eateries.
 

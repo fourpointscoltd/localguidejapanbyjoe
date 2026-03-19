@@ -15,23 +15,31 @@ First off, yes, Shibuya Sky does have coin lockers near the entrance. But here�
 
 So if you’re arriving straight from the airport with big luggage, those lockers won’t work for you. That’s something many tourists don’t realize until they get there.
 
-> “What if my suitcase is too big for those lockers? Are there nearby places to store luggage?”
 
-Good question. Around Shibuya Station, there are several luggage storage services and larger coin lockers scattered around the station complex. For example, you can find jumbo lockers in Shibuya Mark City or at Shibuya Hikarie shopping center, which can fit bigger suitcases. Prices vary but expect around ¥600–¥800 ($4.50–$6 USD) for a day.
+## “What if my suitcase is too big for those lockers? Are there nearby places to...
+
+
+Good question. Around Shibuya Station, there are several luggage storage services and larger coin lockers scattered around the station complex. For example, you can find jumbo lockers in Shibuya Mark City or at Shibuya Hikarie shopping center, which can fit bigger suitcases. Prices vary but expect around **¥600–¥800** ($4.50–$6 USD) for a day.
 
 Another popular option is luggage storage services like Ecbo Cloak, where you can reserve space at nearby shops or cafes to drop off your bags for a few hours or a day. I’ve used these before, and it’s handy because you can book online and choose a location close to Shibuya Sky.
 
-> “Is it common for Japanese people to carry luggage to places like Shibuya Sky?”
+
+## “Is it common for Japanese people to carry luggage to places like Shibuya Sky?”
+
 
 Usually not. Locals tend to either go home first or drop off luggage at their accommodation before heading out to sightseeing spots. Carrying big bags around busy areas like Shibuya is a hassle, and the city infrastructure isn’t really built for that. That’s why big lockers aren’t common at observation decks or tourist spots.
 
-> “If I want to go straight from the airport to Shibuya Sky, what’s a realistic plan?”
 
-My personal approach: use luggage storage at the airport or nearby before heading to Shibuya. For example, Narita and Haneda airports offer luggage storage and delivery services. You can store your bags at the airport for a few hours or have your luggage sent directly to your hotel (usually for around ¥1,500–¥3,000 or $11–$22 USD).
+## “If I want to go straight from the airport to Shibuya Sky, what’s a realistic...
+
+
+My personal approach: use luggage storage at the airport or nearby before heading to Shibuya. For example, Narita and Haneda airports offer luggage storage and delivery services. You can store your bags at the airport for a few hours or have your luggage sent directly to your hotel (usually for around **¥1,500–¥3,000** or $11–$22 USD).
 
 Alternatively, if your hotel is near Shibuya or central Tokyo, you can drop off your luggage there first and then head to Shibuya Sky lightly packed. That way you can enjoy the observation deck and the vibrant Shibuya area without lugging around heavy bags.
 
-> “Are there any cultural reasons why big lockers aren’t common at places like Shibuya Sky?”
+
+## “Are there any cultural reasons why big lockers aren’t common at places like...
+
 
 Yes, partly. In Japan, personal space and neatness are valued. Tourist spots often expect visitors to travel light or use dedicated luggage services. Also, many Japanese people rely on their accommodations or delivery services to handle luggage rather than carrying it around all day. That’s why you’ll see many train stations with lockers but observation decks or cafes usually don’t have large locker facilities.
 

@@ -15,22 +15,30 @@ When you withdraw cash at ATMs found at airports, convenience stores like 7-Elev
 I personally tend to withdraw about 50,000 yen ($350 USD) at a time. That amount usually lasts me a while since many places now accept credit cards, so I don’t need to carry too much cash. Also, withdrawing a moderate amount helps keep fees reasonable and reduces the hassle of carrying large sums.
 
 ---
-> **What if I only need a small amount of cash? Is it still worth using ATMs?**
+
+## What if I only need a small amount of cash? Is it still worth using ATMs?
+
 
 Absolutely! Even for small amounts, ATMs at 7-Eleven or post offices are your best bet. The 220 yen fee applies per withdrawal regardless of the amount, so it’s better to withdraw slightly larger sums to avoid multiple fees. But if you only need, say, 5,000 yen ($35), you might have to withdraw 10,000 yen anyway since many ATMs dispense cash in 1,000 yen notes, so it’s not a big deal. The convenience and good rates usually outweigh the small fee.
 
 ---
-> **Can I use any debit card at Japanese ATMs?**
+
+## Can I use any debit card at Japanese ATMs?
+
 
 Most international debit cards with Visa, Mastercard, Cirrus, or Plus logos work at these ATMs, especially at 7-Eleven stores and post offices. However, some cards might not be compatible, so it’s a good idea to check with your bank before traveling. Also, keep in mind your bank at home may charge additional foreign withdrawal fees, so check those costs too.
 
 ---
-> **What about currency exchange counters at airports or banks? Are they a bad idea?**
+
+## What about currency exchange counters at airports or banks? Are they a bad idea?
+
 
 Currency exchange counters at airports or banks often have less favorable exchange rates and sometimes charge hidden commissions. While it’s convenient to exchange cash right after arrival, you might get fewer yen per dollar (or your home currency). Banks usually open during business hours and may not be as accessible as convenience store ATMs, which operate 24/7. So, unless you need cash immediately and have no other option, ATMs are generally better.
 
 ---
-> **Are credit cards widely accepted in Japan, or do I need to carry a lot of cash?**
+
+## Are credit cards widely accepted in Japan, or do I need to carry a lot of cash?
+
 
 Japan is gradually becoming more card-friendly, especially in big cities, department stores, hotels, and chain restaurants. However, many smaller shops, local eateries, temples, and rural areas still prefer cash. That’s why I recommend withdrawing enough cash to cover daily expenses, transportation, and small purchases. Around 50,000 yen ($350) can last a few days if you use cards when possible.
 

@@ -16,23 +16,33 @@ But here’s the reality: many people casually share or pass around Suica cards 
 
 That said, if you lose a personalized Suica, you can’t just get a new one with the same balance unless your ID matches the cardholder name. So personalized Suica cards are best for people who want to protect their balance or get commuter passes. For visitors, I usually recommend the anonymous Suica, which has no name and can be freely used by anyone.
 
-> **What happens if I lose an anonymous Suica card? Can I get my money back?**
 
-If you lose an anonymous Suica, unfortunately, there’s no way to recover the balance. Since it’s not registered under any name, the card is treated like a lost prepaid card. You’d have to buy a new one and load money again, typically ¥2,000 (about $14 USD), which includes a ¥500 deposit refundable when you return the card. For small balances, it’s just part of the cost of convenience.
+## What happens if I lose an anonymous Suica card? Can I get my money back?
 
-> **Can I reload someone else’s Suica card at a machine or convenience store?**
+
+If you lose an anonymous Suica, unfortunately, there’s no way to recover the balance. Since it’s not registered under any name, the card is treated like a lost prepaid card. You’d have to buy a new one and load money again, typically **¥2,000** (about $14 USD), which includes a **¥500** deposit refundable when you return the card. For small balances, it’s just part of the cost of convenience.
+
+
+## Can I reload someone else’s Suica card at a machine or convenience store?
+
 
 Yes, absolutely. The machines and combini registers don’t check your ID or name. You can add money to any Suica card regardless of whose name is on it. So if your friend gives you their Suica, you can reload it easily. The only time the registered name matters is for reissuing lost cards or commuter passes.
 
-> **Are there any situations where using someone else’s Suica causes problems?**
+
+## Are there any situations where using someone else’s Suica causes problems?
+
 
 In daily use, no. Since the card’s tap system is anonymous at gates, it won’t cause issues. But if you try to reissue a lost personalized card, you need the registered person’s ID. Also, commuter passes are tied to the registered user, so using someone else’s commuter Suica could cause trouble if checked.
 
-> **Why do Japanese people register Suica cards with their name if anyone can use them?**
+
+## Why do Japanese people register Suica cards with their name if anyone can use...
+
 
 Registering your Suica adds protections. If you lose it, you can report and get your balance back on a new card. Also, commuter passes and some discount tickets require registration. Many locals have a personalized Suica linked to their company or school commute. But for casual travel, anonymous Suica cards are common and convenient.
 
-> **Can tourists get personalized Suica cards?**
+
+## Can tourists get personalized Suica cards?
+
 
 Usually no. Visitors can buy anonymous Suica cards at airports or stations without ID. Personalized cards require a Japanese address and ID, so they’re mostly for residents. Tourists usually just use anonymous cards or buy prepaid Pasmo cards, which work similarly.
 

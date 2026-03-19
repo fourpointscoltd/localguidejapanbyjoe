@@ -6,45 +6,53 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1727836674703-7d3d26af17c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fEt5b3RvJTIwYXV0dW1ufGVufDB8fHx8MTc1Mzc2ODQ3Nnww&ixlib=rb-4.1.0&q=80&w=2000"
 tags: ["Daytrip"]
 ---
+> "Best places to recommend in Kyoto in October?"
 
-Best Places to Visit in Kyoto in October: A Real Local’s One-Day Tour
+I lived in Kyoto for two years, and October is one of my favorite months there. The summer heat is gone, the crowds are smaller than November (peak foliage), and the weather is perfect for walking. Here's what I actually did on my last October visit:
 
-I lived in Kyoto for two years before moving to Tokyo, and just a few months ago, I spent a day wandering Kyoto in October. So instead of the usual tourist checklist, I’ll share what I actually did and what feels like an authentic Kyoto experience in autumn.
+## My Recommended One-Day Route
 
-> “What’s the best way to spend one day in Kyoto in October?”
+### Morning: Eastern Kyoto
+1. **Kiyomizu-dera** (7:00-8:30am) — arrive at opening to avoid crowds. The wooden terrace overlooking the city is stunning in early light
+2. **Ninenzaka & Sannenzaka** — the preserved stone-paved streets below Kiyomizu. Perfect for photos and window shopping
+3. **Yasaka Shrine** — quick stop, free entry, beautiful any time
 
-From my experience, October is perfect for enjoying Kyoto’s crisp air and early autumn colors, even before the full koyo (fall foliage) season kicks in. I started my day early at a small neighborhood café near my old apartment—nothing fancy, just a simple coffee and a sweet (about ¥600, $4.50). In Kyoto, mornings often begin with these quiet moments away from tourist crowds.
+### Lunch: Nishiki Market
+4. **Nishiki Market** (11:00-12:30) — the "Kitchen of Kyoto." Walk through and eat your way along the 400-meter covered street. Try:
+   - **Dashimaki tamago** (rolled omelette) — ¥300-500
+   - **Tako tamago** (baby octopus with quail egg) — ¥400
+   - **Matcha sweets** — various shops, ¥300-600
 
-Then, I took a slow walk through the Philosopher’s Path. While it’s popular, in October it’s still peaceful, and the leaves are just starting to turn, mixing green and yellow hues. This stroll is something locals do for exercise or to clear their mind, not just for sightseeing. It’s about soaking up the calm and nature.
+### Afternoon: Central & Western Kyoto
+5. **Kinkaku-ji / Golden Pavilion** (14:00) — iconic, worth seeing once. ¥500 entry
+6. **Arashiyama Bamboo Grove** (15:30) — walk through the towering bamboo forest. Less crowded in late afternoon
+7. **Togetsukyo Bridge** — the main bridge in Arashiyama with mountain views
 
-Next, I stopped by a local market near Demachiyanagi station. Unlike the famous Nishiki Market, this one is where neighborhood residents shop for fresh vegetables, fish, and snacks. I grabbed some grilled fish on a stick for about ¥400 ($3), a simple but satisfying snack.
+### Evening: Gion District
+8. **Pontocho Alley** (18:00) — narrow lantern-lit alley along the river. Dozens of small restaurants
+9. **Gion walking** — if you're lucky, you might spot a geiko (geisha) heading to an appointment
 
-For lunch, I avoided the main temple areas where tourist prices skyrocket. Instead, I went to a small family-run soba shop near Gion, tucked away from the main streets. Their soba was handmade, and the meal cost about ¥900 ($7). This is more how Kyotoites eat: seasonal, simple, and unhurried.
+## October-Specific Tips
 
-In the afternoon, I visited a lesser-known temple called Honen-in, which is quiet and surrounded by moss and old trees that already showed some autumn colors. It’s a place locals often visit for a moment of peace rather than photo ops.
+- **Early foliage starts** in late October at higher elevations — check Eikan-do and Tofuku-ji
+- **Weather:** 15-22°C, comfortable. Bring a light jacket for evenings
+- **Jidai Matsuri** (Festival of the Ages) — October 22nd. A massive historical parade through the city. Worth planning around!
+- **Less crowded than November** — this is the sweet spot before foliage peak brings massive crowds
 
-I ended the day by walking around the Kamogawa River banks near Sanjo. In October, many locals come here in the early evening to relax, chat, or even have a small picnic. The river breeze is refreshing and watching the sunset behind the cityscape feels very Kyoto.
+## Getting Around
 
-> “Is it worth visiting the famous temples like Kiyomizu-dera or Fushimi Inari in October?”
+- **Bicycle rental** — my #1 recommendation. Kyoto is flat, and you can cover more ground. ~¥1,000/day
+- **Skip the bus** — cheap (¥230) but always packed and unreliable timing
+- **Taxi** — reasonable for 2-3 people, especially Kyoto Station ↔ Arashiyama area
+- **Walking** — Eastern Kyoto (Kiyomizu → Gion) is best explored on foot
 
-Yes, but be prepared for crowds. October is the start of peak season, and these spots get busy, especially on weekends. Locals tend to avoid these places during peak hours and instead pick quieter moments early morning or late afternoon. If you want a more authentic vibe, try visiting less famous temples like Honen-in, or even small neighborhood shrines where you can observe local rituals.
+## Where to Eat
 
-> “Are there any special events or festivals in Kyoto in October?”
-
-Yes, October hosts the Jidai Matsuri (Festival of the Ages) on October 22nd. It’s one of Kyoto’s biggest festivals with a historical parade. While tourists flock to it, Japanese people often watch the procession from the sidelines or participate if they belong to local communities. It’s a great way to see traditional costumes and feel the city’s spirit, but the whole city gets crowded, so plan accordingly.
-
-> “What’s the best way to get around Kyoto during this time?”
-
-Bicycling is very popular among locals in Kyoto, especially in autumn when the weather is pleasant. I often rented a bicycle for about ¥1,000 ($7.50) per day. It’s a great way to explore small streets and avoid crowded buses or trains. Just be aware that some temple areas don’t allow bikes inside.
-
-> “Any tips for enjoying Kyoto’s food scene authentically in October?”
-
-Look for seasonal ingredients like matsutake mushrooms or chestnuts, which start appearing in October menus. Small izakayas (casual pubs) and family-owned restaurants often feature these in their dishes. I recommend trying a local favorite called yuba (tofu skin), which is simple but reflects Kyoto’s delicate taste culture.
-
-—
-
-So that’s a glimpse of how I personally spend a day in Kyoto during October—not rushing to famous spots but soaking in the local rhythms, simple foods, and early autumn vibes. It’s a different experience from the usual tourist trail but one that shows the real Kyoto from a local’s eyes.
+- **Omen** (Gion) — handmade udon noodles, local favorite
+- **Musubi Cafe** — onigiri (rice balls) with creative fillings
+- **Any place with 行列 (gyoretsu/queue)** — if locals are lining up, it's good
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

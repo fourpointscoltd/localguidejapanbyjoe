@@ -17,16 +17,20 @@ That said, Narita often offers cheaper flights, so if your priority is saving mo
 In short: if you value your time and convenience, Haneda wins. If you want to save on flight costs and don’t mind a longer trip to the airport, Narita.
 
 ---
-> **What’s the actual difference in travel time from central Tokyo to each airport?**
 
-Haneda is about 15-30 minutes from central Tokyo by train or taxi, depending on where you are. For example, from Tokyo Station, it takes around 20 minutes on the Tokyo Monorail or Keikyu Line to Haneda.
+## What’s the actual difference in travel time from central Tokyo to each airport?
 
-Narita is much farther—about 60-90 minutes by train or bus. The Narita Express train from Tokyo Station takes about 60 minutes, but it’s more expensive (around ¥3,000 ≈ $22 USD one-way). Buses take about 90 minutes and are slightly cheaper.
+
+Haneda is about **15-30 minutes** from central Tokyo by train or taxi, depending on where you are. For example, from Tokyo Station, it takes around **20 minutes** on the Tokyo Monorail or Keikyu Line to Haneda.
+
+Narita is much farther—about **60-90 minutes** by train or bus. The Narita Express train from Tokyo Station takes about **60 minutes**, but it’s more expensive (around **¥3,000** ≈ $22 USD one-way). Buses take about **90 minutes** and are slightly cheaper.
 
 So, Haneda is a huge time saver, especially if you have early flights or tight schedules.
 
 ---
-> **Are there differences in facilities or services between the two airports?**
+
+## Are there differences in facilities or services between the two airports?
+
 
 Both airports are modern and well-equipped with shops, restaurants, lounges, and duty-free stores. Haneda has improved a lot in recent years to serve international travelers better, and its terminals are newer and more compact, which means less walking compared to Narita.
 
@@ -35,16 +39,20 @@ Narita can feel more spread out since it was designed for international flights 
 From my experience, Haneda’s smaller size means less hassle, especially if you’re traveling with family or lots of luggage.
 
 ---
-> **Can I easily get public transportation to and from both airports?**
+
+## Can I easily get public transportation to and from both airports?
+
 
 Yes, both airports have good public transport links. Haneda is served by the Tokyo Monorail and Keikyu Line, which connect quickly to major hubs like Shinagawa and Tokyo Station.
 
 Narita has the Narita Express train and several bus services. The trains are comfortable but pricier and take longer.
 
-Taxis to Narita can be quite expensive (upwards of ¥20,000 ≈ $150 USD) because of the distance, while taxis to Haneda cost much less (around ¥5,000 ≈ $37 USD) from central Tokyo.
+Taxis to Narita can be quite expensive (upwards of **¥20,000** ≈ $150 USD) because of the distance, while taxis to Haneda cost much less (around **¥5,000** ≈ $37 USD) from central Tokyo.
 
 ---
-> **Is there any difference in flight availability or price between the two airports?**
+
+## Is there any difference in flight availability or price between the two...
+
 
 Narita generally handles more long-haul international flights and tends to have more budget airline options, which can mean cheaper tickets.
 

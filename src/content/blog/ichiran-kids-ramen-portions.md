@@ -13,22 +13,30 @@ Great question! Ichiran is famous for its tonkotsu ramen and solo dining booths,
 I’ve brought my nieces and nephews here, and it’s been surprisingly easy to satisfy their picky tastes because you can tweak the flavor intensity and toppings. It’s not just a smaller portion thrown at them — it’s thoughtfully adjusted so kids can enjoy it without being overwhelmed by the strong pork broth or spicy elements.
 
 ---
-> **Can children customize their ramen the same way adults do?**
+
+## Can children customize their ramen the same way adults do?
+
 
 Yes, they can! Ichiran provides a special order sheet designed for kids, which is simpler but still lets them pick noodle firmness, richness of the soup, and whether they want toppings like green onions or egg. It’s a nice way for kids to feel involved in the experience without the complexity of the full adult menu. This customization is what really impressed me because it respects kids’ preferences rather than forcing them to eat something they dislike.
 
 ---
-> **Is the kids' ramen really half the size? Will it be enough for hungry children?**
+
+## Is the kids' ramen really half the size? Will it be enough for hungry children?
+
 
 The kids’ ramen is about half the usual size — enough for young kids or smaller eaters, but maybe not for older or very hungry children. When I went with my niece, who’s around 8 years old and a bit of a light eater, the portion was just right. But for bigger kids, you might want to order an extra bowl or share an adult portion. The half-size bowl costs nothing extra if ordered along with an adult’s ramen, so it’s a good way to keep everyone fed without breaking the bank.
 
 ---
-> **How much does a kids’ ramen cost if we have more than five children?**
 
-The first five children eat free with one adult order, but if you have more than five kids, the additional kids' ramen will be charged. The kids’ ramen price is about half the regular bowl, so roughly ¥500 to ¥600 (~$3.50 to $4.20 USD), depending on the location. It’s still a reasonable price, especially considering the quality of the soup and noodles. Just be aware that Ichiran’s priority is solo diners and adults, so very large families might find it easier to visit during less busy hours.
+## How much does a kids’ ramen cost if we have more than five children?
+
+
+The first five children eat free with one adult order, but if you have more than five kids, the additional kids' ramen will be charged. The kids’ ramen price is about half the regular bowl, so roughly **¥500** to **¥600** (~$3.50 to $4.20 USD), depending on the location. It’s still a reasonable price, especially considering the quality of the soup and noodles. Just be aware that Ichiran’s priority is solo diners and adults, so very large families might find it easier to visit during less busy hours.
 
 ---
-> **Can picky eaters avoid the rich pork broth? Are there alternative broths?**
+
+## Can picky eaters avoid the rich pork broth? Are there alternative broths?
+
 
 Ichiran specializes in tonkotsu pork broth, which is very rich and creamy. For picky kids who don’t like pork or strong flavors, Ichiran doesn’t offer alternative broths—so it might not be the best fit for sensitive palates. However, the broth’s richness can be toned down via the order sheet settings, and you can request less spicy or no garlic options. In my experience, if your child is hesitant about pork broth, it’s better to try a different ramen shop that offers shoyu (soy sauce) or miso broths, which tend to be milder and more familiar to children.
 

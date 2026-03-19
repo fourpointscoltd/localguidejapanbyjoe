@@ -17,7 +17,9 @@ This is THE place for English books in Tokyo. The entire 6th floor is dedicated 
 
 [Kinokuniya Official Website](https://www.kinokuniya.co.jp/en/)
 
-> **What if I need something more academic or specialized?**
+
+## What if I need something more academic or specialized?
+
 
 **A:** Then Maruzen & Junkudo is your best bet! They have stores in Ikebukuro and Shibuya, and their English selection is more focused on academic texts, professional books, and study materials. The Ikebukuro store is massive—9 floors!—and their foreign book section has everything from scientific journals to art books. If you're looking for TOEFL prep books or academic papers, this is where Tokyo's university students go.
 
@@ -25,19 +27,25 @@ This is THE place for English books in Tokyo. The entire 6th floor is dedicated 
 
 [JUNKUDO Ikebukuro · 2 Chome-15-5 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan★★★★☆ · Boekwinkel![](https://www.localguide-japan.com/content/images/icon/maps15_bnuw3a_32dp-51.ico)JUNKUDO Ikebukuro · 2 Chome-15-5 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan![](https://www.localguide-japan.com/content/images/thumbnail/AC9h4noZwN_qOM8vCisI67O6tRm8P_xjqGO6adrZ5Jc4JesHJDYZkcdW04aSI3Y2svdjIAQfq_SkXxSAiPW6EcOU4cwjZac4ospTaE22dgxV0Fy5M6tlWQZOZTIsn6nC6xqfhH7xNEmx3A-w900-h900-p-k-no)](https://maps.app.goo.gl/zxsABmE37n8DQkfCA)
 
-> **Those sound expensive! Any budget-friendly options?**
 
-Book Off is your friend! It's a massive second-hand chain, and their larger stores (especially in Shibuya and Akihabara) have decent English sections. You can find bestsellers for ¥500-800 that would cost ¥2,000+ new. The selection varies day by day, so it's like a treasure hunt. I've found everything from Harry Potter to business books there.
+## Those sound expensive! Any budget-friendly options?
+
+
+Book Off is your friend! It's a massive second-hand chain, and their larger stores (especially in Shibuya and Akihabara) have decent English sections. You can find bestsellers for **¥500-800** that would cost **¥2,000**+ new. The selection varies day by day, so it's like a treasure hunt. I've found everything from Harry Potter to business books there.
 
 **What is Book Off?** Book Off is Japan's largest second-hand bookstore chain, famous for buying and selling used books, CDs, DVDs, and games. They're super strict about book condition—even "used" books look almost new. Look for "Super Bazaar" locations for the biggest English selections.
 
-> **I'm actually looking for English manga. Any special spots?**
+
+## I'm actually looking for English manga. Any special spots?
+
 
 For English manga, definitely hit Kinokuniya Shinjuku—they have a whole section on the 6th floor. But here's an insider tip: check out Mandarake in Akihabara! They specialize in rare and out-of-print manga, including English editions. Sometimes you'll find volumes that are sold out everywhere else. Another surprise spot is [Tsutaya in Daikanyama](https://maps.app.goo.gl/P4Xwer9qzT4144rS7)—they curate a small but excellent selection of English graphic novels and art books.
 
 [Tsutaya Books Daikanyama · Japan, 〒150-0033 Tokyo, Shibuya, Sarugakucho, 17−5 代官山Ｔ－ＳＩＴＥ １号館～３号館 １階～２階★★★★★ · Boekwinkel![](https://www.localguide-japan.com/content/images/icon/maps15_bnuw3a_32dp-52.ico)Tsutaya Books Daikanyama · Japan, 〒150-0033 Tokyo, Shibuya, Sarugakucho, 17−5 代官山Ｔ－ＳＩＴＥ １号館～３号館 １階～２階![](https://www.localguide-japan.com/content/images/thumbnail/AC9h4npInegDEdQN6deCaecksfDOzrSl8JYMSK1Gshl4wYlP1PQk3xoWj9vI74VhfG77xqHQ60SaZSXEZ99wJhqWzghgUaX-fbhORVVJsPxjB_ckJIhA3Xu9wTYoOqLeSooPl__Ft51M4gujQGYZ-w900-h900-p-k-no)](https://maps.app.goo.gl/P4Xwer9qzT4144rS7)
 
-> **What about digital options?**
+
+## What about digital options?
+
 
 Honestly, most people I know just use Amazon Japan or Kindle these days. Amazon Japan has a huge English book selection, often cheaper than physical stores, and they deliver next day in Tokyo. If you have a Japanese address, setting up an account is easy. For instant gratification, Kindle Japan has almost the same selection as Kindle US, and you can switch between stores if you have accounts in both countries.
 

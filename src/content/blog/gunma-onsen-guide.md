@@ -16,16 +16,20 @@ From my own visits, Kusatsu’s hot springs are not just for tourists—they’r
 Outside of onsen towns like Kusatsu, Gunma doesn’t have many famous tourist spots compared to other prefectures. So if you’re not into hot springs, one day might feel a bit limited. That said, the countryside and mountain views are pretty lovely, and the local food—like “Joshu beef” or fresh vegetables—adds a nice touch to the visit.
 
 ---
-> What if I only have one day and can’t stay overnight? Is a Kusatsu day trip realistic from Tokyo?
 
-Yes, it’s possible! Kusatsu is about 3 hours by train and bus from Tokyo, so you’ll spend quite a bit of your day just getting there and back. Many Japanese people do day trips to Kusatsu from Tokyo, especially on weekends.
+## What if I only have one day and can’t stay overnight? Is a Kusatsu day trip...
+
+
+Yes, it’s possible! Kusatsu is about **3 hours** by train and bus from Tokyo, so you’ll spend quite a bit of your day just getting there and back. Many Japanese people do day trips to Kusatsu from Tokyo, especially on weekends.
 
 If you go this route, I’d recommend arriving early to enjoy public bathhouses like Sainokawara Rotenburo (outdoor bath) and watching the daily Yumomi performance—a traditional method to cool down hot spring water that locals have done for centuries. You can also stroll Yubatake, Kusatsu’s famous hot water field in the town center.
 
 Just keep in mind that since you’ll be on a tight schedule, you might miss the slower pace and quiet moments that make Kusatsu special. Also, some ryokans (Japanese inns) and footbaths that locals use are best enjoyed in the evening or early morning.
 
 ---
-> Are there other onsen towns in Gunma worth visiting if I want to skip Kusatsu?
+
+## Are there other onsen towns in Gunma worth visiting if I want to skip Kusatsu?
+
 
 Definitely! Gunma has several other charming onsen spots like Ikaho Onsen and Shima Onsen. Ikaho is famous for its stone steps lined with shops and small public baths, while Shima Onsen is quieter and more traditional, nestled in a mountain valley.
 
@@ -34,7 +38,9 @@ These towns often feel less touristy than Kusatsu and give you a glimpse of how 
 For a short stay, Kusatsu remains the most convenient and lively choice, but if you want a more off-the-beaten-path experience and have a bit more time, these alternatives are worth considering.
 
 ---
-> What else do Japanese people do in Gunma besides soaking in onsen?
+
+## What else do Japanese people do in Gunma besides soaking in onsen?
+
 
 Gunma locals appreciate the outdoors—hiking, cycling, and visiting local farms are common weekend activities. The prefecture is quite rural, so farmers’ markets and seasonal fruit picking (like grapes or cherries) are popular too.
 
@@ -43,11 +49,13 @@ I’ve enjoyed visiting Gunma’s small museums or temples, but these are quiet 
 Eating local cuisine is another way to experience Gunma. Aside from Joshu beef, try “Okkirikomi,” a hearty noodle soup popular in winter. Many local eateries feel very “everyday Japan” rather than tourist-focused.
 
 ---
-> Any tips for booking accommodation if I decide to stay overnight in Kusatsu?
+
+## Any tips for booking accommodation if I decide to stay overnight in Kusatsu?
+
 
 Booking early helps, especially in peak seasons like winter or Golden Week. Ryokans in Kusatsu vary from traditional inns with tatami rooms and kaiseki meals to more modern hotels.
 
-One thing I noticed is that many ryokans require you to arrive by early evening (around 6 pm), so plan your travel accordingly. Prices can range from ¥10,000 to ¥30,000 per person (about $70 to $210 USD), depending on the ryokan and meal options.
+One thing I noticed is that many ryokans require you to arrive by early evening (around 6 pm), so plan your travel accordingly. Prices can range from **¥10,000** to **¥30,000** per person (about $70 to $210 USD), depending on the ryokan and meal options.
 
 If you want a genuine local feel, look for smaller family-run lodgings rather than big hotels. Some ryokans have their own private baths, which are a treat if you want to avoid crowds.
 

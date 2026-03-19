@@ -16,28 +16,36 @@ One thing to keep in mind is that Japan tends to get a fair amount of rain in Ma
 For your family, layering is key. I usually wear a light sweater or fleece under a waterproof jacket. Think of packing items like long-sleeved shirts, cardigans, and a raincoat or compact umbrella. And don’t stress too much about packing bulky or large-sized clothes—if you find you need something, Uniqlo stores and even convenience stores around Tokyo stock plenty of affordable, good-quality clothes and rain gear. That’s super handy, especially for travelers.
 
 ---
-> "What if it rains every day during our stay? Are we stuck indoors?"
+
+## What if it rains every day during our stay? Are we stuck indoors?
+
 
 Rain is definitely common in March, but it rarely pours all day long across the city. Usually, it’s light to moderate showers that come and go. When it rains, most locals just pop on their raincoats or open umbrellas and keep going about their day—commuting, shopping, or visiting museums. Tokyo is very walkable even in wet weather, and many subway stations and shopping areas are connected underground, so you can avoid getting soaked.
 
 For families, I recommend packing waterproof shoes or quick-drying sneakers. Also, try to plan some indoor activities like visiting teamLabs Borderless in Odaiba or the National Museum of Emerging Science and Innovation—both are great for kids and adults alike and totally doable even if the weather’s gloomy.
 
 ---
-> "We’re worried about sizing differences. Can we find clothes in large sizes suitable for Indian families?"
+
+## We’re worried about sizing differences. Can we find clothes in large sizes...
+
 
 Japanese clothing tends to run smaller than what you might be used to in India, but don’t worry too much. Major chains like Uniqlo carry larger sizes, especially in their global flagship stores around Tokyo. Plus, you can find a variety of casual wear at reasonable prices—jackets, sweaters, and rainwear included.
 
-If you find something you like, buying locally can be a lifesaver, especially if you run into unexpected weather changes. Also, convenience stores sometimes sell lightweight rain ponchos for about ¥300-500 (around $2.50-$4 USD), which are perfect for emergencies and very compact to carry.
+If you find something you like, buying locally can be a lifesaver, especially if you run into unexpected weather changes. Also, convenience stores sometimes sell lightweight rain ponchos for about **¥300-500** (around $2.50-$4 USD), which are perfect for emergencies and very compact to carry.
 
 ---
-> "Is it worth buying a raincoat before arriving, or should we just buy one here?"
+
+## Is it worth buying a raincoat before arriving, or should we just buy one here?
+
 
 I personally recommend bringing at least one decent raincoat or waterproof jacket from home if you already have one. It’s more comfortable and reliable than those disposable plastic ponchos you might buy here. However, if you forget or prefer to travel light, you can easily buy good rainwear in Tokyo. Stores like Uniqlo, Muji, and even drugstores stock affordable, stylish rain jackets.
 
-Umbrellas are also widely available everywhere—train stations, convenience stores, department stores—you name it. Prices range from about ¥500 to ¥2,000 ($4 to $15 USD), depending on quality. Japanese umbrellas are pretty sturdy and designed to handle the wind, so they’re a solid purchase if you need one.
+Umbrellas are also widely available everywhere—train stations, convenience stores, department stores—you name it. Prices range from about **¥500** to **¥2,000** ($4 to $15 USD), depending on quality. Japanese umbrellas are pretty sturdy and designed to handle the wind, so they’re a solid purchase if you need one.
 
 ---
-> "Any tips for dealing with the temperature swings during the day?"
+
+## Any tips for dealing with the temperature swings during the day?
+
 
 Absolutely! Tokyo’s March weather can be a bit of a rollercoaster. Mornings and evenings can be chilly, while midday might feel warm if the sun is shining. Dressing in layers is the best approach—think T-shirts or long-sleeve tops under sweaters or cardigans, topped with a light jacket or raincoat.
 

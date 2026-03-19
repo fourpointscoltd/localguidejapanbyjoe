@@ -21,23 +21,33 @@ Tokyo, for example, barely sees snow—only about 1 to 3 times a year—so if yo
 
 Now, let me dig into some common questions I hear about this season:
 
-> “What if I want to avoid snow-related travel disruptions, but still enjoy winter scenery?”
+
+## “What if I want to avoid snow-related travel disruptions, but still enjoy...
+
 
 If you want to enjoy a bit of winter’s crisp air without worrying about snowstorms, I’d suggest sticking to cities like Tokyo, Kyoto, or Osaka in late November to early December. These places rarely get heavy snow at this time. You’ll still see autumn leaves fading and early winter’s quiet charm. For snowy views, a day trip to nearby mountains is possible, but plan your transport carefully.
 
-> “How about food? Are winter specialties easy to find in this season?”
 
-Absolutely! Winter is when seafood like crab and mackerel is at its peak, and vegetables like daikon radish and leafy greens are sweetest. Restaurants start serving hot pot dishes (nabe), which locals love for warming up in the cold weather. I often hunt down local izakayas (casual pubs) to try different styles of nabe—each region has its own twist. Prices vary, but a good hot pot meal usually runs about ¥1,500–¥3,000 ($10–$22 USD).
+## “How about food? Are winter specialties easy to find in this season?”
 
-> “Is skiing or snowboarding already possible in late November to early December?”
+
+Absolutely! Winter is when seafood like crab and mackerel is at its peak, and vegetables like daikon radish and leafy greens are sweetest. Restaurants start serving hot pot dishes (nabe), which locals love for warming up in the cold weather. I often hunt down local izakayas (casual pubs) to try different styles of nabe—each region has its own twist. Prices vary, but a good hot pot meal usually runs about **¥1,500–¥3,000** ($10–$22 USD).
+
+
+## “Is skiing or snowboarding already possible in late November to early December?”
+
 
 In most ski resorts, this period is just the start of the season, and snow coverage might still be patchy. Hokkaido and northern Honshu resorts sometimes open in early December, depending on weather. Even if you don’t ski, many resorts have snowshoeing or winter hiking options. For a first-time visitor, experiencing the snowy mountain atmosphere is still rewarding, even without skiing.
 
-> “If I’m flying into Japan during this season, should I worry about flight delays because of snow?”
+
+## “If I’m flying into Japan during this season, should I worry about flight...
+
 
 Delays happen occasionally in snowy regions like Kanazawa or Sapporo, but they’re rare—only a few times per year. Most flights run smoothly. If you’re concerned, consider flying into major hubs like Tokyo’s Haneda or Narita airports, where snow rarely causes issues. Also, keep an eye on weather forecasts and give yourself some buffer time if you have connecting flights.
 
-> “What do Japanese people actually do during this early winter season?”
+
+## “What do Japanese people actually do during this early winter season?”
+
 
 For many locals, late November to early December is a time to start shifting into winter mode—switching wardrobes, enjoying seasonal foods, and preparing for year-end events. It’s not as hectic as the New Year period, so some people take short trips to onsens (hot springs) or countryside areas to relax. Also, winter illuminations start popping up in cities, which is a big draw for couples and families.
 

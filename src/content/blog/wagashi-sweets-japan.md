@@ -12,21 +12,29 @@ I have to be honest—I wasn’t a big fan of wagashi at first. The sweetness is
 
 Wagashi comes in many shapes and sizes, from tiny delicate sweets to larger steamed buns called manju. Because they use less sugar compared to typical sweets, they’re often considered healthier and are beautifully crafted to reflect the seasons.
 
-If you want to try some authentic wagashi, I recommend starting with smaller pieces—less intimidating and easier to appreciate the subtle flavors. Two of my favorite shops are Toraya and Taneya. Toraya even has a lovely store inside Tokyo Station, which is very convenient if you’re passing through. Prices for individual wagashi can range around ¥300-¥500 (about $2.50-$4.50 USD), which is reasonable for such high-quality treats.
+If you want to try some authentic wagashi, I recommend starting with smaller pieces—less intimidating and easier to appreciate the subtle flavors. Two of my favorite shops are Toraya and Taneya. Toraya even has a lovely store inside Tokyo Station, which is very convenient if you’re passing through. Prices for individual wagashi can range around **¥300-¥500** (about $2.50-$4.50 USD), which is reasonable for such high-quality treats.
 
-> “What if I don’t like matcha? Can I enjoy wagashi without it?”
+
+## “What if I don’t like matcha? Can I enjoy wagashi without it?”
+
 
 Good question! While wagashi is traditionally paired with matcha, you can definitely enjoy it on its own or with other types of tea, like sencha or hojicha, which have milder bitterness. Some wagashi are also sweet enough to be pleasant without tea, especially varieties filled with sweet red bean paste. But to get the full cultural experience, trying matcha together is worth a shot—even if you’re not a big fan of bitter flavors, the combination might surprise you like it did for me.
 
-> “Are there special times or seasons when wagashi is best to eat?”
+
+## “Are there special times or seasons when wagashi is best to eat?”
+
 
 Yes! Wagashi is deeply connected to the seasons in Japan. For example, in spring you might find sakura (cherry blossom) flavored sweets shaped like flowers, while autumn features chestnut or sweet potato flavors. Local wagashi shops often create limited-edition treats reflecting seasonal festivals or natural changes. Japanese people usually enjoy them with tea during tea ceremonies or just as a small treat in the afternoon. So if you visit during a particular season, look for seasonal wagashi to experience the unique flavors and designs.
 
-> “Can I try making wagashi myself? Are there workshops or classes for tourists?”
 
-Actually, yes! Some cultural centers and wagashi shops in bigger cities like Kyoto and Tokyo offer wagashi-making workshops. They’re usually small groups and last a couple of hours, priced around ¥3,000-¥5,000 ($22-$38 USD). It’s a fun way to learn about the ingredients and techniques while creating your own sweet piece of art. Just keep in mind these classes often require advance booking, and some are conducted in Japanese with limited English support, but the hands-on experience is rewarding even if your language skills aren’t perfect.
+## “Can I try making wagashi myself? Are there workshops or classes for tourists?”
 
-> “Is wagashi only for special occasions, or do Japanese people eat it daily?”
+
+Actually, yes! Some cultural centers and wagashi shops in bigger cities like Kyoto and Tokyo offer wagashi-making workshops. They’re usually small groups and last a couple of hours, priced around **¥3,000-¥5,000** ($22-$38 USD). It’s a fun way to learn about the ingredients and techniques while creating your own sweet piece of art. Just keep in mind these classes often require advance booking, and some are conducted in Japanese with limited English support, but the hands-on experience is rewarding even if your language skills aren’t perfect.
+
+
+## “Is wagashi only for special occasions, or do Japanese people eat it daily?”
+
 
 In daily life, wagashi isn’t something most people eat every day like a snack, but it’s common enough to find in supermarkets, convenience stores, and department store food halls. Many Japanese enjoy wagashi during tea time, or when visiting friends and family as a polite gift. Also, it often appears at festivals and seasonal events. So while not an everyday indulgence, wagashi is a familiar and cherished part of Japanese food culture that blends art, tradition, and taste.
 

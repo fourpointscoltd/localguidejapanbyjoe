@@ -11,15 +11,19 @@ tags: ["Souvenirs"]
 
 If you’re craving Milo while in Tokyo, you’re in luck—it’s usually not too hard to find. Milo had a bit of a boom about a year ago, and for a while, many supermarkets ran out of stock because it got so popular. But nowadays, most regular supermarkets carry it again, and you can also find it at Don Quijote stores, which are kind of like discount megastores that sell everything from snacks to electronics.
 
-From my experience, supermarkets like Aeon, Seiyu, and even smaller local grocery stores often have Milo in the beverage or international foods section. Don Quijote stores are a safe bet if you want to grab Milo along with other Western or international products, and they usually have a wider variety of imported items. Prices for Milo powder or ready-to-drink cans vary but expect something around ¥200 to ¥400 ($1.50 to $3.00 USD) depending on the size.
+From my experience, supermarkets like Aeon, Seiyu, and even smaller local grocery stores often have Milo in the beverage or international foods section. Don Quijote stores are a safe bet if you want to grab Milo along with other Western or international products, and they usually have a wider variety of imported items. Prices for Milo powder or ready-to-drink cans vary but expect something around **¥200** to **¥400** ($1.50 to $3.00 USD) depending on the size.
 
-> Is Milo popular among Japanese people, or is it mostly bought by foreigners?
+
+## Is Milo popular among Japanese people, or is it mostly bought by foreigners?
+
 
 Milo’s popularity among Japanese people is more of a niche thing. It’s not a common household staple like green tea or coffee. The recent surge in interest came partly through social media and younger people wanting to try unique or nostalgic drinks. But mostly, it’s foreigners or people who’ve lived overseas who seek it out.
 
 Japanese supermarkets usually stock it in the international or kids’ drink sections, but it’s not something you’d see in every home. So if you find Milo, consider yourself a bit lucky!
 
-> Are there other Western grocery stores in Tokyo where I can find familiar snacks and ingredients?
+
+## Are there other Western grocery stores in Tokyo where I can find familiar...
+
 
 Definitely! Tokyo has several Western and international grocery stores scattered around, though they’re not as common as regular supermarkets. Places like Kaldi Coffee Farm, National Azabu, and Seijo Ishii cater to expats and adventurous locals. Kaldi is great for imported snacks and coffee beans and usually has Milo too.
 
@@ -27,13 +31,17 @@ National Azabu is a bit pricier but offers a wide range of imported goods, from 
 
 In addition to these, Don Quijote, as mentioned, is a convenient one-stop shop for many international items and is open late, which is handy if you’re out exploring Tokyo at night.
 
-> Can I buy Milo in ready-to-drink form or just as powder in Japan?
+
+## Can I buy Milo in ready-to-drink form or just as powder in Japan?
+
 
 You can find both, but powder form is more common in supermarkets and grocery stores. Ready-to-drink Milo cans or bottles can show up in convenience stores or Don Quijote, but their availability might be limited.
 
 If you enjoy making your own drinks, the powder lets you adjust the strength and add milk or water to your liking. Japanese people who drink Milo sometimes heat it up as a warm beverage, especially in cooler months.
 
-> Any tips for shopping in Tokyo if I want to find other international or nostalgic snack foods?
+
+## Any tips for shopping in Tokyo if I want to find other international or...
+
 
 Japanese supermarkets are surprisingly good at carrying international items, but the selection depends on the store and the neighborhood. Bigger supermarkets in areas with many expats, like Ebisu, Azabu-Juban, or Roppongi, tend to have better international sections.
 

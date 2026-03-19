@@ -14,23 +14,33 @@ That said, the one caution I personally take is avoiding areas crowded with drun
 
 Here are some common follow-up questions I often get about this topic:
 
-> “What about walking alone late at night in quieter neighborhoods?”
+
+## “What about walking alone late at night in quieter neighborhoods?”
+
 
 From my experience, quieter residential or business areas in Tokyo are very safe even late at night. It’s common to see older people taking evening strolls or workers heading home after midnight. Of course, it’s always good to stay alert as you would anywhere, but violent crime or mugging is almost unheard of in these parts. Just avoid poorly lit back alleys and trust your instincts.
 
-> “Are there any streets or districts I should definitely avoid after dark?”
+
+## “Are there any streets or districts I should definitely avoid after dark?”
+
 
 Besides the main nightlife hubs like Kabukicho in Shinjuku, the area around Center Gai in Shibuya, and parts of Ikebukuro’s east exit, there aren’t many places to worry about. These spots attract a lot of drunk crowds who can sometimes be loud or disorderly. I’ve been around them many times and have never felt in danger, but if you want a relaxed walk, it’s better to avoid these specific streets late at night.
 
-> “Is it common for Japanese people to walk alone at night?”
+
+## “Is it common for Japanese people to walk alone at night?”
+
 
 Yes, many Japanese people walk home alone at night, especially from train stations or convenience stores. It’s part of daily life for office workers, students, and late-shift workers. Public transport usually runs until around midnight or later, so walking some distance home is normal. You might even see elderly neighbors on casual night walks, which is a bit of a cultural thing for relaxation and exercise.
 
-> “What if I’m out drinking and need to walk home late?”
 
-If you’ve been drinking, you’ll probably be near one of the busy nightlife areas I mentioned. Japanese people often take taxis home if they’ve had too much to drink, though taxis can be pricey – expect to pay about ¥1,000 to ¥2,000 (~$7-$14 USD) for short rides within central Tokyo. Otherwise, many bars close around midnight, and the trains stop running shortly after, so planning ahead is key. Walking home through the busy areas is usually safe but just expect some noisy crowds.
+## “What if I’m out drinking and need to walk home late?”
 
-> “Are there any special safety tips for solo female travelers walking at night?”
+
+If you’ve been drinking, you’ll probably be near one of the busy nightlife areas I mentioned. Japanese people often take taxis home if they’ve had too much to drink, though taxis can be pricey – expect to pay about **¥1,000** to **¥2,000** (~$7-$14 USD) for short rides within central Tokyo. Otherwise, many bars close around midnight, and the trains stop running shortly after, so planning ahead is key. Walking home through the busy areas is usually safe but just expect some noisy crowds.
+
+
+## “Are there any special safety tips for solo female travelers walking at night?”
+
 
 Tokyo is generally safe for solo female travelers at night, more so than many other major cities. That said, some women prefer to avoid the busiest nightlife streets late at night because of the noisy groups of drunk people. Using well-lit main streets and avoiding deserted alleys is a common practice. If you want extra peace of mind, taking a taxi or ride-share after midnight is easy and not too expensive.
 

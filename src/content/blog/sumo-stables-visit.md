@@ -13,28 +13,36 @@ If you’re hoping to catch a sumo tournament during late May to mid June in Jap
 So, late May to mid June is kind of a gap period. The May tournament in Tokyo runs for 15 days, usually from the second Sunday of May to the fourth Sunday. After that, there’s no official tournament in June. That means if you want to see sumo matches live in competition during this time, your best bet is to catch the tail end of the Tokyo May basho (tournament) if your trip overlaps, but by late May most of the action is wrapping up.
 
 ---
-> **What if I’m in Osaka or Nagoya during late May to mid June? Any sumo action there?**
+
+## What if I’m in Osaka or Nagoya during late May to mid June? Any sumo action...
+
 
 Unfortunately, no official grand tournaments in Osaka or Nagoya happen in May or June. Osaka’s tournament is in March, and Nagoya’s is in July. That said, sumo wrestlers do train and sometimes participate in exhibition events or regional tours (jungyo), but those are less predictable and smaller scale.
 
 If you’re really keen, some stables (sumo training camps) occasionally allow visitors to watch morning practice sessions. These aren’t tournaments but give a backstage peek at how sumo wrestlers train daily. It’s a very different vibe from the official matches but quite authentic. You’d need to contact stables ahead or join guided tours since casual drop-ins aren’t usually allowed.
 
 ---
-> **How much do tickets to a sumo tournament cost, and how do Japanese people usually watch them?**
 
-Tickets vary depending on seat location and day, but expect around ¥3,000–¥15,000 (about $22–$110 USD). Early rounds are cheaper, and the final days with the championship fights cost more. Japanese fans often buy tickets for the weekend matches or the last few days when the excitement peaks.
+## How much do tickets to a sumo tournament cost, and how do Japanese people...
+
+
+Tickets vary depending on seat location and day, but expect around **¥3,000–¥15,000** (about $22–$110 USD). Early rounds are cheaper, and the final days with the championship fights cost more. Japanese fans often buy tickets for the weekend matches or the last few days when the excitement peaks.
 
 Many locals also watch sumo on TV at home or in bars—sumo is a big part of Japanese culture, and it’s common family viewing. Attending the live matches is special but not something everyone does every tournament due to ticket availability and cost. I personally love the atmosphere of the arena—hearing the stomping and seeing the wrestlers up close is quite different from watching on TV.
 
 ---
-> **Can tourists realistically get sumo tickets, and any tips for getting good seats?**
+
+## Can tourists realistically get sumo tickets, and any tips for getting good...
+
 
 Tourists can get tickets but planning ahead is key since tournaments sell out, especially for weekend and final day matches. Tickets go on sale about a month before the tournament. Websites like the Japan Sumo Association’s official site or ticket vendors like Ticket Pia provide English info.
 
 For a first-time visitor, sitting in the lower ringside boxes or the first few rows on the east or west side is thrilling but pricey. Upper balcony seats are more affordable and still offer a good view of the bouts. I usually recommend going for mid-range seats so you get a good view without breaking the bank.
 
 ---
-> **What do Japanese people do during the tournament outside of watching matches?**
+
+## What do Japanese people do during the tournament outside of watching matches?
+
 
 Sumo tournaments are also social and cultural events. Locals often enjoy wandering around the Ryogoku area in Tokyo, where the stadium is located, eating chanko nabe (sumo stew) at nearby restaurants, and browsing sumo-themed shops. The atmosphere feels like a festival.
 

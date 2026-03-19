@@ -18,26 +18,34 @@ For something more savory, try Daiichi Asahi, a ramen shop representing Kyoto-st
 And if you’re in the mood for grilled meat, there’s Kō near Kyoto Station. It’s a casual yakiniku spot where you can enjoy quality meat without the hassle of long lines or the formality of more famous flagship stores. It’s a nice balance of good food and relaxed atmosphere, perfect if you want a simple but authentic dining experience close by.
 
 ---
-> **What if I want some local snacks or souvenirs nearby? Any good shopping spots around Kyoto Station?**
+
+## What if I want some local snacks or souvenirs nearby? Any good shopping spots...
+
 
 Absolutely! Kyoto Station itself is a hub for shopping. The station building has several floors with shops selling local crafts, sweets, and souvenirs. I often browse the “Isetan” department store inside the station for Kyoto specialties like yatsuhashi (cinnamon rice crackers) and green tea products. Also, the underground Porta shopping mall has smaller boutiques and food stalls with interesting Kyoto treats.
 
 For something less touristy, walk a little east towards the shopping arcade around Shichijo Street. There you’ll find local shops selling handmade goods and specialty foods that locals pick up for gifts or home. It’s a good way to see the daily shopping habits of Kyoto residents rather than just tourist souvenirs.
 
 ---
-> **How much should I expect to pay at these places?**
 
-Good question! At Nakamura Tokichi, the matcha parfait costs about ¥1,000 to ¥1,200 (roughly $7 to $9 USD), which is reasonable for a dessert experience of that quality. Daiichi Asahi’s ramen is very affordable, around ¥700 to ¥900 ($5 to $7 USD), making it a popular choice for a quick and tasty meal. At Kō yakiniku, expect to spend about ¥3,000 to ¥4,000 ($22 to $30 USD) per person for a casual dinner, depending on what cuts you order.
+## How much should I expect to pay at these places?
+
+
+Good question! At Nakamura Tokichi, the matcha parfait costs about **¥1,000** to **¥1,200** (roughly $7 to $9 USD), which is reasonable for a dessert experience of that quality. Daiichi Asahi’s ramen is very affordable, around **¥700** to **¥900** ($5 to $7 USD), making it a popular choice for a quick and tasty meal. At Kō yakiniku, expect to spend about **¥3,000** to **¥4,000** ($22 to $30 USD) per person for a casual dinner, depending on what cuts you order.
 
 ---
-> **Is it easy to get to these places from Kyoto Tower Hotel? Any tips on timing or crowds?**
 
-All these spots are within a 10-15 minute walk from Kyoto Tower Hotel. Nakamura Tokichi is inside Kyoto Station’s building, so easy and convenient. Daiichi Asahi is just a few minutes’ walk south of the station. Kō is also nearby, just a short stroll east.
+## Is it easy to get to these places from Kyoto Tower Hotel? Any tips on timing or...
+
+
+All these spots are within a **10-15 minute** walk from Kyoto Tower Hotel. Nakamura Tokichi is inside Kyoto Station’s building, so easy and convenient. Daiichi Asahi is just a few minutes’ walk south of the station. Kō is also nearby, just a short stroll east.
 
 Since Nakamura Tokichi can get busy during afternoon snack times (around 2-4 pm), I usually recommend going earlier in the day if you want a quieter experience. Daiichi Asahi opens very early, around 6 or 7 am, so if you want to beat the crowd, breakfast there is a good idea. Kō tends to be less crowded on weekdays and earlier evenings, so avoid prime dinner rush times if you want a more relaxed vibe.
 
 ---
-> **Are there any cultural customs I should be aware of when eating at these local spots?**
+
+## Are there any cultural customs I should be aware of when eating at these local...
+
 
 Yes, a few things to keep in mind. At traditional places like Nakamura Tokichi, it’s polite to wait to be seated rather than just grabbing a table. At ramen shops like Daiichi Asahi, it’s common to eat quickly and leave to make room for others, so don’t linger too long after finishing your meal. And for yakiniku places like Kō, grilling your own meat is part of the fun, but Japanese people tend to cook bite-sized pieces and eat them promptly rather than letting them sit on the grill.
 

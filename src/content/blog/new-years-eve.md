@@ -19,25 +19,35 @@ Here’s what a typical Japanese New Year’s Eve and New Year look like from my
 - **Countdown activities:** Around midnight, people often visit shrines or temples for “hatsumode,” the first shrine visit of the year. Some towns have outdoor concerts or countdown events, but these tend to be calm and community-focused, not wild parties.
 - **New Year’s Day:** On January 1st, families eat special New Year dishes called “osechi,” which are beautifully arranged meals with symbolic meanings. People also go to shrines or temples to draw “omikuji,” fortune slips that predict the year ahead.
 
-> **Q: What if I want a lively New Year's Eve with lots of people and parties?**
+
+## Q: What if I want a lively New Year's Eve with lots of people and parties?
+
 
 If you’re after a bustling party atmosphere, Tokyo’s Shibuya Crossing is famous for its massive countdown crowd. Thousands gather there to celebrate, and it’s a bit like a Western-style street party, though still more orderly than you might expect. However, it’s very crowded and can be overwhelming. Alternatively, some cities like Osaka and Fukuoka also have lively countdown events with live music and fireworks. Just keep in mind that these are more of an exception in Japan, where New Year’s is generally quieter and family-focused.
 
-> **Q: Can tourists join the hatsumode shrine visits?**
+
+## Q: Can tourists join the hatsumode shrine visits?
+
 
 ![](https://www.localguide-japan.com/content/images/2025/07/30050j_short_rinji001_pixta-1.webp)
 
 Absolutely! Hatsumode is open to everyone, and many tourists enjoy the atmosphere. Popular shrines like Meiji Jingu in Tokyo or Fushimi Inari Taisha in Kyoto can get very crowded, but that’s part of the experience. You can see people making wishes, buying charms, and drawing omikuji. Just be respectful—line up patiently, don’t push, and follow local customs like washing your hands at the purification fountain before entering.
 
-> **Q: Are there any special New Year foods I can try as a visitor?**
 
-Yes! Many convenience stores and supermarkets sell osechi boxes around New Year’s, which are a good introduction to these traditional dishes. If you want to try something simple on New Year’s Eve, look for soba noodles shops that stay open late for toshikoshi soba. Some restaurants offer special New Year menus, but they can be pricey—expect around ¥3,000–¥5,000 ($20–$35 USD) for a decent osechi set.
+## Q: Are there any special New Year foods I can try as a visitor?
 
-> **Q: How do Japanese people usually spend New Year's Day besides shrine visits?**
+
+Yes! Many convenience stores and supermarkets sell osechi boxes around New Year’s, which are a good introduction to these traditional dishes. If you want to try something simple on New Year’s Eve, look for soba noodles shops that stay open late for toshikoshi soba. Some restaurants offer special New Year menus, but they can be pricey—expect around **¥3,000–¥5,000** ($20–$35 USD) for a decent osechi set.
+
+
+## Q: How do Japanese people usually spend New Year's Day besides shrine visits?
+
 
 New Year’s Day is often a quiet family time. People relax at home, watch special TV programs, or play traditional games like hanetsuki (a kind of badminton) and cards. Some families send and receive New Year’s greeting cards called “nengajo.” It’s a slower pace compared to the Western New Year’s Day celebrations.
 
-> **Q: Is it easy to get around during New Year in Japan?**
+
+## Q: Is it easy to get around during New Year in Japan?
+
 
 Public transportation runs but sometimes on reduced schedules, especially on January 1st. Some train lines near popular shrines run extra services late at night on New Year’s Eve for hatsumode visitors. However, many shops and restaurants close for a few days after January 1st, so plan accordingly.
 

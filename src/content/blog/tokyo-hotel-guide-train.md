@@ -30,24 +30,32 @@ Shinjuku, Shibuya, Roppongi, Ikebukuro, and Kinshicho are where the action is af
 If you’re traveling with kids, hotels near Disneyland, Oshiage (Tokyo Skytree), Toyosu (teamLab Planets), Tokyo Dome, Tokyo Tower, Shinagawa, or Odaiba are great. These locations offer easy access to kid-friendly attractions and often have spacious hotels.
 
 ---
-> How about budget travelers who want to see a lot but don’t want to spend too much on accommodation?
 
-Ueno and Asakusa are your best bets. I often stay around Ueno because the hotels and guesthouses are affordable (around ¥5,000-¥10,000 / $35-$70 USD per night for decent places). Plus, you can easily jump on JR lines to visit popular spots like Akihabara, Shinjuku, and even Nikko for day trips. Asakusa gives you that old Tokyo vibe and is great for food stalls and souvenir shopping without breaking the bank. Both areas have good metro connections but tend to be quieter at night compared to Shinjuku or Shibuya.
+## How about budget travelers who want to see a lot but don’t want to spend too...
+
+
+Ueno and Asakusa are your best bets. I often stay around Ueno because the hotels and guesthouses are affordable (around **¥5,000-¥10,000** / $35-$70 USD per night for decent places). Plus, you can easily jump on JR lines to visit popular spots like Akihabara, Shinjuku, and even Nikko for day trips. Asakusa gives you that old Tokyo vibe and is great for food stalls and souvenir shopping without breaking the bank. Both areas have good metro connections but tend to be quieter at night compared to Shinjuku or Shibuya.
 
 ---
-> If I want to be in the center of everything but avoid the craziness of nightlife, where should I stay?
+
+## If I want to be in the center of everything but avoid the craziness of...
+
 
 Try the area around Tokyo Station or Nihonbashi. It’s right in the middle of the city with top train connections, but it’s more business and government offices than party venues. The vibe is calm, and you can walk to the Imperial Palace gardens or Ginza shopping district during the day. At night, it’s peaceful, which is a nice break from the neon lights and crowds of places like Shinjuku or Shibuya.
 
 ---
-> Is it easy to get from these hotel areas to famous spots like Shibuya, Harajuku, or Asakusa by train?
 
-Absolutely! Tokyo’s train and subway network is one of the best in the world. For example, from Tokyo Station, you can take the JR Yamanote Line directly to Shibuya and Harajuku in about 25 minutes. From Ueno or Akihabara, you can use JR or metro lines to reach Asakusa pretty quickly. The key is picking your hotel near a JR or metro line station that connects well to the Yamanote Line, which loops around central Tokyo’s main districts.
+## Is it easy to get from these hotel areas to famous spots like Shibuya,...
+
+
+Absolutely! Tokyo’s train and subway network is one of the best in the world. For example, from Tokyo Station, you can take the JR Yamanote Line directly to Shibuya and Harajuku in about **25 minutes**. From Ueno or Akihabara, you can use JR or metro lines to reach Asakusa pretty quickly. The key is picking your hotel near a JR or metro line station that connects well to the Yamanote Line, which loops around central Tokyo’s main districts.
 
 ---
-> What about staying near Tokyo Disneyland? Is it worth it even if I’m not going to the park every day?
 
-If you’re a family or a big Disney fan, staying near Disneyland or DisneySea is fantastic because you can relax without rushing in the morning. Hotels here tend to be pricier (¥15,000+ / $105+ USD per night), but the convenience is unbeatable. Even if you don’t spend all day at the park, the area has good train access (via the JR Keiyo Line) to central Tokyo like Tokyo Station or Shinjuku. For solo or budget travelers, though, I’d recommend staying more central and taking a day trip to Disneyland instead.
+## What about staying near Tokyo Disneyland? Is it worth it even if I’m not going...
+
+
+If you’re a family or a big Disney fan, staying near Disneyland or DisneySea is fantastic because you can relax without rushing in the morning. Hotels here tend to be pricier (**¥15,000**+ / $105+ USD per night), but the convenience is unbeatable. Even if you don’t spend all day at the park, the area has good train access (via the JR Keiyo Line) to central Tokyo like Tokyo Station or Shinjuku. For solo or budget travelers, though, I’d recommend staying more central and taking a day trip to Disneyland instead.
 
 ---
 **Cultural Context:**

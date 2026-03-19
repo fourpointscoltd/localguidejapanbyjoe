@@ -17,25 +17,33 @@ On the other hand, Kawagoe is a charming historical town known for its well-pres
 One thing to keep in mind is the size and layout: Kamakura’s attractions, including nearby Enoshima Island, cover a fairly large area. So if you get an early start, you can enjoy a full day exploring. Kawagoe is easier to cover in a shorter time.
 
 ---
-> What if I only have a half day? Which one should I pick?
+
+## What if I only have a half day? Which one should I pick?
+
 
 If you only have half a day, Kawagoe would probably suit you better. Because it’s more compact, you can easily explore the main streets, visit some shrines like Kita-in, and enjoy the local sweet shops without rushing. Kamakura’s sites are spread out, so half a day might feel a bit stressful trying to see everything. Kawagoe’s nostalgic atmosphere is perfect for a relaxed stroll even if your time is limited.
 
-> How do Japanese people usually get to Kamakura or Kawagoe from Asakusa?
 
-From Asakusa to Kamakura, there isn’t a direct train. Usually, people take the Ginza Line or Asakusa Line to connect to JR lines in central Tokyo—like from Shinjuku or Tokyo Station—and then head down to Kamakura on the JR Yokosuka Line. It takes about 90 minutes total, costing around ¥920 (~$7 USD) one way.
+## How do Japanese people usually get to Kamakura or Kawagoe from Asakusa?
 
-To Kawagoe, it’s easier because you can take the Tobu Tojo Line directly from Ikebukuro (reachable from Asakusa via metro) or the JR Saikyo Line. The trip takes about an hour and costs around ¥500-600 (~$4-5 USD) one way. Because of this convenience, Kawagoe is popular for quick day trips.
 
-> Are there any special local experiences in Kamakura or Kawagoe that tourists often miss?
+From Asakusa to Kamakura, there isn’t a direct train. Usually, people take the Ginza Line or Asakusa Line to connect to JR lines in central Tokyo—like from Shinjuku or Tokyo Station—and then head down to Kamakura on the JR Yokosuka Line. It takes about **90 minutes** total, costing around **¥920** (~$7 USD) one way.
+
+To Kawagoe, it’s easier because you can take the Tobu Tojo Line directly from Ikebukuro (reachable from Asakusa via metro) or the JR Saikyo Line. The trip takes about an hour and costs around **¥500-600** (~$4-5 USD) one way. Because of this convenience, Kawagoe is popular for quick day trips.
+
+
+## Are there any special local experiences in Kamakura or Kawagoe that tourists...
+
 
 In Kamakura, many tourists visit the famous Great Buddha and Hasedera Temple, but fewer take time to walk the hiking trails between temples or visit the less-crowded coastal areas. Japanese locals often enjoy these peaceful walks and stop at small cafés or craft shops along the way, soaking in the slower pace.
 
 In Kawagoe, while the main street with old warehouses is well known, locals might visit smaller temples like Hikawa Shrine or enjoy seasonal festivals like the Kawagoe Festival in October. Also, trying sweet potato snacks (a local specialty) at shops off the beaten path is a real treat.
 
-> Can you share any budget tips for these day trips?
 
-Both Kamakura and Kawagoe have many free or low-cost attractions. Most temples charge small entry fees around ¥300-500 (~$2.50-4 USD). For food, you can enjoy affordable local eats: in Kamakura, try a simple shirasu (whitebait) bowl for around ¥800 (~$6 USD), and in Kawagoe, sweet potato ice cream or snacks cost about ¥300 (~$2.50 USD).
+## Can you share any budget tips for these day trips?
+
+
+Both Kamakura and Kawagoe have many free or low-cost attractions. Most temples charge small entry fees around **¥300-500** (~$2.50-4 USD). For food, you can enjoy affordable local eats: in Kamakura, try a simple shirasu (whitebait) bowl for around **¥800** (~$6 USD), and in Kawagoe, sweet potato ice cream or snacks cost about **¥300** (~$2.50 USD).
 
 Transportation is the biggest cost, so using a prepaid IC card like Suica or Pasmo helps make transfers easier. If you plan multiple stops, check for regional day passes—sometimes there are deals for unlimited rides in certain areas.
 

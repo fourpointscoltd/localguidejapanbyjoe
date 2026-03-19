@@ -12,22 +12,30 @@ When I want to keep carbs low while eating out in Japan, one common thing many l
 Another favorite spot of mine is Salad Works, especially their FARM BOWL. It’s a vibrant, fresh salad bowl loaded with vegetables and proteins. What’s nice about it is that it looks simple but the flavors really awaken your appetite—you don’t feel like you’re missing out on anything compared to heavier meals. It’s also quick and healthy, perfect for busy days.
 
 ---
-> **Q: How much less rice do they usually serve at sushi places, and does it affect the price?**
+
+## Q: How much less rice do they usually serve at sushi places, and does it affect...
+
 
 From my experience, sushi chefs usually reduce the rice by about half or sometimes serve just the fish without rice (nigiri sashimi style). Prices generally stay the same because you’re still getting the fish, which is the main part. Some high-end places might charge slightly less if you skip rice entirely, but in casual sushi bars, it’s usually no extra cost. Just politely request “rice small” or “rice less” when ordering.
 
 ---
-> **Q: Are there other typical Japanese dishes that can be enjoyed low-carb?**
+
+## Q: Are there other typical Japanese dishes that can be enjoyed low-carb?
+
 
 Absolutely! Many Japanese dishes naturally emphasize fish, meat, and vegetables without heavy carbs. For example, sashimi platters, grilled fish (like salt-grilled mackerel), yakitori (grilled chicken skewers without sauce), and tofu dishes are great choices. Also, miso soup and clear soups are very low in carbs. Just watch out for things like tempura batter or sweet sauces which add carbs.
 
 ---
-> **Q: Can tourists easily find Salad Works or similar salad places in Japan?**
 
-Salad Works is a chain mainly in Tokyo, so if you’re in the capital region, you can find it in shopping malls or near train stations. The FARM BOWL costs around ¥1,000–1,200 (about $7–9 USD), making it affordable for a lunch option. In other regions, look for cafes or deli-style places offering fresh salads and protein bowls—these are becoming more common as health-conscious eating grows in popularity.
+## Q: Can tourists easily find Salad Works or similar salad places in Japan?
+
+
+Salad Works is a chain mainly in Tokyo, so if you’re in the capital region, you can find it in shopping malls or near train stations. The FARM BOWL costs around **¥1,000–1,200** (about $7–9 USD), making it affordable for a lunch option. In other regions, look for cafes or deli-style places offering fresh salads and protein bowls—these are becoming more common as health-conscious eating grows in popularity.
 
 ---
-> **Q: Why do Japanese people often eat sushi with less rice? Is it just a health trend?**
+
+## Q: Why do Japanese people often eat sushi with less rice? Is it just a health...
+
 
 It’s partly health and partly taste preference. Rice is a staple, but Japanese often like to balance their meals so it doesn’t feel too heavy. Plus, sushi chefs put a lot of emphasis on the fish’s flavor; too much rice can dilute that experience. Asking for less rice lets you focus on the seafood itself. Low-carb diets have become more talked about recently, but even before that, this way of eating was common especially among those watching their carb intake or just wanting a lighter meal.
 

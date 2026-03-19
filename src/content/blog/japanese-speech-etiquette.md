@@ -21,23 +21,33 @@ Here’s how the real Japanese experience plays out:
 - However, if you mess up grammar or pronunciation badly, Japanese people usually just find it cute or endearing rather than rude. They appreciate the effort more than perfection.
 - Some younger people or staff at tourist spots might switch to English automatically once they notice a foreigner struggling, so just relax and go with the flow.
 
-> “What if I only know a few words and get nervous about making mistakes?”
+
+## “What if I only know a few words and get nervous about making mistakes?”
+
 
 Don’t worry too much! Japanese people tend to be patient and encouraging when foreigners try to speak. I once tried ordering ramen with my very limited Japanese, and the shop owner chuckled but helped me out kindly. It’s a shared human moment rather than a test. Even a simple “onegaishimasu” (please) or “arigato” (thank you) shows politeness without pressure.
 
-> “How about if I just speak English? Will that be rude or cold?”
+
+## “How about if I just speak English? Will that be rude or cold?”
+
 
 It’s definitely not rude. Many Japanese understand basic English, especially in cities and tourist areas. They won’t expect you to speak Japanese. Sometimes using simple English or pointing to items works perfectly. Japanese culture values harmony and kindness, so as long as you’re polite and smiling, you’re fine.
 
-> “Are there situations where speaking Japanese is especially appreciated?”
+
+## “Are there situations where speaking Japanese is especially appreciated?”
+
 
 Yes! When visiting traditional places like local markets, family-run shops, or ryokan inns, a bit of Japanese really brightens the interaction. It signals that you’re interested in more than just sightseeing. Also, during festivals or community events, locals appreciate when foreigners join in with some Japanese greetings or phrases.
 
-> “Should I try learning keigo (polite Japanese) or just casual phrases?”
+
+## “Should I try learning keigo (polite Japanese) or just casual phrases?”
+
 
 Basic polite phrases are enough and actually preferred. Japanese people value politeness, but as a learner, it’s okay to keep things simple. Phrases like “sumimasen” (excuse me), “arigato gozaimasu” (thank you very much), or “onegaishimasu” (please) are great starters. Keigo can be complex and might confuse both you and the listener if not used properly.
 
-> “Any tips on practicing Japanese before and during my trip?”
+
+## “Any tips on practicing Japanese before and during my trip?”
+
 
 Try learning phrases you’ll actually use daily—greetings, ordering food, asking for directions. Apps or phrasebooks work well. When in Japan, watch how locals speak, and don’t hesitate to mimic their tone or gestures. Most importantly, laugh off mistakes and enjoy the learning process. I’ve found that locals often become friends after a bit of language exchange and mutual effort.
 

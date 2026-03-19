@@ -13,27 +13,39 @@ Great question! From my experience living and traveling all over Japan, it’s t
 
 For example, when I’m out in Tokyo or Osaka during summer, I usually see lots of lightweight long pants or culottes and short-sleeved blouses or shirts rather than just plain T-shirts and shorts. It feels a bit more polished or put-together. On the other hand, tourists wearing shorts and T-shirts blend right in, so don’t worry about standing out in a bad way.
 
-> **Why do Japanese people avoid shorts more than Westerners?**
+
+## Why do Japanese people avoid shorts more than Westerners?
+
 
 There’s a cultural aspect here. Japanese fashion often leans toward modesty and neatness in public. Showing too much skin casually can feel a bit informal or even sloppy, especially for adults. Also, work culture and social settings influence this—people want to look presentable even outside the office. For teenagers and young people, shorts and T-shirts are more common because youth fashion is more relaxed and experimental.
 
-> **What do I recommend packing?**
+
+## What do I recommend packing?
+
 
 I personally pack a mix of comfortable but modest clothes. For summer, I go for breathable long pants or skirts and short-sleeved shirts or blouses. Light layers help because air conditioning indoors can be chilly. Of course, if you love shorts or T-shirts, feel free to bring them! Lots of tourists and young Japanese people wear them without issues. Just maybe avoid super casual or athletic shorts if you plan to visit temples or nicer restaurants.
 
-> **What about in winter? Do Japanese people wear shorts then?**
+
+## What about in winter? Do Japanese people wear shorts then?
+
 
 Almost never for adults. Winter in Japan can be cold, so layering with pants, sweaters, and coats is standard. Shorts might appear only in rare fashion-forward settings or indoors at home.
 
-> **Are there places where wearing shorts is more common?**
+
+## Are there places where wearing shorts is more common?
+
 
 At beaches, summer festivals, or sports events, shorts and casual T-shirts are definitely more accepted. Also in some very casual neighborhoods or youth hangouts, you’ll see them more. But in business districts or formal settings, you’ll mostly find longer pants.
 
-> **Any tips for packing shoes?**
+
+## Any tips for packing shoes?
+
 
 Comfortable walking shoes are a must because Japanese streets and public transport involve lots of walking. Sandals are fine in summer, but avoid flip-flops except at the beach or ryokan (traditional inns). Many Japanese change into indoor slippers or remove shoes at homes and some restaurants, so slip-ons are convenient.
 
-> **Can I wear T-shirts with logos or English text?**
+
+## Can I wear T-shirts with logos or English text?
+
 
 Yes, no problem! Japanese people often wear clothes with English or other foreign words, sometimes without knowing the exact meaning. As a foreigner, your T-shirt will be seen as casual and fun. Just avoid offensive or overly provocative messages.
 

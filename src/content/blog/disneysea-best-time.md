@@ -15,25 +15,33 @@ Japanese people often check the weather forecast carefully before deciding to vi
 
 ---
 
-> **Is it okay to visit DisneySea on a rainy day? Won’t the rain ruin the experience?**
+
+## Is it okay to visit DisneySea on a rainy day? Won’t the rain ruin the...
+
 
 Actually, rain doesn’t bother most locals much because DisneySea’s rides and waiting areas are mostly covered. I’ve been caught in light rain and still had a great time. The park even feels a bit magical in the drizzle, with fewer people around. Just bring a compact umbrella or rain poncho. Heavy rain or storms might limit outdoor shows, but the rides themselves are usually fine. So don’t fear a little rain!
 
 ---
 
-> **How different is the crowd size between weekdays and weekends?**
+
+## How different is the crowd size between weekdays and weekends?
+
 
 Weekends are packed, no doubt—especially Saturday afternoons and Sundays. Japanese families and groups of friends tend to visit then. On weekdays, especially Tuesday through Thursday, the park is way less crowded. Lines can be half the length or shorter. If you can take a weekday off, it’s worth it. Also, avoid public holidays and school vacation weeks—they’re as busy as weekends.
 
 ---
 
-> **What about visiting during Japanese holidays or school breaks? Any tips then?**
+
+## What about visiting during Japanese holidays or school breaks? Any tips then?
+
 
 During Golden Week (late April to early May), Obon (mid-August), and New Year holidays, DisneySea is extremely crowded, sometimes unbearably so. Locals mostly avoid these times unless they’re die-hard fans. If you must go then, arriving right at opening and using the park’s FastPass system (or paid options like Disney Premier Access) helps. But honestly, for a more relaxed vibe, pick a regular weekday outside these busy seasons.
 
 ---
 
-> **Are there any cheaper or less crowded times in specific months?**
+
+## Are there any cheaper or less crowded times in specific months?
+
 
 January and February, after New Year’s rush, are quieter months. Also, early December before Christmas hype starts is calmer. Midweek in these months, combined with uncertain weather, is prime time for locals to sneak in. Ticket prices don’t usually change by season, but crowd levels do. So you get better value by going off-peak, even if the weather looks iffy.
 

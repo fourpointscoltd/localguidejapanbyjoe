@@ -10,29 +10,37 @@ tags: ["Transportation"]
 
 If you’re planning to visit Tokyo and Kyoto, you might have come across two popular IC cards: Suica and Pasmo. Honestly, from my experience living and traveling around Japan, these two cards are basically the same thing with different names. Here’s the lowdown:
 
-As of 2023, you typically won’t find regular plastic Suica or Pasmo cards sold everywhere anymore. When you arrive at the airport, look for the “Welcome Suica” card — it’s a special version for visitors and super convenient to get right away. The best part? It’s free! You just pay a deposit of ¥500 (about $3.50 USD), which you can get back when you return the card.
+As of 2023, you typically won’t find regular plastic Suica or Pasmo cards sold everywhere anymore. When you arrive at the airport, look for the “Welcome Suica” card — it’s a special version for visitors and super convenient to get right away. The best part? It’s free! You just pay a deposit of **¥500** (about $3.50 USD), which you can get back when you return the card.
 
 Both Suica and Pasmo work perfectly on trains, buses, and even taxis in Tokyo, Kyoto, and all over Japan. But they’re not just for transportation. You can use them to pay at convenience stores, vending machines, some restaurants, and even at lockers in major stations. It’s like a prepaid electronic wallet that saves you the hassle of buying individual tickets or fumbling with cash.
 
 From my own trips, I always grab a Welcome Suica right after landing. It’s so handy that I rarely need to carry cash during the day. Plus, you can recharge the card at stations or convenience stores easily. So really, just get one card — there’s no need to have both.
 
 ---
-> **If Suica and Pasmo are basically the same, why do they have different names?**
+
+## If Suica and Pasmo are basically the same, why do they have different names?
+
 
 Good question! The reason goes back to history and who operates the cards. Suica is issued by JR East (the Japan Railways company in eastern Japan), while Pasmo is managed by a group of private railway and bus companies around Tokyo. But today, the two systems are fully interoperable — they talk to each other perfectly. So from a user’s perspective, nothing changes. It’s mostly branding and which company sells the card.
 
 ---
-> **Can I use the Suica or Pasmo card outside Tokyo and Kyoto?**
+
+## Can I use the Suica or Pasmo card outside Tokyo and Kyoto?
+
 
 Yes! One of the coolest things about these cards is that they work nationwide on almost all major trains, buses, and even at many stores. For example, you can use Suica in Osaka, Hiroshima, Fukuoka — basically anywhere the IC card system is accepted. Just keep in mind that some rural areas may not support it, but for big cities and popular tourist destinations, you’re covered.
 
 ---
-> **How much money should I load onto the card?**
 
-This depends on how long you’re staying and how much you plan to travel. For a typical 3-5 day trip visiting Tokyo and Kyoto, I’d suggest starting with around ¥3,000 to ¥5,000 (about $21 to $35 USD). That usually covers subway rides, buses, and small purchases. You can always recharge at stations or convenience stores, so no stress if you run low.
+## How much money should I load onto the card?
+
+
+This depends on how long you’re staying and how much you plan to travel. For a typical 3-5 day trip visiting Tokyo and Kyoto, I’d suggest starting with around **¥3,000** to **¥5,000** (about $21 to $35 USD). That usually covers subway rides, buses, and small purchases. You can always recharge at stations or convenience stores, so no stress if you run low.
 
 ---
-> **Are there any special cards for tourists besides Welcome Suica?**
+
+## Are there any special cards for tourists besides Welcome Suica?
+
 
 There used to be some tourist-specific cards with unlimited travel passes, but these are often limited-time offers or available only in certain regions. The Welcome Suica is your best bet for ease and flexibility in Tokyo/Kyoto. If you want unlimited travel within a city for a day, look into city-specific day passes, but those are separate from Suica/Pasmo.
 
