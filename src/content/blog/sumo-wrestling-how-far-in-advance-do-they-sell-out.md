@@ -6,28 +6,43 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/30290j_short_rinji_001_pixta.jpg-1.jpg"
 tags: ["Events"]
 ---
-> "Sumo wrestling, how far in advance do they sell out?"
+> "How far in advance do sumo tournament tickets sell out?"
 
-### **General Answer**
+**Popular seats sell out within minutes.** General tickets are easier but still go fast. Here's what you need to know:
 
-Sumo tickets are extremely popular, especially for the **Tokyo Grand Sumo Tournaments (January, May, and September at **[**Ryogoku Kokugikan**](https://www.google.com.hk/maps/place/ryogoku+kokugikan/data=!4m2!3m1!1s0x6018893554b8eb19:0x70237cc76b1dfa74?sa=X&ved=1t:155783&ictx=111)**)**. Tickets can sell out within hours of release, particularly for weekends and high-demand seats.
+## Tokyo Sumo Tournament Schedule (Ryogoku Kokugikan)
 
-Tickets typically go on sale **about two months before the tournament**, and you can purchase them through:
+| Tournament | Month | Duration |
+|---|---|---|
+| **January** | Mid-January | 15 days |
+| **May** | Mid-May | 15 days |
+| **September** | Mid-September | 15 days |
 
-- **Official Sumo Association website**
-- **Ticket agencies like Ticket Pia and Lawson Ticket**
-- **Resale platforms (for official cancellations)**
+Osaka (March), Nagoya (July), and Fukuoka (November) also host tournaments.
 
-### **My Opinion / Honest Answer**
+## Ticket Types & Prices
 
-If you want **ringside seats (sand seats) or premium box seats**, you need to **buy tickets as soon as sales open**. General seats can last longer but still sell quickly. If tickets are sold out, you can:
+| Seat Type | Price | Sell-Out Speed |
+|---|---|---|
+| **Ringside (砂かぶり)** | ¥14,800 | Sells out in **minutes** |
+| **Box seats (マス席)** | ¥9,500-11,700 | Sells out in **hours** |
+| **Chair seats (イス席)** | ¥3,800-8,500 | Best chance — same day possible |
+| **Same-day unreserved** | ¥2,200 | Line up from 6am at the venue |
 
-- Try **same-day tickets** (limited and require early queuing).
-- Look for **tour packages** (some travel agencies include tickets).
-- Check **resale tickets** (some cancellations may become available).
+## How to Get Tickets
 
-If you struggle to get tickets in Tokyo, try tournaments in **Osaka, Nagoya, or Fukuoka**, where demand is slightly lower.
+1. **Official site:** [sumo.or.jp](https://www.sumo.or.jp/EnTicket/) — tickets go on sale ~1 month before each tournament
+2. **Same-day tickets:** Available at the venue from 8am. Arrive by **6am** to be safe — people start lining up very early
+3. **Buyee/proxy services:** Some Japanese resale sites have tickets at a markup
+
+## My Tips
+
+- **Same-day unreserved seats** are your best bet as a tourist — ¥2,200 and you get to see the full afternoon of matches
+- **Bouts get better throughout the day** — top wrestlers fight in the final hours (3pm-6pm)
+- **Bring cash** — for food stalls inside the venue
+- **Chanko nabe** (sumo stew) is sold at the stadium — it's delicious and part of the experience
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

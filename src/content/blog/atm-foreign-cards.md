@@ -6,77 +6,47 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
 tags: ["TravelSpots"]
 ---
+> "Which ATMs in Japan accept foreign cards?"
 
-> "Are there specific ATMs in Japan that accept my foreign card?"
+**Not all ATMs work with foreign cards.** Here are the ones that reliably do:
 
-**Yes!** Seven Bank ATMs at 7-Eleven have the highest success rate.
+## ATMs That Accept Foreign Cards
 
----
+| ATM Location | Works With Foreign Cards | Hours | Fee |
+|---|---|---|---|
+| **7-Eleven** | Yes — most reliable | 24 hours (some close 11pm-6am) | ¥110 per transaction |
+| **Japan Post Office** | Yes | Mon-Fri 9am-5pm (varies) | Free or ¥110 |
+| **Lawson** | Yes | 24 hours | ¥110-220 |
+| **FamilyMart** (E-net) | Some cards | 24 hours | ¥110-220 |
+| **Regular bank ATMs** | Usually NO | Business hours only | Varies |
 
-## Best ATM Option
+## My Recommendation: 7-Eleven
 
-> "Where should I go?"
+**7-Eleven ATMs are the gold standard for foreign cards.** They accept Visa, Mastercard, Maestro, Cirrus, PLUS, and more. There are over 21,000 7-Elevens in Japan — you're never far from one.
 
-**7-Eleven convenience stores!**
+**How to use:**
+1. Insert card → Select **English** → Choose **Withdrawal**
+2. Enter amount (multiples of ¥1,000 or ¥10,000)
+3. Maximum per transaction: usually ¥50,000-100,000
 
-Seven Bank ATMs:
-- Accept most foreign cards
-- Available 24 hours
-- English language option
-- Found everywhere in cities
+## How Much Cash Do I Need?
 
-**This has the highest success rate for foreign cards!**
+Japan is increasingly cashless, but **carry some cash** for:
+- Small restaurants and izakaya
+- Temples and shrine donations
+- Vending machines (some don't take IC cards)
+- Rural areas
 
----
+**My suggestion:** Withdraw **¥20,000-30,000** when you arrive and top up as needed. For a week in Tokyo, ¥30,000-50,000 in cash plus credit cards covers most people.
 
-## Other Options
+## Tips to Avoid Problems
 
-> "What about other ATMs?"
-
-**These may also work:**
-- Aeon Bank ATMs
-- E-net ATMs
-- Daily Yamazaki ATMs
-
-But success varies depending on your country and card type.
-
----
-
-## Important Warning
-
-> "What if I go to rural areas?"
-
-**The number of ATMs decreases in rural areas!**
-
-Recommendation:
-- Withdraw cash in advance
-- Don't wait until you're in the countryside
-- Keep enough cash for a few days
+- **Tell your bank** you're traveling to Japan — prevents your card being blocked
+- **Withdraw during business hours** if possible — easier to get help if something goes wrong
+- **Check daily withdrawal limits** with your bank before traveling
+- **Wise and Revolut cards** work well at 7-Eleven with good exchange rates
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Know 7-Eleven ATMs work for foreigners
-- Recommend withdrawing in cities
-- Keep some cash on hand
-- Use credit cards when possible
-
----
-
-## Extra Travel Tips
-
-1. **7-Eleven is your friend** – ATMs everywhere in Tokyo
-
-2. **Withdraw in cities** – Before going rural
-
-3. **Check your bank** – For international withdrawal fees
-
-4. **Notify your bank** – You're traveling to Japan
-
-5. **Keep cash** – Some places don't take cards
-
----
-
-*Have more questions about money in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

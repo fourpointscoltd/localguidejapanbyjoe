@@ -6,75 +6,45 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1549277513-f1b32fe1f8f5?w=1200"
 tags: ["TravelSpots"]
 ---
+> "When is the best time to visit teamLab?"
 
-> "Is TeamLab worth it despite the crowds?"
+**Weekday evenings** are the sweet spot. Here's the complete guide:
 
-**TeamLab is definitely worth a visit!** But timing matters.
+## Best Times to Visit
 
----
+| Time | Crowd Level | My Rating |
+|---|---|---|
+| **Weekday evening (5pm+)** | Low | Best time |
+| **Weekday morning (opening)** | Medium | Good |
+| **Weekend morning (opening)** | High | Okay if you arrive early |
+| **Weekend afternoon** | Very High | Avoid |
+| **Holidays/school breaks** | Extreme | Avoid |
 
-## The Crowd Problem
+## teamLab Borderless vs Planets
 
-> "Is it too crowded?"
+| | Borderless (Azabudai Hills) | Planets (Toyosu) |
+|---|---|---|
+| **Reopened** | 2024 at new location | Open since 2018 |
+| **Duration** | 2-3 hours | 1-1.5 hours |
+| **Style** | Wander freely, get lost | Walk a fixed path, wade in water |
+| **Best for** | Photography, exploring | Immersive physical experience |
+| **Ticket price** | ~¥3,800 | ~¥3,200 |
 
-**Yes, it can lose some charm when crowded.**
+## Booking Tips
 
-The art is meant to be immersive, and:
-- Crowds break the atmosphere
-- Hard to enjoy the space
-- Photos have people in them
+- **Book online in advance** — tickets often sell out, especially weekends
+- **Book 2-3 weeks ahead** for weekends, a few days for weekdays
+- **Last entry** is usually 1 hour before closing
+- **Borderless:** [borderless.teamlab.art](https://borderless.teamlab.art/)
+- **Planets:** [planets.teamlab.art](https://planets.teamlab.art/)
 
----
+## What to Wear
 
-## The Solution
-
-> "When should I go?"
-
-**Go first thing in the morning!**
-
-- Much fewer people
-- Better experience
-- Worth waking up early
-- Can enjoy the art properly
-
-**It's definitely worth it if you go early!**
-
----
-
-## Why It's Special
-
-> "What makes TeamLab special?"
-
-**Digital art experience:**
-- Interactive installations
-- Beautiful light displays
-- Unique photo opportunities
-- Nothing like it elsewhere
+- **Planets:** You'll wade through knee-deep water! Wear shorts or clothes you can roll up. Lockers provided for bags and shoes
+- **Borderless:** Wear comfortable shoes — you'll walk a lot. Light-colored or white clothes look amazing in photos
+- **Both:** Avoid skirts at Planets (mirrors on floor)
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Know to go early
-- Avoid peak hours
-- Know crowds ruin the experience
-- Recommend morning visits
-
----
-
-## Extra Travel Tips
-
-1. **Morning is best** – Right when it opens
-
-2. **Weekdays better** – Less crowded than weekends
-
-3. **Book in advance** – Popular attraction
-
-4. **Wear comfortable clothes** – You'll be walking
-
-5. **Charge your phone** – You'll want photos
-
----
-
-*Have more questions about attractions in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

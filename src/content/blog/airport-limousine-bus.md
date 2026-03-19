@@ -35,7 +35,7 @@ tags: ["Transportation"]
 
 **Important:** From about midnight to 5:00 AM, the only option is a taxi.
 
-A taxi from Narita Airport to Tokyo costs about ¥50,000 (~$330 USD). That's very expensive!
+A taxi from Narita Airport to Tokyo costs about **¥50,000** (~$330 USD). That's very expensive!
 
 **Better options for late arrivals:**
 - Stay at an airport hotel

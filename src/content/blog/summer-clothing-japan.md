@@ -6,74 +6,39 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200"
 tags: ["TravelSpots"]
 ---
+> "What should I wear in Japan in summer?"
 
-> "What should I wear in Tokyo, Kyoto, and Osaka in July?"
+Japan's summer (June-September) is **hot and extremely humid** — often 35°C+ with 80%+ humidity. Here's what to wear:
 
-**In Japan, you can wear anything!** Let me explain.
+## The Essentials
 
----
+| Item | Why | Where to Buy |
+|---|---|---|
+| **Lightweight T-shirts** | Cotton or dry-fit fabric | Uniqlo (¥990-1,500) |
+| **Shorts or light pants** | Breathable material | Uniqlo, GU |
+| **Comfortable walking shoes** | You'll walk 15,000+ steps/day | Bring from home |
+| **Sun hat or cap** | UV protection | 100 yen shop or Uniqlo |
+| **Thin cardigan** | For freezing A/C indoors | Uniqlo (essential!) |
 
-## Almost Anything Is Fine
+## The A/C Trap
 
-> "Are there dress rules?"
+This is the #1 thing tourists don't expect: **air conditioning in Japan is arctic cold**. Trains, malls, restaurants — all set to around 20°C. The contrast with 35°C outside is shocking. **Always carry a light layer.**
 
-**Japan is very open about clothing:**
-- Cosplay? Welcome!
-- Traditional clothes from your country? Welcome!
-- Casual wear? Of course!
+## What Japanese People Wear
 
-**As long as it's not too revealing like swimwear, everything is fine.**
+- **UV arm sleeves** — very common among women. Available at Uniqlo and 100 yen shops
+- **Cooling towels** — wet them and drape around your neck. Sold at Don Quijote
+- **Uniqlo AIRism** — lightweight, moisture-wicking base layer. A summer essential
+- **Heattech is for winter** — don't accidentally buy the wrong line!
 
----
+## Rainy Season (June-July)
 
-## The Only Rules
-
-> "What's not allowed?"
-
-**Two restrictions:**
-- Swimsuits only near beach or pool
-- No sandals while driving (it's against the law)
-
-That's it!
-
----
-
-## Want to Travel Light?
-
-> "Should I pack less?"
-
-**Yes! Buy clothes in Japan!**
-
-- Uniqlo is everywhere
-- Clothes are cheap and good quality
-- Available at train stations and airports
-
-You don't need to pack much!
+If visiting during tsuyu (rainy season):
+- **Waterproof shoes** or quick-dry sandals
+- **Compact umbrella** — or buy a clear vinyl one at any convenience store (¥500)
+- **Waterproof phone pouch** — useful for rainy days and water attractions
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Wear whatever they want
-- Don't judge others' clothing
-- Buy cheap clothes at Uniqlo
-- Dress casually in summer heat
-
----
-
-## Extra Travel Tips
-
-1. **Pack light** – Buy what you need here
-
-2. **Uniqlo is everywhere** – Easy to find
-
-3. **Summer is HOT** – Wear light, breathable clothes
-
-4. **Comfortable shoes** – You'll walk a lot
-
-5. **Bring sunscreen** – Very sunny in summer
-
----
-
-*Have more questions about visiting Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

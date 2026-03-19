@@ -6,26 +6,47 @@ author: "Joe Tanaka"
 image: "https://www.localguide-japan.com/content/images/2025/03/F2V5oKmacAEQI5O.jpg"
 tags: ["Souvenirs"]
 ---
-> "Are Haneda airport souvenirs/snacks better in quality and price than outside shops?"
+> "Is the souvenir selection at Haneda Airport good enough to skip city shopping?"
 
-## Convenience Over Cost
+**Yes, Haneda has one of the best airport souvenir selections in the world.** Here's what to know:
 
-When traveling, souvenirs are an integral part of the experience, often allowing us to take a piece of our journey home with us. While you may find cheaper options at local shops, the convenience of purchasing souvenirs at Haneda Airport makes it a tempting choice. After a long flight or a busy day of exploring, the last thing you want is to search for the perfect gift while juggling your luggage. Airports like Haneda provide a one-stop shopping experience that can save you time and energy.
+## Haneda Terminal 3 (International)
 
-## Quality of Souvenirs
+### Before Security
+- **Edo Koji** — themed shopping street recreating old Tokyo. Great atmosphere + good souvenirs
+- **Regular shops** — tax-free shopping available with passport
 
-One of the most significant advantages of buying souvenirs at Haneda Airport is the quality of merchandise. Many items are curated specifically to represent Japanese culture, showcasing local craftsmanship and delicacies. From beautifully crafted pickled vegetables to artisanal snacks and traditional crafts, the airport shops offer a range of products that highlight the best of Japanese traditions. Unlike generic souvenirs you might find in tourist traps, those at Haneda are often more authentic.
+### After Security (Duty Free)
+- **Japanese sweets** — Tokyo Banana, Shiroi Koibito, regional specialties
+- **Japanese whisky** — Suntory, Nikka (often limited stock!)
+- **Cosmetics** — Shiseido, SK-II, Canmake at duty-free prices
+- **Kit Kat flavors** — massive selection of Japan-exclusive flavors
 
-## Price Considerations
+## Best Buys at Haneda
 
-While it’s true that products at airports can sometimes carry a premium price tag, Haneda strives to provide items that reflect both quality and value. Many travelers would agree that the slight increase in price is justified when compared to the convenience of obtaining unique, high-quality goods without the hassle of shopping around. Additionally, if you time your purchases right, there are often promotions and discounts available, making it easier to find a good deal.
+| Category | Top Pick | Price | Notes |
+|---|---|---|---|
+| **Sweets** | Tokyo Banana | ¥1,000 (8 pcs) | The classic Tokyo souvenir |
+| **Cookies** | Butter Butler | ¥1,200 | Rich, buttery, premium feel |
+| **Chocolate** | Royce' Nama Chocolate | ¥800 | Keep refrigerated! |
+| **Kit Kat** | Matcha or Sake flavor | ¥500-1,000 | Japan exclusive |
+| **Whisky** | Suntory Yamazaki | ¥5,000+ | If available (sells out fast) |
+| **Cosmetics** | Canmake, KATE | ¥500-1,500 | Affordable J-beauty |
 
-- Convenient shopping experience
-- High-quality authentic souvenirs
-- Potential discounts and promotions
+## Haneda vs Narita
 
-In conclusion, while local shops might offer lower prices, the overall value of shopping at Haneda Airport in terms of convenience, quality, and potentially competitive pricing makes it a worthwhile option for travelers. Just grab your souvenirs at the airport, and enjoy your journey without the stress of carrying heavy bags around town!
+| | Haneda | Narita |
+|---|---|---|
+| **Selection** | Excellent | Good |
+| **Atmosphere** | Edo Koji is unique | Standard airport mall |
+| **Prices** | Same as city | Same as city |
+| **Last-minute quality** | High | Adequate |
+
+## Pro Tip
+
+**Buy heavy/fragile items at the airport** (whisky, ceramics, glass). Buy **unique/handmade items in the city** (personalized chopsticks, vintage goods, specialty crafts). Airport sweets are the same price and quality as city shops, so no rush on those.
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

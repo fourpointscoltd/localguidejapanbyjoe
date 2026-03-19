@@ -6,76 +6,40 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1557872943-16a5ac26437e?w=1200"
 tags: ["Restaurant"]
 ---
-
 > "Does Ichiran offer children's portions for my picky eaters?"
 
-**Yes!** Ichiran has a great policy for kids.
+**Yes — Ichiran has a kids' ramen option**, and it's actually a great restaurant for families with children. Here's what you need to know:
+
+## Kids Menu at Ichiran
+
+- **Kids ramen** — smaller portion, milder broth available
+- **Half portion** — you can order a half-size ramen at most locations
+- **Customization** — you fill out a preference sheet where you choose spice level (set to "none" for kids), richness, and garlic amount
+- **Price:** Kids ramen is around **¥500-600**, adult ramen is **¥980-1,090**
+
+## Why Ichiran is Great for Kids
+
+1. **Individual booths** — each person sits in their own partitioned space with a curtain. Kids can eat without feeling watched or judged
+2. **No interaction needed** — you order via vending machine ticket, customize on paper, and food arrives through a window. Zero language barrier
+3. **Mild options** — set everything to minimum on the customization sheet for a gentle, non-spicy soup
+4. **Water and extra napkins** — self-serve at every booth
+
+## How to Order (Step by Step)
+
+1. **Buy a ticket** from the vending machine at the entrance (has English)
+2. **Sit in your booth** and fill out the customization sheet:
+   - Broth richness: Light → Rich
+   - Garlic: None → Heavy
+   - Spice: None → Max
+   - Noodle firmness: Soft → Hard
+3. **Place ticket + sheet on counter** and press the call button
+4. **Ramen arrives** through the window in ~2 minutes
+
+## Tip for Picky Eaters
+
+Set everything to the mildest settings. Ichiran's base tonkotsu broth is creamy and mild without spice — even picky eaters tend to enjoy it. You can also order **extra noodles (kaedama)** for **¥210** if they want more.
 
 ---
 
-## Free Kids Ramen
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-> "How does it work?"
-
-**With one adult order:**
-- Up to 5 children can eat FREE
-- Kids get half-portion tonkotsu ramen
-- Same delicious taste
-
-**This is a great deal for families!**
-
----
-
-## Customizable for Kids
-
-> "Can kids choose their own flavor?"
-
-**Yes!**
-- Kids use a "Kids' Ramen Order Sheet"
-- Same customization as adults
-- Choose noodle firmness
-- Adjust flavor strength
-- Pick toppings
-
-Even picky eaters can get what they like!
-
----
-
-## Why Ichiran Is Good for Families
-
-> "Is it kid-friendly?"
-
-**Benefits:**
-- Private booth seating
-- No pressure from crowds
-- Kids can take their time
-- Easy ordering system
-- Consistent quality
-
----
-
-## What Japanese People Actually Do
-
-Most locals:
-- Take their families to Ichiran
-- Know about the free kids policy
-- Use the customization options
-- Consider it a good family restaurant
-
----
-
-## Extra Travel Tips
-
-1. **Check the website** – For full kids menu details
-
-2. **Peak times are busy** – Go early or late
-
-3. **Order sheets** – Staff can help explain
-
-4. **Water is free** – At the button machine
-
-5. **Great for first-time ramen** – Easy introduction for kids
-
----
-
-*Have more questions about eating with kids in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

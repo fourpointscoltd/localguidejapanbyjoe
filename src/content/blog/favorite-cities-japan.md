@@ -6,58 +6,41 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200"
 tags: ["TravelSpots"]
 ---
+> "What are the best cities to visit in Japan?"
 
-> "What is your favorite city in Japan and why?"
+After visiting all 47 prefectures, here are the cities I recommend most — with honest commentary:
 
-I have many favorites! Here are my **top 19 cities** across Japan.
+## Must-Visit (Everyone Should Go)
 
----
+| City | Why | Best For |
+|---|---|---|
+| **Tokyo** | Infinite variety — food, fashion, culture, anime | Everyone |
+| **Kyoto** | Temples, traditional culture, stunning beauty | History & culture lovers |
+| **Kanazawa** | Compact, walkable, art + history + food | Efficient sightseeing |
 
-## East Japan
+## Highly Recommended
 
-- **Asakusa & Kuramae** (Tokyo) – Traditional meets modern
-- **Kamakura** (Kanagawa) – Great Buddha, temples, and ocean
-- **Oku-Nikko** (Tochigi) – Stunning nature and waterfalls
+| City | Why | Best For |
+|---|---|---|
+| **Takayama** | Edo-period streets, sake breweries, Hida beef | Authentic Japan experience |
+| **Kamakura** | Great Buddha, seaside temples, local vibe | Day trip from Tokyo |
+| **Hakone** | Hot springs + Mt. Fuji views | Relaxation |
+| **Nara** | Deer park, ancient temples, easy day trip | Families |
+| **Hiroshima** | History, island shrine, cycling culture | History lovers |
 
----
+## Underrated Gems (My Personal Favorites)
 
-## West Japan
+- **Omihachiman** (Shiga) — one of my favorite towns in all of Japan. Canal district with traditional merchant houses
+- **Onomichi** (Hiroshima) — hillside town with cats, temples, and the Shimanami Kaido cycling route
+- **Naoshima** (Kagawa) — "Art Island" with Tadao Ando architecture and outdoor installations
 
-- **Omihachiman** (Shiga) – Beautiful old town with canals
-- **Nagara River** (Gifu) – Traditional cormorant fishing
-- **Iwami Ginzan** (Shimane) – Historic silver mine
-- **Kyoto City** – Classic Japan, temples everywhere
+## My Honest "Skip" List
 
----
-
-## North Japan
-
-- **Tomamu** (Hokkaido) – Amazing ski resort and cloud sea
-- **Shiretoko** (Hokkaido) – Untouched wilderness
-- **Ginzan Onsen** (Yamagata) – Most photogenic hot spring town
-- **Hirosaki** (Aomori) – Best cherry blossoms in Japan
-- **Kamikochi** (Nagano) – Mountain paradise
-- **Kanazawa** – Gardens, sushi, and art
-
----
-
-## South Japan
-
-- **All islands in Okinawa** – Paradise beaches
-- **Mount Aso** (Kumamoto) – Active volcano, incredible views
-- **Nagasaki City** – Unique history and culture
-- **Mojiko Port** (Yamaguchi) – Retro port town
+- **Osaka** — great food, but if you're already going to Tokyo, it feels similar
+- **Nagoya** — good transit hub, but not much to see as a tourist
+- **Sapporo** — nice city, but come for Hokkaido's nature, not the city itself
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Have their own favorite spots
-- Love discovering hidden gems
-- Often prefer less touristy places
-- Return to favorites again and again
-
----
-
-*Have questions about any of these cities? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

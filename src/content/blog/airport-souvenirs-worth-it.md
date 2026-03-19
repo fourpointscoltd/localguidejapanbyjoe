@@ -6,78 +6,44 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200"
 tags: ["Souvenirs"]
 ---
+> "Should I buy souvenirs at the airport?"
 
-> "Are airport souvenirs/snacks better in quality and price than outside shops?"
+**Actually, yes — Japanese airports are surprisingly good for souvenirs.** Unlike many countries where airport shops are overpriced tourist traps, Japan's airports have high-quality options at reasonable prices.
 
-**It might be cheaper in local shops,** but here's my honest advice.
+## Why Airport Shopping Works in Japan
 
----
+- **Same prices as city stores** — most branded items cost the same at the airport
+- **Tax-free** — airport shops are in the duty-free zone
+- **Exclusive items** — some snacks and sweets are **airport-only editions**
+- **Beautiful packaging** — Japanese gift wrapping is already beautiful, and airport shops are especially polished
 
-## My Recommendation
+## Best Things to Buy at the Airport
 
-> "Should I buy at the airport?"
+### Sweets & Snacks (Most Popular)
+| Item | Price | Why It's Good |
+|---|---|---|
+| **Tokyo Banana** | ~¥1,000 (8 pcs) | The iconic Tokyo souvenir |
+| **Shiroi Koibito** | ~¥800 (12 pcs) | Hokkaido's famous white chocolate cookie |
+| **Kit Kat Japanese flavors** | ~¥500-1,000 | Matcha, sake, strawberry — airport has the best selection |
+| **Royce' Chocolate** | ~¥800 | Hokkaido chocolate — get the Nama Chocolate |
 
-**Save yourself the hassle!**
+### Other Good Buys
+- **Japanese whisky** (if available — often sold out)
+- **Matcha powder** — high-quality Uji matcha
+- **Cosmetics** — Shiseido, SK-II, Canmake at duty-free prices
+- **Japanese snacks** variety packs — perfect for sharing at home
 
-Just grab your souvenirs at the airport if possible:
-- Way easier
-- Less tiring
-- Good selection
-- Quality is the same
+## What NOT to Buy at the Airport
 
-**No heavy lifting around the city!**
+- **Electronics** — much cheaper at Bic Camera or Yodobashi in the city
+- **Clothing** — better selection and prices in city shops
+- **Traditional crafts** — these need time to choose. Buy in the city
 
----
+## Pro Tip
 
-## The Reality
-
-> "Is it more expensive?"
-
-**Maybe a little,** but consider:
-- Carrying bags all day is tiring
-- You might forget to buy things
-- Airport has everything in one place
-- Time saved is valuable
-
----
-
-## What to Buy at Airport
-
-> "What's available?"
-
-**Haneda and Narita have:**
-- Famous snacks from all regions
-- Popular sweets and cookies
-- Japanese cosmetics
-- Traditional crafts
-- Anime goods
-
-Almost everything you want is there!
+The **best strategy** is: buy unique/heavy/fragile items in the city during your trip, and save packaged snacks and last-minute gifts for the airport. That way you don't carry delicate sweets around for days.
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Buy omiyage (souvenirs) at airports
-- Know it's convenient
-- Don't stress about small price differences
-- Focus on enjoying the trip
-
----
-
-## Extra Travel Tips
-
-1. **Arrive early** – Give time for shopping
-
-2. **Tax-free available** – At many airport shops
-
-3. **Regional specialties** – All gathered in one place
-
-4. **Credit cards accepted** – Easy payment
-
-5. **Enjoy your trip** – Don't carry bags around all day
-
----
-
-*Have more questions about souvenirs in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

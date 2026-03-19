@@ -6,81 +6,48 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200"
 tags: ["Souvenirs"]
 ---
+> "Where can I buy winter clothes in Japan?"
 
-> "Is it cheaper to buy winter clothes in Japan? Any shop recommendations?"
+Here are the best shops by budget:
 
-**Yes!** Japan has great options for cold weather clothes.
+## Budget (¥1,000-3,000 per item)
 
----
+| Shop | Best For | Locations |
+|---|---|---|
+| **Uniqlo** | Heattech innerwear, fleece, down jackets | Everywhere |
+| **GU** (Uniqlo's sister brand) | Trendy basics, affordable | Major cities |
+| **Shimamura** | Very cheap basics | Suburban areas |
+| **100 yen shops** (Daiso) | Gloves, scarves, hand warmers | Everywhere |
 
-## Best Places to Buy
+## Mid-Range (¥5,000-15,000)
 
-> "Where should I shop?"
+| Shop | Best For | Locations |
+|---|---|---|
+| **Montbell** | Outdoor jackets, quality gear | Shibuya, Shinjuku, etc. |
+| **Workman** | Affordable outdoor/work wear | Suburban (cult following!) |
+| **Muji** | Simple, quality basics | Ginza flagship, everywhere |
 
-**My recommendations:**
-- **Uniqlo** – Best for basics and Heattech
-- **Snow Peak** – Quality outdoor gear
-- **Montbell** – Great camping and winter gear
+## Premium (¥15,000+)
 
-**Personal tip:** I'm a huge fan of Montbell's scarves!
+| Shop | Best For | Locations |
+|---|---|---|
+| **Snow Peak** | High-end outdoor wear | Harajuku, outlet malls |
+| **The North Face** | Winter jackets | Major department stores |
+| **Department stores** | Japanese designer brands | Ginza, Shinjuku |
 
----
+## My Recommendation for Tourists
 
-## The Japanese Secret
+**Start at Uniqlo.** Their **Heattech** innerwear (¥990-1,990) is what most Japanese people use as their first layer in winter. It's lightweight, warm, and packs small. Layer it with a Uniqlo **Ultra Light Down** jacket (¥5,990-7,990) and you're set for most of Japan's winter.
 
-> "How do Japanese people stay warm?"
+**For serious cold** (Hokkaido, skiing): Add a **Montbell** outer layer. Their gear is designed for Japanese winters and is lighter than most Western brands.
 
-**Heattech from Uniqlo!**
+## Sales Timing
 
-Japanese people buy lots of Heattech:
-- Thin but warm
-- Comfortable
-- Affordable
-- Many styles
-
-Layer Heattech under regular clothes for warmth!
-
----
-
-## Outdoor Gear Shops
-
-> "What about serious cold weather?"
-
-**For camping and mountain gear:**
-- Snow Peak
-- Montbell
-- Good quality
-- Designed for Japanese winters
-
-Great for:
-- Very cold areas
-- Snow activities
-- Outdoor adventures
+- **New Year sales (福袋)** — January 1-3. Huge discounts + mystery bags
+- **End of season** — February-March for winter clearance
+- **Black Friday** — increasingly popular at Uniqlo, GU, and department stores
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Wear Heattech layers
-- Buy quality winter gear once
-- Know the best value shops
-- Prepare for cold properly
-
----
-
-## Extra Travel Tips
-
-1. **Uniqlo is everywhere** – Easy to find
-
-2. **Heattech layers** – The Japanese way to stay warm
-
-3. **Check sizes** – Japanese sizes may be different
-
-4. **Tax-free shopping** – Bring your passport
-
-5. **Don't overpack** – Buy what you need here
-
----
-
-*Have more questions about shopping in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

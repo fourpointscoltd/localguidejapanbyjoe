@@ -6,81 +6,50 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
 tags: ["Restaurant"]
 ---
+> "Where can I find good coffee in Japan?"
 
-> "How hard is it to find good espresso coffee in Tokyo, Kyoto, Nara, and Kobe?"
+Japan actually has an incredible coffee culture — it's just different from what you might expect. Here's the local guide:
 
-**Not difficult at all!** Japanese people love coffee.
+## Two Coffee Worlds in Japan
 
----
+### Kissaten (喫茶店) — Traditional Japanese Coffee Shops
+- **What it is:** Old-school, quiet cafes with hand-dripped coffee
+- **Vibe:** Dark wood, soft jazz, no laptops, no talking on phones
+- **Price:** ¥500-800 per cup
+- **Best for:** Experiencing a uniquely Japanese atmosphere
+- **Famous spots:** Chatei Hatou (Shibuya), Cafe de l'Ambre (Ginza), Kayaba Coffee (Yanaka)
 
-## Two Types of Coffee Shops
+### Third-Wave / Specialty Coffee
+- **What it is:** Modern craft coffee shops with single-origin beans
+- **Vibe:** Minimalist, bright, Instagram-friendly
+- **Price:** ¥500-700 per cup
+- **Best for:** Latte art, pour-over, espresso drinks
+- **Famous spots:** Blue Bottle Coffee (Kiyosumi), Onibus Coffee (Nakameguro), Fuglen (Yoyogi)
 
-> "What's the difference?"
+## My Top Recommendations in Tokyo
 
-**Japan has two styles:**
+| Shop | Area | Must-Try | Price |
+|---|---|---|---|
+| **Chatei Hatou** | Shibuya | Aged coffee blend | ¥800 |
+| **Onibus Coffee** | Nakameguro | Pour-over single origin | ¥550 |
+| **Blue Bottle** | Kiyosumi | Seasonal blend | ¥500 |
+| **Cafe de l'Ambre** | Ginza | 50-year-old aged beans | ¥900 |
+| **Fuglen** | Yoyogi | Flat white | ¥600 |
 
-**Kissaten (old-school coffee shops):**
-- Traditional atmosphere
-- Popular 40 years ago
-- Now seen as nostalgic
-- Some still allow smoking
+## What About Regular Coffee?
 
-**Regular cafes:**
-- Modern style
-- Usually no smoking
-- More familiar to tourists
+- **Convenience stores** — 7-Eleven's ¥110 machine coffee is genuinely good
+- **Doutor / Tully's** — Japan's Starbucks alternatives. Cheaper and solid quality
+- **Starbucks** — everywhere, but try Japanese-exclusive seasonal drinks
+- **Canned coffee** — vending machine coffee (Georgia, Boss, WONDA) from ¥130. Hot or cold!
 
----
+## Coffee Etiquette in Japan
 
-## The Big Three Coffee Shops
-
-> "What are the best in Tokyo?"
-
-**Famous kissaten to try:**
-- **Cafe de Rambouillet** – Ginza
-- **Moka** – Kichijoji
-- **Bach** – Minamisenju
-
-These are legendary among coffee lovers!
-
----
-
-## For Australians
-
-> "Is Japanese coffee good?"
-
-I've heard some Australians don't love Japanese espresso style. Interesting!
-
-**But try kissaten coffee:**
-- Different experience
-- Hand-dripped
-- Very careful preparation
-- Unique atmosphere
+- **Kissaten:** Enjoy slowly. Don't bring laptops. It's a place to savor the moment
+- **No takeaway at kissaten** — these are sit-down experiences
+- **Morning service (モーニング):** Many kissaten include free toast and egg with your coffee before 11am — amazing deal
 
 ---
 
-## What Japanese People Actually Do
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-Most locals:
-- Love coffee
-- Have favorite kissaten
-- Enjoy the atmosphere
-- Know the best local spots
-
----
-
-## Extra Travel Tips
-
-1. **Kissaten = experience** – Not just coffee, but atmosphere
-
-2. **Some allow smoking** – Check before entering
-
-3. **Many options** – Coffee shops everywhere
-
-4. **Try hand-drip** – Japanese specialty
-
-5. **Share your finds** – Let me know your favorite!
-
----
-
-*Have more questions about food and drink in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*

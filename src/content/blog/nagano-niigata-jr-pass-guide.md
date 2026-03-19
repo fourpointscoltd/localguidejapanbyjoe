@@ -6,55 +6,48 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?w=1200"
 tags: ["TravelSpots"]
 ---
+> "What are the best places to visit with the Nagano/Niigata JR Pass?"
 
-If you have the Nagano/Niigata JR Pass and want to explore the area, here are my top recommendations!
+The JR East Nagano/Niigata area pass (5 consecutive days, ¥18,000) covers a beautiful region. Here's how to make the most of it:
 
-## Nagano Highlights
+## Top Destinations
 
-### Kamikochi
-- **Why visit:** One of Japan's most beautiful natural parks
-- **Best for:** Hiking, photography, nature lovers
-- **Access:** Bus from Matsumoto (covered by pass to Matsumoto)
-- **Note:** Open only April-November
+### Nagano Area
 
-### Karuizawa
-- **Why visit:** Mountain resort town, outlet shopping
-- **Best for:** Relaxation, cycling, shopping
-- **Access:** Direct Shinkansen from Tokyo
-- **Highlights:** Prince Shopping Plaza, Shiraito Falls
+| Spot | Access | Why Visit |
+|---|---|---|
+| **Zenkoji Temple** | Nagano Station, walk 15 min | 1,400-year-old temple, free to enter grounds |
+| **Snow Monkeys** (Jigokudani) | Bus from Nagano Station (40 min) | Wild monkeys bathing in hot springs |
+| **Matsumoto Castle** | JR to Matsumoto (50 min) | One of Japan's original castles (National Treasure) |
+| **Karuizawa** | Shinkansen from Nagano (25 min) | Mountain resort town + outlet shopping |
 
-### Matsumoto
-- **Why visit:** Stunning black castle
-- **Best for:** History, culture
-- **Access:** Direct train from Nagano
-- **Must see:** Matsumoto Castle (National Treasure)
+### Niigata Area
 
-### Zenkoji Temple (Nagano City)
-- **Why visit:** One of Japan's most important temples
-- **Access:** Walking distance from Nagano Station
+| Spot | Access | Why Visit |
+|---|---|---|
+| **Echigo-Yuzawa** | Shinkansen from Tokyo (80 min) | Ski resorts, onsen, "Snow Country" |
+| **Sado Island** | Ferry from Niigata Port (2.5 hrs) | Remote island, gold mines, taiko drums |
+| **Niigata City** | Shinkansen terminus | Japan's best rice, sake breweries |
 
-## Niigata Highlights
+## Suggested 5-Day Itinerary
 
-### Echigo-Yuzawa
-- **Why visit:** Onsen town, ski area in winter
-- **Best for:** Hot springs, sake tasting
-- **Access:** Shinkansen stop
+- **Day 1:** Tokyo → Karuizawa (outlet shopping + old town)
+- **Day 2:** Karuizawa → Nagano (Zenkoji Temple + snow monkeys)
+- **Day 3:** Nagano → Matsumoto (castle + city walk + soba noodles)
+- **Day 4:** Matsumoto → Echigo-Yuzawa (onsen + local sake)
+- **Day 5:** Yuzawa → Tokyo (or Niigata for sake tasting)
 
-### Sado Island
-- **Why visit:** Remote island, traditional culture
-- **Access:** Ferry from Niigata City
-- **Note:** Plan for full day trip
+## Is This Pass Worth It?
 
-## Suggested Itinerary (5 days)
+**Shinkansen round trip Tokyo ↔ Nagano alone costs ¥16,000.** Add one more trip and the ¥18,000 pass pays for itself easily.
 
-1. **Day 1:** Tokyo → Karuizawa
-2. **Day 2:** Karuizawa → Matsumoto
-3. **Day 3:** Matsumoto → Kamikochi day trip
-4. **Day 4:** Matsumoto → Nagano (Zenkoji)
-5. **Day 5:** Nagano → Echigo-Yuzawa → Tokyo
+## Don't Miss
 
-The pass covers all these Shinkansen and local train journeys!
+- **Soba noodles** in Matsumoto — Nagano is famous for handmade buckwheat noodles
+- **Sake tasting** in Niigata — the rice here makes Japan's finest sake
+- **Onsen** in Yuzawa — try a day-use onsen after skiing or hiking
 
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
+

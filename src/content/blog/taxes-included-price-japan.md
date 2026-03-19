@@ -17,7 +17,7 @@ tags: ["Others"]
 
 > "So the price tag is the final price?"
 
-That's right. If a price tag says ¥1,000, you pay ¥1,000. Tax is already included.
+That's right. If a price tag says **¥1,000,** you pay **¥1,000**. Tax is already included.
 
 **The consumption tax in Japan:**
 - **10%** for most items

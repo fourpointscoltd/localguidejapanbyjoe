@@ -6,78 +6,40 @@ author: "Joe Tanaka"
 image: "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?w=1200"
 tags: ["TravelSpots"]
 ---
+> "Can I visit an onsen if I have tattoos?"
 
-> "Is it okay to invite my tattooed boyfriend to Japan?"
+**It depends on the onsen.** Many traditional places ban tattoos, but options for tattooed visitors are increasing. Here's the honest guide:
 
-**Please bring your boyfriend to Japan!** Let me explain.
+## The Rule
 
----
+Most public onsen and sento (bath houses) in Japan have a **"no tattoo" policy**. This isn't about foreign tourists — it's a long-standing rule because tattoos are historically associated with yakuza (organized crime) in Japan.
 
-## Where Tattoos Are Prohibited
+## Where Tattoos ARE Allowed
 
-> "Where can't I go with tattoos?"
+| Type | Tattoo Policy | Examples |
+|---|---|---|
+| **Private onsen (貸切風呂)** | Always OK | Book a private bath at any ryokan |
+| **Hotel room onsen** | Always OK | Ryokans with in-room baths |
+| **Tattoo-friendly onsen** | Allowed | Growing list (see below) |
+| **Tattoo cover stickers** | Accepted at some | Available at convenience stores |
 
-**The main places with restrictions:**
-- Public baths (sento)
-- Some hot springs (onsen)
-- Some swimming pools
-- Some gyms
+## Tattoo-Friendly Spots
 
-**But there should be little trouble elsewhere!**
+- **Thermae-yu** (Shinjuku, Tokyo) — large, modern onsen complex. Tattoos welcome
+- **Oedo Onsen Monogatari** (multiple locations) — allows tattoos with cover stickers
+- **Many ryokans with private baths** — book a 貸切風呂 (kashikiri-buro) for ¥2,000-5,000 per session
 
----
+## How to Check
 
-## The Solution: Private Onsen
+- **Search "tattoo OK onsen [city name]"** on Google
+- **Call ahead** — ask "Tattoo wa daijoubu desu ka?" (タトゥーは大丈夫ですか？)
+- **Tattoo cover stickers** (タトゥー隠しシール) are sold at Daiso (100 yen shop) and Don Quijote — they work for small tattoos
 
-> "How can I enjoy onsen with tattoos?"
+## Private Onsen: The Easy Solution
 
-**Book a private hot spring (kashikiri)!**
-
-Benefits:
-- No tattoo restrictions
-- Just you and your partner/family
-- More comfortable anyway
-- Cost is not that high
-
-**This is the best way to enjoy onsen with tattoos.**
+If you want a guaranteed worry-free experience, book a **ryokan with a private bath**. Many have beautiful in-room or reservable onsen that are just for you. Prices range from ¥15,000-50,000 per night including dinner and breakfast.
 
 ---
 
-## Why Tattoos Are Restricted
+*Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
 
-> "Why do some places ban tattoos?"
-
-**Historical reason:**
-- Tattoos were associated with yakuza (gangsters)
-- Banning tattoos kept them out
-- Now outdated but rules remain
-
-**Times are changing, but slowly.**
-
----
-
-## What Japanese People Actually Do
-
-Most locals:
-- Know tattoos are becoming more accepted
-- Recommend private onsen for tattooed visitors
-- Understand rules are outdated
-- Welcome all visitors
-
----
-
-## Extra Travel Tips
-
-1. **Book private onsen** – Best solution
-
-2. **Hotels have options** – Many have private baths
-
-3. **Ask before entering** – If unsure about rules
-
-4. **Don't hide** – Just find the right place
-
-5. **Enjoy Japan!** – Tattoos won't stop you
-
----
-
-*Have more questions about visiting Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily tips!*
