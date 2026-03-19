@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostCard from '../../components/PostCard.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -14,12 +13,22 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 
-// Related posts
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
-const relatedPosts = allPosts
-  .filter((p) => p.id !== post.id)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+const currentTags = post.data.tags || [];
+
+// Related posts: same tag first, then recent, exclude current
+const otherPosts = allPosts.filter((p) => p.id !== post.id);
+
+const sameTagPosts = otherPosts
+  .filter((p) => p.data.tags?.some((t: string) => currentTags.includes(t)))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const otherRecentPosts = otherPosts
+  .filter((p) => !sameTagPosts.includes(p))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Take 4 same-tag + fill with others up to 6 total
+const relatedPosts = [...sameTagPosts.slice(0, 4), ...otherRecentPosts].slice(0, 6);
 
 const formattedDate = post.data.pubDate.toLocaleDateString('en-US', {
   day: '2-digit',
@@ -27,7 +36,6 @@ const formattedDate = post.data.pubDate.toLocaleDateString('en-US', {
   year: 'numeric',
 });
 
-// Calculate reading time
 const wordsPerMinute = 200;
 const textLength = post.body?.split(/\s+/).length || 0;
 const readingTime = Math.ceil(textLength / wordsPerMinute);
@@ -88,30 +96,229 @@ const readingTime = Math.ceil(textLength / wordsPerMinute);
       </section>
     </article>
 
+    <!-- Related Posts -->
     {relatedPosts.length > 0 && (
-      <aside class="gh-read-next gh-outer">
-        <div class="gh-inner">
-          <section class="gh-pagehead">
-            <h3 class="gh-pagehead-title">Read next</h3>
-          </section>
-
-          <div class="gh-topic gh-topic-grid">
-            <div class="gh-topic-content">
-              {relatedPosts.map((relatedPost, index) => (
-                <PostCard
-                  title={relatedPost.data.title}
-                  slug={relatedPost.id}
-                  excerpt={relatedPost.data.description}
-                  image={relatedPost.data.image}
-                  author={relatedPost.data.author}
-                  date={relatedPost.data.pubDate}
-                  large={index === 0}
-                />
-              ))}
-            </div>
+      <aside class="related-section">
+        <div class="related-inner">
+          <h2 class="related-title">You Might Also Like</h2>
+          <div class="related-grid">
+            {relatedPosts.map((rp) => (
+              <a class="related-card" href={`/blog/${rp.id}/`}>
+                <div class="related-card-image">
+                  {rp.data.image ? (
+                    <img src={rp.data.image} alt={rp.data.title} loading="lazy" />
+                  ) : (
+                    <div class="related-card-placeholder"></div>
+                  )}
+                  {rp.data.tags?.[0] && (
+                    <span class="related-card-tag">{rp.data.tags[0]}</span>
+                  )}
+                </div>
+                <h3 class="related-card-title">{rp.data.title}</h3>
+              </a>
+            ))}
           </div>
+
+          {currentTags[0] && (
+            <div class="related-more">
+              <a href={`/tag/${currentTags[0]}`} class="related-more-link">
+                More {currentTags[0]} articles →
+              </a>
+              <a href="/blog" class="related-more-link related-more-all">
+                View all articles →
+              </a>
+            </div>
+          )}
         </div>
       </aside>
     )}
   </main>
 </BaseLayout>
+
+<style>
+  /* Related Posts Section */
+  .related-section {
+    padding: 0 var(--gap, 3.6rem);
+    margin-top: 64px;
+    padding-bottom: 40px;
+  }
+
+  .related-inner {
+    max-width: var(--container-width, 1200px);
+    margin: 0 auto;
+    border-top: 1px solid var(--color-border, #e8e5e0);
+    padding-top: 48px;
+  }
+
+  .related-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--color-primary, #1b2d3a);
+    margin-bottom: 28px;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .related-card {
+    display: block;
+    border-radius: var(--radius-md, 12px);
+    overflow: hidden;
+    background: var(--color-white, #fff);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    transition: box-shadow 0.25s, transform 0.25s;
+    text-decoration: none;
+  }
+
+  .related-card:hover {
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    transform: translateY(-3px);
+    opacity: 1;
+  }
+
+  .related-card-image {
+    position: relative;
+    aspect-ratio: 16 / 10;
+    overflow: hidden;
+    background: var(--color-lighter-gray, #f5f3f0);
+  }
+
+  .related-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+
+  .related-card:hover .related-card-image img {
+    transform: scale(1.06);
+  }
+
+  .related-card-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--color-lighter-gray, #f5f3f0), var(--color-light-gray, #e8e5e0));
+  }
+
+  .related-card-tag {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0,0,0,0.6);
+    backdrop-filter: blur(4px);
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 4px 10px;
+    border-radius: 100px;
+  }
+
+  .related-card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--color-darker-gray, #15171a);
+    padding: 14px 16px 16px;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: color 0.2s;
+  }
+
+  .related-card:hover .related-card-title {
+    color: var(--color-accent, #d4563a);
+  }
+
+  /* More Links */
+  .related-more {
+    display: flex;
+    gap: 16px;
+    margin-top: 28px;
+    padding-top: 20px;
+    border-top: 1px solid var(--color-border, #e8e5e0);
+    justify-content: center;
+  }
+
+  .related-more-link {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--color-accent, #d4563a);
+    padding: 10px 24px;
+    border: 2px solid var(--color-accent, #d4563a);
+    border-radius: 100px;
+    transition: all 0.2s;
+    text-decoration: none;
+  }
+
+  .related-more-link:hover {
+    background: var(--color-accent, #d4563a);
+    color: white;
+    opacity: 1;
+  }
+
+  .related-more-all {
+    border-color: var(--color-border, #e8e5e0);
+    color: var(--color-primary-text, #333);
+  }
+
+  .related-more-all:hover {
+    background: var(--color-darker-gray, #15171a);
+    border-color: var(--color-darker-gray, #15171a);
+    color: white;
+  }
+
+  /* Responsive */
+  @media (max-width: 991px) {
+    .related-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .related-grid .related-card:nth-child(n+5) {
+      display: none;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .related-section {
+      margin-top: 40px;
+    }
+    .related-inner {
+      padding-top: 32px;
+    }
+    .related-title {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+    }
+    .related-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+    .related-grid .related-card:nth-child(n+5) {
+      display: none;
+    }
+    .related-card-title {
+      font-size: 1.3rem;
+      padding: 10px 12px 12px;
+    }
+    .related-card-tag {
+      font-size: 0.9rem;
+      padding: 3px 8px;
+    }
+    .related-more {
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+    .related-more-link {
+      font-size: 1.3rem;
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>
