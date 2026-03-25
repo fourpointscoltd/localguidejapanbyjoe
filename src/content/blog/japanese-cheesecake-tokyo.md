@@ -1,5 +1,6 @@
 ---
 title: "Where to Find the Best Japanese Cheesecake"
+image: "/images/pixta/人形町_立花屋_和菓子店_外観.jpg"
 description: "A local recommends the best cheesecake spots in Tokyo."
 pubDate: 2026-12-11
 author: "Joe Tanaka"

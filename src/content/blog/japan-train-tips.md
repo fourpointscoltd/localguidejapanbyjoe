@@ -1,5 +1,6 @@
 ---
 title: "How hard is the train system? Any tips for first timers?"
+image: "/images/pixta/新宿駅_南口_夜景.jpg"
 description: "Discover how easy Japan’s train system is for first-timers with tips on using IC cards like SUICA/PASMO and navigating stations with Google Maps."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

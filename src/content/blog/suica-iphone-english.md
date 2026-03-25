@@ -1,5 +1,6 @@
 ---
 title: "Is there an English version of the Suica app for iPhones?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "No separate English Suica app is needed for iPhone; just add Suica to Apple Wallet for easy, English-friendly transit and payments in Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

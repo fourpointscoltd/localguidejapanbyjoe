@@ -1,5 +1,6 @@
 ---
 title: "Is the water in Japan safe to drink or should we buy bottled water?"
+image: "/images/pixta/ペットボトル_水_ミネラルウォーター.webp"
 description: "A local answers: Is the water in Japan safe to drink or should we buy bottled water?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

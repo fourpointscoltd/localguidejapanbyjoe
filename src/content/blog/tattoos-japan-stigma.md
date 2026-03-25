@@ -1,5 +1,6 @@
 ---
 title: "Are tattoos still heavily stigmatized in Tokyo, Osaka, and Kyoto?"
+image: "/images/pixta/草津温泉_湯畑_夜景_2_2.jpg"
 description: "Find out where to buy baby formula in Tokyo with tips on stores like Akachanhonpo, Nishimatsuya, and convenient supermarket options."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

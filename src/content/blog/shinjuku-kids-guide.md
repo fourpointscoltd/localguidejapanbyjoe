@@ -1,5 +1,6 @@
 ---
 title: "https://www.localguide-japan.com/tokyo-malls-japanese-design-teen-shopping/"
+image: "/images/pixta/新宿_夜景_都庁展望台.jpg"
 description: "Explore our comprehensive guide to digital marketing strategies that elevate your brand, boost visibility, and drive sales effectively."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

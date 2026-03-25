@@ -1,5 +1,6 @@
 ---
 title: "Can You Recommend a Good Store to Buy Reasonable Luggage in Tokyo?"
+image: "/images/pixta/ららぽーと豊洲_商業施設_外観.jpg"
 description: "A local's guide to buying affordable, quality luggage in Tokyo."
 pubDate: 2025-08-12
 author: "Joe Tanaka"

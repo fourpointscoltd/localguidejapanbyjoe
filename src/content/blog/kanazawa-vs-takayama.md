@@ -1,5 +1,6 @@
 ---
 title: "Which is better for 1 night: Kanazawa or Takayama after Shirakawago?"
+image: "/images/pixta/飛騨高山_紅葉_古い町並み.jpg"
 description: "A local answers: Which is better for 1 night: Kanazawa or Takayama after Shirakawago?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

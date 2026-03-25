@@ -1,5 +1,6 @@
 ---
 title: "Best Aquarium in Tokyo for Kids"
+image: "/images/pixta/豊洲_ウォーターフロント_テラス.jpg"
 description: "A local recommends the best aquariums for families with children."
 pubDate: 2026-12-10
 author: "Joe Tanaka"

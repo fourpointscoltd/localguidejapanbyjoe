@@ -1,5 +1,6 @@
 ---
 title: "Can we use Suica at Tokyo and Kyoto and other areas?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "Suica works in Tokyo, Kyoto, Osaka, and more. Learn how to use one card for trains, buses, and shopping across Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

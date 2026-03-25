@@ -1,5 +1,6 @@
 ---
 title: "Taxi or private car from Narita to Shibuya?"
+image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
 description: "Use your Canadian driver's license with an International Driving Permit to rent and drive cars in Narita or Tokyo. Know Japan’s road rules!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

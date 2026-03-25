@@ -1,5 +1,6 @@
 ---
 title: "Are alcohol and smoking expected in izakayas?"
+image: "/images/pixta/京都_先斗町_夕暮れ_路地.jpg"
 description: "Izakayas are casual Japanese pubs where drinking alcohol and smoking are common, offering a lively social atmosphere with shared food and drinks."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Is booking recommended for Kura kaiten zushi at Tokyo Skytree?"
+image: "/images/pixta/東京スカイツリー_押上駅_青空.jpg"
 description: "Discover what you can’t bring into Tokyo Disneyland: no cans, glass, alcohol, large luggage, or drones. Light snacks, strollers, and refillable bottles allowed. Stay informed!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

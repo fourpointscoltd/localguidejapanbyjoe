@@ -1,5 +1,6 @@
 ---
 title: "Are There Bugs and Mosquitoes in Tokyo in August?"
+image: "/images/pixta/東京ミッドタウン_緑の遊歩道.jpg"
 description: "Yes, Tokyo has mosquitoes in August, especially in the evenings, but they're not overwhelming. Urban areas like Ginza have fewer. Carry mosquito repellent, and you'll be fine."
 pubDate: 2025-02-14
 author: "Joe Tanaka"

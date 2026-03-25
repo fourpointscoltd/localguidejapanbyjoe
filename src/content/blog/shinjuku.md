@@ -1,5 +1,6 @@
 ---
 title: "Can 8-year-olds enter Shinjuku Tokyu Kabukicho Tower?"
+image: "/images/pixta/歌舞伎町_ネオン_夜景_新宿.jpg"
 description: "Yes, 8-year-olds can enter Shinjuku Tokyu Kabukicho Tower during the day, but minors must leave by 10-11 pm due to curfew rules. Keep visits family-friendly by exploring kid-approved areas and near..."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

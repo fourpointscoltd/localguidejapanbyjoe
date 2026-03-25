@@ -1,5 +1,6 @@
 ---
 title: "Which ramen shop at Tokyo Station's Ramen Street is the best?"
+image: "/images/pixta/東京駅_丸の内側_赤レンガ_青空.jpg"
 description: "A local's guide to the best ramen at Tokyo Station's famous Ramen Street."
 pubDate: 2025-02-05
 author: "Joe Tanaka"

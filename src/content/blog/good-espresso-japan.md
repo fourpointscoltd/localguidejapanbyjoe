@@ -1,5 +1,6 @@
 ---
 title: "How hard is it to find good espresso coffee in Tokyo, Kyoto, Nara, and Kobe?"
+image: "/images/pixta/喫茶店_マスター_コーヒー.jpg"
 description: "Looking for great espresso in Japan? Discover the best coffee spots in Tokyo, Kyoto, Nara, and Kobe, insights into Japan’s unique café culture."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

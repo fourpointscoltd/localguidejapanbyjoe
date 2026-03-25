@@ -1,5 +1,6 @@
 ---
 title: "Need coffee recommendations in Tokyo for fresh, quality brews."
+image: "/images/pixta/東京タワー_街並み_青空.jpg"
 description: "Discover Tokyo’s best local coffee spots! From cozy hidden gems to upscale cafes, enjoy authentic, fresh, high-quality brews loved by locals."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

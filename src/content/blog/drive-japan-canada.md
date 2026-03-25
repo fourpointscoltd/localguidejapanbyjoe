@@ -1,5 +1,6 @@
 ---
 title: "Can we use a Canadian license to rent a vehicle in Narita or Tokyo?"
+image: "/images/pixta/紅葉_山道_ドライブ_秋.jpg"
 description: "When booking ryokans or hotels in Japan, ensure you choose non-smoking rooms, confirm check-out times, and understand onsen rules for a smooth stay."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

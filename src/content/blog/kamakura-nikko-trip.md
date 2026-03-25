@@ -1,5 +1,6 @@
 ---
 title: "Choose between Kamakura or Nikko."
+image: "/images/pixta/寺院_天井画_新緑_京都.jpg"
 description: "Discover if the Japan Rail Pass is worth it for your 1-week trip with tips on costs, city passes, and travel hacks to save money in Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

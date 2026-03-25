@@ -1,5 +1,6 @@
 ---
 title: "What is the best way to have unlimited internet and use my phone while I’m there: an internet/SIM card?"
+image: "/images/pixta/東京タワー_街並み_青空.jpg"
 description: "Discover the best way to get unlimited internet in Japan: choose a SIM card or pocket Wi-Fi for convenience, coverage, and cost savings."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

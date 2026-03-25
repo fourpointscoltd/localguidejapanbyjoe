@@ -1,5 +1,6 @@
 ---
 title: "What should I wear in Tokyo, Kyoto, and Osaka in July?"
+image: "/images/pixta/Tシャツ_ハンガー_モノトーン.jpg"
 description: "Discover the best outfits and tips for visiting Japan in July's hot weather. Stay cool with lightweight clothing, sun protection, and hydration."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

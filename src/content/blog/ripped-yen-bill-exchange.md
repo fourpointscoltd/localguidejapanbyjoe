@@ -1,5 +1,6 @@
 ---
 title: "What Should I Do with a Ripped Yen Bill?"
+image: "/images/pixta/銀座_百貨店_街並み_青空.jpg"
 description: "A local's honest advice on damaged Japanese currency. Is it worth exchanging?"
 pubDate: 2026-02-15
 author: "Joe Tanaka"

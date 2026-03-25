@@ -1,5 +1,6 @@
 ---
 title: "Where Can I Buy a Grill in Tokyo?"
+image: "/images/pixta/バーベキュー_肉_野菜_網焼き.jpg"
 description: "Discover the best places to shop for grills in Tokyo, including Kappabashi's diverse options tailored to every cook's needs and budget!"
 pubDate: 2025-02-22
 author: "Joe Tanaka"

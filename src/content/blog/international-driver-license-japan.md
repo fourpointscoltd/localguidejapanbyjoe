@@ -1,5 +1,6 @@
 ---
 title: "Do I need an international driver's license to rent a car?"
+image: "/images/pixta/紅葉_山道_ドライブ_秋.jpg"
 description: "Discover why an International Driving Permit is essential for renting a car in Japan. Learn about driving conditions and tips for a smooth experience!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

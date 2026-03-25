@@ -1,5 +1,6 @@
 ---
 title: "You can go gala yuzawa, it has a direct Shinkansen stop from tokyo."
+image: "/images/pixta/上高地_観光バス_紅葉_秋.webp"
 description: "Experience quick, convenient skiing at Gala Yuzawa via Shinkansen from Tokyo, with onsen, local food, and day-trip ease. Perfect for short trips!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

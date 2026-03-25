@@ -1,5 +1,6 @@
 ---
 title: "Yokohama hosts a week long celebration for Pokémon fans."
+image: "/images/pixta/東京ドームシティ_ラクーア_遊園地.jpg"
 description: "Yokohama's Pokémon event is a free Disneyland-like festival! Fun for all ages with parades, shows, and more. Don't miss it this summer! 🎉"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

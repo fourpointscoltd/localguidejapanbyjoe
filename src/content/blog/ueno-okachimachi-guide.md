@@ -1,5 +1,6 @@
 ---
 title: "Is the Ueno Okachimachi area quiet and good for kids?"
+image: "/images/pixta/上野_国立科学博物館_外観.jpg"
 description: "Visitors to Japan can bring refillable water bottles and easily refill them at parks, stations, or convenience stores for hydration on the go."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

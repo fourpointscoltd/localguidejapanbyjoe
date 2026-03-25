@@ -1,5 +1,6 @@
 ---
 title: "Need vegan restaurant recommendations in Tokyo, Minato, Kyoto, and Shin Osaka."
+image: "/images/pixta/京都_錦市場_アーケード.jpg"
 description: "Learn how to easily get from Narita or Haneda Airport to Omiya Station without speaking Japanese. Tips on trains, buses, IC cards & apps."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

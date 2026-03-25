@@ -1,5 +1,6 @@
 ---
 title: "Sumo werestring, how far in advance do they sell out?"
+image: "/images/pixta/浅草寺_宝蔵門_五重塔_青空.jpg"
 description: "Experience the thrill of sumo wrestling live! Learn how to secure tickets before they sell out and dive into this unique Japanese tradition."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Can visitors bring refillable water bottles or must they buy everything inside?"
+image: "/images/pixta/ペットボトル_水_ミネラルウォーター.webp"
 description: "Watch soccer games in Tokyo at popular sports bars like Los Cabos and HUB for lively atmospheres, local fans, and J-League matches."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

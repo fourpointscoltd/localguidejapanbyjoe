@@ -1,5 +1,6 @@
 ---
 title: "When booking ryokans or hotels in Japan, are there any important points to keep in mind?"
+image: "/images/pixta/露天風呂_桶_温泉_庭園.jpg"
 description: "Deciding between Kamakura and Nikko for a Tokyo day trip? Discover coastal vibes or serene nature with rich culture and easy access."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

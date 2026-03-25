@@ -1,5 +1,6 @@
 ---
 title: "Are There Unbooked Taxis Outside Shinjuku Station?"
+image: "/images/pixta/新宿駅_東口_青空.jpg"
 description: "Taxis are readily available at Shinjuku Station's taxi stands, so no need to book in advance. Most taxis even have USB-A ports—just bring your cable and charge your phone on the go!"
 pubDate: 2025-02-14
 author: "Joe Tanaka"

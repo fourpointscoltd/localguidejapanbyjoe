@@ -1,5 +1,6 @@
 ---
 title: "Which Tokyo hotel offers a shuttle bus to Disneyland?"
+image: "/images/disney-usj/disney.jpg"
 description: "Planning to dine at Kura Kaiten Zushi near Tokyo Skytree? Booking via their Japanese app is smart to skip waits, especially on busy days."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

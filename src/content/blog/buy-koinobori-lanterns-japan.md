@@ -1,5 +1,6 @@
 ---
 title: "Where can I buy Koinobori or carp koi lanterns in Tokyo, Kyoto, or Osaka?"
+image: "/images/pixta/鯉のぼり_青空.jpg"
 description: "A local answers: Where can I buy Koinobori or carp koi lanterns in Tokyo, Kyoto, or Osaka?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

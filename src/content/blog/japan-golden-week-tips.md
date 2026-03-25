@@ -1,5 +1,6 @@
 ---
 title: "Is it advisable to visit Japan during Golden Week due to higher costs and crowds?"
+image: "/images/pixta/浅草_五重塔_スカイツリー_夜景.jpg"
 description: "Experience Japan's Golden Week, a bustling time for travel with cultural significance. Learn about the challenges and decide if it's worth your visit!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

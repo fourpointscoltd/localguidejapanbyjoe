@@ -1,5 +1,6 @@
 ---
 title: "Is Nakano Broadway worth visiting for non-anime related shops?"
+image: "/images/pixta/池袋_夜景_繁華街.jpg"
 description: "Explore Nakano Broadway beyond anime—discover vintage shops, quirky cafes, retro collectibles, and a unique Tokyo vibe for all visitors."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

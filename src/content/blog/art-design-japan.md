@@ -1,5 +1,6 @@
 ---
 title: "Recommendations for art and design places to visit in Tokyo and beyond?"
+image: "/images/pixta/美術館_森の中_水辺.jpg"
 description: "Explore Tokyo's vibrant art scene with unique attractions like ART AQUARIUM, and discover captivating art destinations across Japan!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

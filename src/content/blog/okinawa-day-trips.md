@@ -1,5 +1,6 @@
 ---
 title: "Is Okinawa a suitable beach destination for a day trip from Tokyo in July?"
+image: "/images/pixta/明神池_カヌー_緑の湖.webp"
 description: "Avoid Tokyo subway and JR train crowds by skipping rush hours: inbound 7-9 AM, outbound 5-7 PM on weekdays; weekends and off-peak times are less busy."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

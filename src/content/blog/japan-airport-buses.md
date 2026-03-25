@@ -1,5 +1,6 @@
 ---
 title: "How do airport limousine buses work and do I need to make reservations?"
+image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
 description: "Airport limousine buses in Japan are easy to use with no reservation needed. Buy tickets on arrival; buses run often with English signs and staff assistance."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

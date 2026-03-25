@@ -1,5 +1,6 @@
 ---
 title: "Recommendations for stores to buy ballpoint pens?"
+image: "/images/pixta/文具_木製引き出し_ノート鉛筆.jpg"
 description: "Rent a car in Narita or Tokyo with a Canadian IDP, learn tips for left-side driving, winter safety, insurance, and navigation in Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

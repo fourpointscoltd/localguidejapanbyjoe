@@ -1,5 +1,6 @@
 ---
 title: "Alternative Spots to View Mt. Fuji Without Visiting the Mountain Directly"
+image: "/images/pixta/富士山_茶畑_静岡_新緑.jpg"
 description: "Explore the breathtaking views of Mount Fuji from Lake Kawaguchi, Arakurayama Sengen Park, and Hakone. Discover unique photo spots today!"
 pubDate: 2025-02-22
 author: "Joe Tanaka"

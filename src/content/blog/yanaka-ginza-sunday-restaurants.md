@@ -1,5 +1,6 @@
 ---
 title: "Restaurants in Yanaka Giza open on Sundays?"
+image: "/images/pixta/神楽坂_路地_レストラン街.jpg"
 description: "Wondering if Yanaka Ginza restaurants are open on Sundays? Learn about typical opening hours and enjoy this charming neighborhood."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

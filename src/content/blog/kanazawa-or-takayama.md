@@ -1,5 +1,6 @@
 ---
 title: "Kanazawa or Takayama After Shirakawago?"
+image: "/images/pixta/金沢駅_鼓門_外観.jpg"
 description: "A local explains which city is better for 1 night vs longer stays."
 pubDate: 2026-12-20
 author: "Joe Tanaka"

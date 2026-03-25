@@ -1,5 +1,6 @@
 ---
 title: "What Apps Should I Download Before Coming to Japan?"
+image: "/images/pixta/東京スカイツリー_押上駅_青空.jpg"
 description: "A local recommends the essential apps for traveling in Japan."
 pubDate: 2026-12-28
 author: "Joe Tanaka"

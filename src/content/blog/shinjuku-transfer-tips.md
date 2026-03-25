@@ -1,5 +1,6 @@
 ---
 title: "How much time is needed to change platforms in Shinjuku station?"
+image: "/images/pixta/新宿駅_JR南口_高層ビル_青空.jpg"
 description: "Discover top Japanese gardens to visit like Kyoto’s Katsura Imperial Villa and the Four Seasons Hotel garden offering serene beauty and cultural charm."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

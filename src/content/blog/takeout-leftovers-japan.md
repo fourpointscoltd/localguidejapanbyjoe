@@ -1,5 +1,6 @@
 ---
 title: "Can I Take Leftovers Home from Restaurants?"
+image: "/images/pixta/博多_屋台_ラーメン_夜.jpg"
 description: "A local explains why doggy bags are not common in Japan."
 pubDate: 2026-12-21
 author: "Joe Tanaka"

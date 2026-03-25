@@ -1,5 +1,6 @@
 ---
 title: "When is the best time to visit Fushimi Inari Gates in November?"
+image: "/images/pixta/伏見稲荷_千本鳥居_赤い柵.jpg"
 description: "Visit Fushimi Inari Gates early November, from 6–8 a.m., to enjoy peaceful torii trails and avoid crowds during cool, crisp mornings."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

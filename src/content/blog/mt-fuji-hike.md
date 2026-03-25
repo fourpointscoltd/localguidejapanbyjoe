@@ -1,5 +1,6 @@
 ---
 title: "Have you hiked Mt. Fuji via Day hike? How long from Station 5?"
+image: "/images/pixta/富士山_街並み_静岡_パノラマ.jpg"
 description: "Experience the ultimate Mt. Fuji day hike from 5th Station! Learn routes, timing, gear tips, safety, and cultural insights for a safe summit climb."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

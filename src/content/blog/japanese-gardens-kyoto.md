@@ -1,5 +1,6 @@
 ---
 title: "Recommendations for Japanese gardens?"
+image: "/images/pixta/日本庭園_紅葉_秋.jpg"
 description: "ZipAir offers affordable, no-frills flights in Japan and to Asia, ideal for budget travelers seeking reliability and efficiency over luxury."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

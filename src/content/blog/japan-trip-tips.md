@@ -1,5 +1,6 @@
 ---
 title: "How to book everything for our Japan trip and what's necessary?"
+image: "/images/pixta/東京タワー_スカイライン_空撮.jpg"
 description: "Book your Japan trip smoothly with Suica cards, Shinkansen tickets, helpful apps, and authentic onsen stays. Get insider tips for transport and accommodations!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

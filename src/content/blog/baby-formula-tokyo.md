@@ -1,5 +1,6 @@
 ---
 title: "Where to buy baby formula in Tokyo?"
+image: "/images/pixta/浅草駅_エキミセ_街並み.jpg"
 description: "Discover Gunma’s top onsen spots like Kusatsu and Ikaho, perfect for day trips or overnight stays to unwind in authentic hot springs."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

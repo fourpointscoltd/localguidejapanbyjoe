@@ -1,5 +1,6 @@
 ---
 title: "Can I Visit Both Disneyland and DisneySea in One Day?"
+image: "/images/disney-usj/disneyland.jpg"
 description: "A local explains whether you can do both parks and gives honest advice."
 pubDate: 2026-12-14
 author: "Joe Tanaka"

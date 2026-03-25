@@ -1,5 +1,6 @@
 ---
 title: "Is expensive sushi dinner worth it compared to normal sushi place?"
+image: "/images/pixta/京都_錦市場_アーケード.jpg"
 description: "Experiencing both high-end and budget sushi in Japan is a must for sushi lovers. Luxury sushi offers premium ingredients like uni and otoro, while conveyor belt chains like Sushiro provide fun and affordability. Trying both is the best way to enjoy the full spectrum of sushi culture."
 pubDate: 2025-02-11
 author: "Joe Tanaka"

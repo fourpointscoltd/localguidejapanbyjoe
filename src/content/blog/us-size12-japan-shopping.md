@@ -1,5 +1,6 @@
 ---
 title: "Traveling to Japan soon, looking for clothes in size US women's 12."
+image: "/images/pixta/ユニクロ_店舗_看板.jpg"
 description: "Traveling to Japan with a US women’s size 12? Discover local tips on finding clothes and shoes, shops, and online options for larger sizes."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

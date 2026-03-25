@@ -1,5 +1,6 @@
 ---
 title: "1. Tips for dealing with heat/humidity in UK."
+image: "/images/pixta/浅草_雷門_人力車_全景.jpg"
 description: "Stay cool this summer in the UK with our top tips! Discover hydration, clothing, shade, and delicious treats to beat the heat effectively."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

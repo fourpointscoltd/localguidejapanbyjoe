@@ -1,5 +1,6 @@
 ---
 title: "Can the suica card be used for anything other than trains in Japan?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "Discover how Japan’s Suica card goes beyond trains—use it for vending machines, buses, taxis, convenience stores, and even tourist spots!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

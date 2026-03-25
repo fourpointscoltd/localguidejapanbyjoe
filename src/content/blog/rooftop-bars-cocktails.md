@@ -1,5 +1,6 @@
 ---
 title: "Looking for a rooftop bar with good cocktails and drinks."
+image: "/images/pixta/おしゃれカフェ_インテリア_革ソファ.jpg"
 description: "Looking for the best rooftop bars in Tokyo? Enjoy stunning city views & great cocktails at The Gate Hotel Asakusa, Bvlgari Bar, The Roof Shibuya Sky & more!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

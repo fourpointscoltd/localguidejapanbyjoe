@@ -1,5 +1,6 @@
 ---
 title: "Are taxes included in the displayed price when it comes to price tags in stores?"
+image: "/images/pixta/京都_錦市場_アーケード.jpg"
 description: "When shopping, it's crucial to know if displayed prices include taxes. Learn about tax rates, pricing in stores, and dining for better budgeting."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

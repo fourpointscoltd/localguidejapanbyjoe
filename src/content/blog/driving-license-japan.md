@@ -1,5 +1,6 @@
 ---
 title: "Do I Need an International Driver's License in Japan?"
+image: "/images/pixta/紅葉_山道_ドライブ_秋.jpg"
 description: "A local explains everything about renting and driving a car in Japan."
 pubDate: 2026-12-26
 author: "Joe Tanaka"

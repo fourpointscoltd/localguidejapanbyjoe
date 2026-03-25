@@ -1,5 +1,6 @@
 ---
 title: "Can you wear jewelry in a public onsen?"
+image: "/images/pixta/露天風呂_屋根付き_温泉旅館.jpg"
 description: "No, jewelry should be removed before entering a Japanese onsen. Minerals in the water can cause rust or damage. Lockers are safe and provided."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

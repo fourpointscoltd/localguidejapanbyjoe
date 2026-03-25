@@ -1,5 +1,6 @@
 ---
 title: "Why do I need a suica or pasmo card for Tokyo, Kyoto, and Osaka?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "Discover the benefits of SUICA and PASMO cards for hassle-free travel in Japan's cities. Enjoy easy recharging and broad acceptance today!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

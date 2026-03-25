@@ -1,5 +1,6 @@
 ---
 title: "Is It Acceptable for Women to Wear Shorts in Japan During Summer?"
+image: "/images/pixta/Tシャツ_ハンガー_モノトーン.jpg"
 description: "Worried about wearing shorts in Japan this summer? Don't be! From Tokyo streets to summer festivals, shorts are totally fine—just skip the beachwear in the city."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

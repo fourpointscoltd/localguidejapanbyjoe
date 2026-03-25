@@ -1,5 +1,6 @@
 ---
 title: "Are there charging points in cafes and trains, etc? any tips?"
+image: "/images/pixta/軽井沢_テラスカフェ_ウッドデッキ.jpg"
 description: "Discover essential tips for charging devices in Japan, from cafes with power outlets to reliable portable battery packs. Stay powered up!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

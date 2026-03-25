@@ -1,5 +1,6 @@
 ---
 title: "Can I bring my luggage on public transport without hiring a transportation company?"
+image: "/images/pixta/新宿駅_JR南口_高層ビル_青空.jpg"
 description: "Discover where locals shop for quality Japanese ballpoint pens, from Ginza’s Itoya to hidden gems like KAKIMORI near Asakusa."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

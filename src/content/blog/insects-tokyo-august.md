@@ -1,5 +1,6 @@
 ---
 title: "Are There Bugs and Mosquitoes in Tokyo?"
+image: "/images/pixta/東京ミッドタウン_緑の遊歩道.jpg"
 description: "A local explains why you don't need to worry about insects."
 pubDate: 2027-01-05
 author: "Joe Tanaka"

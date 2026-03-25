@@ -1,5 +1,6 @@
 ---
 title: "Can I Visit Pokémon Center and Ghibli Store at Skytree Without a Ticket?"
+image: "/images/pixta/東京ソラマチ_スカイツリー_青空.jpg"
 description: "A local explains Tokyo Solamachi shopping. No observation deck ticket needed!"
 pubDate: 2026-04-02
 author: "Joe Tanaka"

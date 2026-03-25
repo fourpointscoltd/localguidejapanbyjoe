@@ -1,5 +1,6 @@
 ---
 title: "Where to find cheap LV bags in Tokyo?"
+image: "/images/pixta/銀座_百貨店_街並み_青空.jpg"
 description: "Discover where to find authentic, gently used Louis Vuitton bags in Tokyo at Komehyo, Brand Off, and Daikokuya shops. Save 10-30%!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

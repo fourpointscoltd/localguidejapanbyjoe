@@ -1,5 +1,6 @@
 ---
 title: "Do Suica or Pasmo Cards Expire with Unused Balances?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "SUICA & PASMO expire after 10 years of inactivity, possibly wiping your balance. Check yours via Mobile SUICA or ticket machines before your next Japan trip. Refunds may be possible with a small fee."
 pubDate: 2025-02-14
 author: "Joe Tanaka"

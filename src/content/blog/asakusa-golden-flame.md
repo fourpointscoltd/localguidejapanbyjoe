@@ -1,5 +1,6 @@
 ---
 title: "I can't understand what this is since I first saw it."
+image: "/images/pixta/浅草_雷門_大提灯_青空.jpg"
 description: "Discover family-friendly ski resorts near Tokyo like Gala Yuzawa for quick trips or Hokkaido for powder snow adventures and fun activities."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

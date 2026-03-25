@@ -1,5 +1,6 @@
 ---
 title: "Tips for non-cafe/center Pokemon experiences and specific card store recommendations."
+image: "/images/pixta/お台場_自由の女神_レインボーブリッジ.jpg"
 description: "Explore real Japanese Pokémon culture beyond cafes and centers: unique events, local card stores, and interactive fan experiences await you."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

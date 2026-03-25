@@ -1,5 +1,6 @@
 ---
 title: "Are there taxi apps for Tokyo or Japan that don't require a local phone number?"
+image: "/images/pixta/歌舞伎町_ネオン_夜景_新宿.jpg"
 description: "Avoid long waits at Tokyo Disneyland food counters by dining off-peak or booking popular table-service restaurants in advance."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

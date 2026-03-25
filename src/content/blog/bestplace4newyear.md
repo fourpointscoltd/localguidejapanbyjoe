@@ -1,5 +1,6 @@
 ---
 title: "What is the best place in Japan to spend New Year's Eve?"
+image: "/images/pixta/神社_夜桜ライトアップ.jpg"
 description: "A local's guide to the best places in Japan for New Year's celebrations."
 pubDate: 2025-02-13
 author: "Joe Tanaka"

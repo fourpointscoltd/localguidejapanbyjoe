@@ -1,5 +1,6 @@
 ---
 title: "Are clean public toilets really lacking soap for hand washing?"
+image: "/images/pixta/東京ミッドタウン_緑の遊歩道.jpg"
 description: "Discover popular perfumes in Japan favored by women, from Aesop’s subtle scents to custom boutiques like Liberta, blending tradition with style."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "I'm looking for a resort pool in Tokyo to go swimming in July, not an onsen."
+image: "/images/pixta/リゾートホテル_海辺プール.jpg"
 description: "Looking for a resort-style pool in Tokyo this July? Try Tokyo Summerland, Yomiuriland Pool WAI, or Keio Plaza Hotel’s rooftop pool."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

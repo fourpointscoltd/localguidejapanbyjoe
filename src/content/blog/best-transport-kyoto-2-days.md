@@ -1,5 +1,6 @@
 ---
 title: "Best transportation mode in Kyoto to see famous sites in 2 days?"
+image: "/images/pixta/清水寺_本堂_新緑_京都.jpg"
 description: "Discover the best transport options in Kyoto, from taxis to buses and bikes. Find the most efficient way to explore Kyoto in just two days!"
 pubDate: 2025-03-20
 author: "Joe Tanaka"

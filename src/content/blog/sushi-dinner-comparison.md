@@ -1,5 +1,6 @@
 ---
 title: "Is expensive sushi dinner worth it compared to normal sushi place?"
+image: "/images/pixta/京都_錦市場_アーケード.jpg"
 description: "Wondering if high-end sushi is worth the price? Try luxury sushi, casual conveyor sushi, and mid-range gourmet spots like Nemuro Hanamaru 🍣"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Which of these \"\"day trips\"\" will you recommend for a 1st timer?
+image: "/images/pixta/美山_かやぶきの里_花畑.jpg"
  Yokohama, Nikko, kawaguchiko, Hakone, Nara, Kobe, Himeji, Nagoya, +"
 description: "Allow 10-20 minutes to change platforms at Shinjuku Station; plan ahead and consider alternative routes to avoid stress and missed trains."
 pubDate: 2025-07-25

@@ -1,5 +1,6 @@
 ---
 title: "What Should I Buy and Pack Before Traveling to Japan?\"**"
+image: "/images/pixta/Tシャツ_ハンガー_モノトーン.jpg"
 description: "Pack wisely for your Japan trip! Discover essential items like power adapters, medications, and comfortable shoes for a smooth adventure."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

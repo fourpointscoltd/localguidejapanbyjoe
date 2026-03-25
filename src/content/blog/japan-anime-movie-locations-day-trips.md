@@ -1,5 +1,6 @@
 ---
 title: "Is there a day trip to visit filming locations or real-life spots that inspired famous anime or movies？"
+image: "/images/pixta/京都_清水坂_しだれ桜_春.jpg"
 description: "Discover real-life locations from Slam Dunk, Your Name, and more. These anime & movie spots are perfect for easy day trips from Tokyo!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

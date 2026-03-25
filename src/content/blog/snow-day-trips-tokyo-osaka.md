@@ -1,5 +1,6 @@
 ---
 title: "Where can I see beautiful snow landscapes as a day trip from Tokyo or Osaka？"
+image: "/images/pixta/京都_嵐山竹林_雪景色.jpg"
 description: "Want to enjoy snowy views during your Japan trip? Discover the best day trips from Tokyo and Osaka to see magical winter landscapes, no overnight stay needed!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

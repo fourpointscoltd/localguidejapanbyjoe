@@ -1,5 +1,6 @@
 ---
 title: "Should I Visit Japan During Golden Week?"
+image: "/images/pixta/浅草寺_宝蔵門_五重塔_青空.jpg"
 description: "A local explains Golden Week. What to expect and how to survive."
 pubDate: 2026-11-18
 author: "Joe Tanaka"

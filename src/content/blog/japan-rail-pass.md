@@ -1,5 +1,6 @@
 ---
 title: "Is it worth buying a JR rail card for a 1-week trip to Japan?"
+image: "/images/pixta/東京駅_丸の内_雨の夜_リフレクション.jpg"
 description: "Discover if teamLab is worth visiting despite the crowds. Learn top tips for timing, ticket buying, and enjoying Japan’s immersive digital art exhibits."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Are there better claw machines or arcades in Tokyo for kids?"
+image: "/images/pixta/東京ドームシティ_ラクーア_遊園地.jpg"
 description: "Looking for kid-friendly arcades in Tokyo? Try Molly Fantasy in Aeon malls for easy UFO catchers, cute prizes, and a safe, fun environment for families!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

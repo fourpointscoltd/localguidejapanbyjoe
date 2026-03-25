@@ -1,5 +1,6 @@
 ---
 title: "Recommend historical fiction books and movies to read and watch before visiting Japan."
+image: "/images/pixta/和傘_紅葉_ライトアップ_和室.jpg"
 description: "Rent drones in Tokyo but note strict rules: permission needed; fly legally in rural areas. Join local clubs for guidance and safe flying tips."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

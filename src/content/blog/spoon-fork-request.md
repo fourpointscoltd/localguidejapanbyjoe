@@ -1,5 +1,6 @@
 ---
 title: "Can we request a spoon and fork instead of chopsticks at restaurants?"
+image: "/images/pixta/フォーク_スプーン_カトラリー.jpg"
 description: "A local answers: Can we request a spoon and fork instead of chopsticks at restaurants?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "How do I pay for online bookings in Japan as a cash society?"
+image: "/images/pixta/浅草_雷門_人力車_観光客.jpg"
 description: "A local answers: How do I pay for online bookings in Japan as a cash society?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

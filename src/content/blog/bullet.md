@@ -1,5 +1,6 @@
 ---
 title: "How to buy bullet train tickets for travel from Osaka to Tokyo?"
+image: "/images/pixta/京都駅_京都タワー_夕景.jpg"
 description: "Discover how to easily buy bullet train tickets from Osaka to Tokyo using machines or JR offices. Tips for passes, discounts & timing!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

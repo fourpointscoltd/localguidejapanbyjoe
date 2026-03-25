@@ -1,5 +1,6 @@
 ---
 title: "Do we need one Suica card per person for Japan train?"
+image: "/images/pixta/Suicaカード_ペンギン.jpg"
 description: "Discover if Ueno Okachimachi is kid-friendly and lively! Learn about safety, transport, parks, and family spots in this vibrant Tokyo area."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

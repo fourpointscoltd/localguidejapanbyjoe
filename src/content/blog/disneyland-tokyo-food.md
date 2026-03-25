@@ -1,5 +1,6 @@
 ---
 title: "Will there be long wait times for food at Disneyland counters?"
+image: "/images/disney-usj/disney.webp"
 description: "Is Okinawa worth visiting in September despite typhoon season? Learn tips on planning, weather, activities, and staying safe during your trip."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

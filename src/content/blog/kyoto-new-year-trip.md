@@ -1,5 +1,6 @@
 ---
 title: "I’m visiting Japan from December 28th for one month. Are stores open during the year-end and New Year holidays?"
+image: "/images/pixta/京都_祇園_花見小路_昼.jpg"
 description: "Visiting Japan over New Year? Most stores in Tokyo & big cities stay open, but rural areas may close Jan 1–3. Here’s what to expect & plan for."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "How to get to Omiya Station from Narita / Haneda without knowing the language?"
+image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
 description: "You can easily bring luggage on Japan’s trains, buses, and taxis without special services. Just keep bags manageable and considerate of space."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

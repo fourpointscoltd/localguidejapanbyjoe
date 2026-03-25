@@ -1,5 +1,6 @@
 ---
 title: "Can I Buy a Suica Card at Narita Airport?"
+image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
 description: "Learn how to get a Suica card at Narita Airport, including the new Welcome Suica Mobile for iPhone users. Save time and travel smoothly in Japan!"
 pubDate: 2025-03-20
 author: "Joe Tanaka"

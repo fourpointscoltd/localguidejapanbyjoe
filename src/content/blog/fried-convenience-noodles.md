@@ -1,5 +1,6 @@
 ---
 title: "What's your favorite thing to eat/drink from 7/11?"
+image: "/images/pixta/ローソン_富士山_夕景.jpg"
 description: "A local answers: What's your favorite thing to eat/drink from 7/11?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

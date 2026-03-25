@@ -1,5 +1,6 @@
 ---
 title: "Good day trips from Osaka?"
+image: "/images/pixta/大阪_新世界_通天閣_夜景.jpg"
 description: "Choose safe, licensed taxis or the Narita Express train for reliable, hassle-free travel from Narita Airport to Shibuya. Avoid illegal private cars."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

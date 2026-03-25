@@ -1,5 +1,6 @@
 ---
 title: "Is teamlab worth it despite the crowds?"
+image: "/images/pixta/お台場_自由の女神_レインボーブリッジ.jpg"
 description: "Discover top historical fiction books and movies like *Sanctuary*, *Asakusa Kid*, and *A Man Called Pirate* to enrich your Japan trip experience."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

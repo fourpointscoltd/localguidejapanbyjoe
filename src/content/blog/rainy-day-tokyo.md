@@ -1,5 +1,6 @@
 ---
 title: "What to Do in Tokyo on Rainy Days"
+image: "/images/pixta/東京駅_丸の内_雨の夜_リフレクション.jpg"
 description: "A local explains why rain shouldn't stop your sightseeing."
 pubDate: 2026-12-19
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "What is the popular perfume/body spray used by ladies in Japan?"
+image: "/images/pixta/銀座_和光時計台_街並み.jpg"
 description: "Discover the best Japan day trips for first-timers! Explore Kamakura, Nikko, Hakone, Nara, Kobe, and more with local tips. Plan your ideal journey!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Hey guys we are planning to rent a vehicle in Narita or Tokyo on January. Do accept Canadian international license? This our first time driving a right hand vehicle lol"
+image: "/images/pixta/紅葉_山道_ドライブ_秋.jpg"
 description: "Discover if Okinawa is ideal for a day trip from Tokyo in July. Learn travel tips, best beaches, cultural spots, and weather insights."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

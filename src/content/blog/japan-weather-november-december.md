@@ -1,5 +1,6 @@
 ---
 title: "What are the average temperatures in Japan in late November to early December?"
+image: "/images/pixta/紅葉_赤い橋_ライトアップ_夜景.jpg"
 description: "Planning a trip to Japan in late November or early December? Discover average temperatures and what to pack by region—from snowy Hokkaido to sunny Okinawa."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

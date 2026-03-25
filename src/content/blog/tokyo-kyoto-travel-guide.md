@@ -1,5 +1,6 @@
 ---
 title: "How to Travel from Tokyo to Kyoto"
+image: "/images/pixta/京都駅_京都タワー_夕景.jpg"
 description: "Experience the journey from Tokyo to Kyoto with the Shinkansen. Enjoy scenic views, comfort, and efficiency in just 2.5 hours!"
 pubDate: 2025-02-22
 author: "Joe Tanaka"

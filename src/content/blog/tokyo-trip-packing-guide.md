@@ -1,5 +1,6 @@
 ---
 title: "What should I pack for my trip to Tokyo in August, considering the hot and humid weather?"
+image: "/images/pixta/クローゼット_白い服_ミニマル.jpg"
 description: "Discover essential packing tips for Tokyo in August: light clothes, portable fans, cooling towels, umbrellas for shade, and konbini cold drinks to beat the heat. Stay hydrated and enjoy local summer festivals and traditions!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

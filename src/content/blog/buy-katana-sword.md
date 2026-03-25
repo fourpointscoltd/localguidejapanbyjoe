@@ -1,5 +1,6 @@
 ---
 title: "Where to buy a Katana sword?"
+image: "/images/pixta/寺院_天井画_新緑_京都.jpg"
 description: "A local answers: Where to buy a Katana sword?"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Where Can I Buy Hatori Hanzo Japanese Steel Shears in Tokyo?"
+image: "/images/pixta/美容師_ハサミ_シザーケース.jpg"
 description: "Looking to buy real Hatori Hanzo shears in Tokyo without a Member ID? The Mizutani showroom lets you walk in and shop like a pro — no hassle, no reservation needed."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

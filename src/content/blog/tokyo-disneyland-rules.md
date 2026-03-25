@@ -1,5 +1,6 @@
 ---
 title: "ディズニーランドでは持ち込めないものは何ですか？"
+image: "/images/disney-usj/disneysea.jpg"
 description: "Discover where Japanese drivers shop for car accessories in Tokyo! Explore Autobacs in Shinonome and learn tips for visiting these stores."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

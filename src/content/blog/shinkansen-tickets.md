@@ -1,5 +1,6 @@
 ---
 title: "Is it better to buy shinkansen tickets a month in advance for Tokyo to Osaka?"
+image: "/images/pixta/京都駅_京都タワー_夕景.jpg"
 description: "Discover Tokyo hotels offering shuttle buses to Disneyland! Learn which resorts provide convenient, often free, shuttle services to Disney parks."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

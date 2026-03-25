@@ -1,5 +1,6 @@
 ---
 title: "Pros and cons of Haneda vs Narita airport, please? TIA"
+image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
 description: "Compare Haneda vs Narita Airport: Haneda offers closer access, faster transit, and sleek facilities; Narita features more international flights and duty-free shops. Choose Haneda for convenience to..."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

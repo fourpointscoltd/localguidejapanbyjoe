@@ -1,5 +1,6 @@
 ---
 title: "Is it a good idea to invite my tattooed boyfriend to Japan?"
+image: "/images/pixta/露天風呂_屋根付き_温泉旅館.jpg"
 description: "Worried about tattoos in Japan? Discover how your tattooed boyfriend can enjoy Japan freely, including tips on onsen and cultural etiquette."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

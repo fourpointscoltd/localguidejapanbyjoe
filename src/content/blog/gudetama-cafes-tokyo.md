@@ -1,5 +1,6 @@
 ---
 title: "Where in Tokyo can I find Gudetama-themed cafes and shops?"
+image: "/images/pixta/原宿_竹下通り_賑わい.jpg"
 description: "Explore Gudetama-themed cafes and shops in Tokyo at Sanrio World Ginza and the immersive Sanrio Puroland, a must-visit for fans."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

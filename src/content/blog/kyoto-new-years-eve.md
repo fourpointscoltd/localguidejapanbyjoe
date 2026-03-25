@@ -1,5 +1,6 @@
 ---
 title: "What is the best place in Japan to spend New Year's Eve?"
+image: "/images/pixta/京都_祇園_夜の通り_柳.jpg"
 description: "Experience a unique New Year's Eve in Kyoto, where tradition meets celebration with temples, soba noodles, and festive events."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

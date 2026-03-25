@@ -1,5 +1,6 @@
 ---
 title: "Looking for places to watch soccer games in Tokyo."
+image: "/images/pixta/池袋_夜景_繁華街.jpg"
 description: "Discover if taxi apps in Tokyo or Japan require local phone numbers and learn the best ways for foreigners to hail taxis hassle-free."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

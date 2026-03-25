@@ -1,5 +1,6 @@
 ---
 title: "Looking for family-friendly activities near Teamlab Tokyo on Friday."
+image: "/images/pixta/お台場_自由の女神_レインボーブリッジ.jpg"
 description: "Visiting TeamLab Tokyo with kids on a Friday? Check out family-friendly spots like Ariake Garden and Lalaport Toyosu nearby!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

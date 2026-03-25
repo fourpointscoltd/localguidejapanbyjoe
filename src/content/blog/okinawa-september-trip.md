@@ -1,5 +1,6 @@
 ---
 title: "Is it worth going to Okinawa for a short trip in September? Would it still be worth it since i might hit typhoon season?"
+image: "/images/pixta/明神池_カヌー_緑の湖.webp"
 description: "Tattoos in Tokyo, Osaka, and Kyoto face less stigma daily but remain restricted in onsen, pools, and traditional spots. Private baths help."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Suggest one thing to do, see, eat, or stay in these places."
+image: "/images/pixta/博多_屋台_ラーメン_夜.jpg"
 description: "Discover Kyushu’s unique charm by exploring Nagasaki’s culture, relaxing in Oita’s hot springs, and hiking Aso’s stunning landscapes."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

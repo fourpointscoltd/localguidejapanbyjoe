@@ -1,5 +1,6 @@
 ---
 title: "Want to visit the national treasure tea room?"
+image: "/images/pixta/日本建築_茶室_新緑.jpg"
 description: "Visit Japan's national treasure tea rooms like Uan in Aichi. Book in advance, dress modestly, and explore surrounding cultural sites for a rich experience."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

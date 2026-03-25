@@ -1,5 +1,6 @@
 ---
 title: "Is Nui. Hostel & Bar Lounge Near Asakusa a Good Place to Stay?"
+image: "/images/pixta/カプセルホテル_内観_ベッド.webp"
 description: "Discover Nui. Hostel's vibrant atmosphere, prime location near Asakusa, and tips for exploring Taito's hidden gems around Kuramae."
 pubDate: 2025-03-04
 author: "Joe Tanaka"

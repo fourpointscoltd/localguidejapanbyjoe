@@ -1,5 +1,6 @@
 ---
 title: "Recommend a good and reasonable place for shabu shabu or sukiyaki in Ueno & Asakusa?"
+image: "/images/pixta/浅草_仲見世通り_観光客_青空.jpg"
 description: "Looking for affordable shabu-shabu or sukiyaki in Ueno or Asakusa? Try Hachinoki or Yansando—high quality, delicious, and under ¥2,000 at lunch!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,5 +1,6 @@
 ---
 title: "Should I use a travel agent or book motels myself for Japan trip?"
+image: "/images/pixta/カプセルホテル_女性_利用者.jpg"
 description: "Book your Japan trip accommodations yourself for better deals and control. Use English-friendly sites and apps like Klook or Asoview for tours."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

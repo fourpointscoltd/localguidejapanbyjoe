@@ -1,5 +1,6 @@
 ---
 title: "Is the green pass on the JR worth the extra $120usd?"
+image: "/images/pixta/東京駅_丸の内側_赤レンガ_青空.jpg"
 description: "Is the JR Green Pass worth an extra $120? It offers wider seats and minor perks but isn’t essential for most travelers or locals. For comfort during peak times, it helps—but regular JR Pass suffice..."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
