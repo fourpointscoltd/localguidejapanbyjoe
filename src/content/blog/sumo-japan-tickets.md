@@ -3,7 +3,7 @@ title: "Need info on buying sumo wrestling tickets and best location/website to 
 description: "Experience the thrill of sumo wrestling in Japan! Learn how to buy tickets, discover seating options, and immerse yourself in this unique culture."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1602152043142-1d25a6d56a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHN1bW8lMjB3cmVzdGxpbmclMjBKYXBhbnxlbnwwfHx8fDE3NTM0OTY1NzZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/sumo/kokugikan-interior-ring.jpg"
 tags: ["Events"]
 ---
 

@@ -3,7 +3,7 @@ title: "Can we see a Sumo tournament in Tokyo, Nagoya, Kyoto, or Osaka in late M
 description: "Discover sumo in Japan between late May and mid June! While no grand tournaments occur, visit training stables and local events for an authentic experience."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1574908445051-d9e0c2f4f763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN1bW98ZW58MHx8fHwxNzUzNjA4MzA3fDA&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/sumo/ryogoku-station-kokugikan.jpg"
 tags: ["Events"]
 ---
 > "Can we see a Sumo tournament in Tokyo, Nagoya, Kyoto, or Osaka in late May to Mid June?"

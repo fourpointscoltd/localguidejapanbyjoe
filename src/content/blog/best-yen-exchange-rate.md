@@ -3,7 +3,7 @@ title: "Where to Get the Best Yen Exchange Rate in Japan?"
 description: "A local explains money exchange options. ATMs, banks, and exchange shops compared."
 pubDate: 2026-05-25
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
+image: "/images/blog/payments/yen-bills-credit-card.jpg"
 tags: ["Tips"]
 ---
 
