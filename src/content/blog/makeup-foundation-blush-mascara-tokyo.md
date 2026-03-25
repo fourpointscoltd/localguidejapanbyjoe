@@ -1,6 +1,6 @@
 ---
 title: "Recommendations for Foundation, Blush, and Mascara in Tokyo"
-image: "/images/pixta/銀座_中央通り_歩行者天国.jpg"
+image: "/images/pixta/表参道_東急プラザ_ファッション.jpg"
 description: "Looking for makeup in Tokyo but don't know where to start? Try @cosme TOKYO for top-rated foundation, blush, and mascara picks based on real reviews!"
 pubDate: 2025-03-21
 author: "Joe Tanaka"

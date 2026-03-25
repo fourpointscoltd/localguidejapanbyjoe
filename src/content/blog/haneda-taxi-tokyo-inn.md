@@ -1,6 +1,6 @@
 ---
 title: "Is it easy to find a taxi from Haneda airport to Tokyo Inn Hotel in the evening?"
-image: "/images/pixta/成田空港_ターミナル2_外観.jpg"
+image: "/images/pixta/東京タワー_スカイライン_空撮.jpg"
 description: "Landing at Haneda Airport in the evening? No worries — finding a taxi to Tokyo Inn Hotel is easy, safe, and clearly marked for all travelers."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

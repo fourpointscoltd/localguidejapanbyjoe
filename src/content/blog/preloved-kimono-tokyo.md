@@ -1,6 +1,6 @@
 ---
 title: "Recommended affordable preloved kimono shop in Tokyo?"
-image: "/images/pixta/嵐山_キモノフォレスト.jpg"
+image: "/images/souvenir/kimono-couple.jpg"
 description: "Each person needs their own Suica card for train travel in Japan; cards are personal, non-transferable, and required for smooth transit."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

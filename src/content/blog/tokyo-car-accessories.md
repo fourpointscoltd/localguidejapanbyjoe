@@ -1,6 +1,6 @@
 ---
 title: "Looking for car accessories stores in Tokyo."
-image: "/images/pixta/国立大学駅前_緑の並木道.jpg"
+image: "/images/pixta/紅葉_山道_ドライブ_秋.jpg"
 description: "Clean public toilets in Japan almost always provide soap for hand washing. If missing, locals use wet wipes or sanitizer as a practical backup."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

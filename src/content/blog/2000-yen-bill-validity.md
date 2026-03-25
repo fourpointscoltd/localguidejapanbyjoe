@@ -1,6 +1,6 @@
 ---
 title: "Are 2k yen bills still valid in Japan or have they been discontinued?"
-image: "/images/pixta/銀座_中央通り_歩行者天国.jpg"
+image: "/images/pixta/銀座_和光時計台_街並み.jpg"
 description: "Explore the current status of the 2000 yen bill in Japan. Learn about its usage, acceptance, and how to obtain this rare currency!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

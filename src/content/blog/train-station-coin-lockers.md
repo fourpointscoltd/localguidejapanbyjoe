@@ -1,6 +1,6 @@
 ---
 title: "What is the size of train station coin lockers and availability?"
-image: "/images/pixta/新宿駅_東口_青空.jpg"
+image: "/images/pixta/東京駅_丸の内側_赤レンガ_青空.jpg"
 description: "Find out about train station coin locker sizes, availability, prices, payment methods, and tips for storing luggage safely in Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,6 +1,6 @@
 ---
 title: "Do I Need to Tip in Japan?"
-image: "/images/pixta/神楽坂_路地_レストラン街.jpg"
+image: "/images/pixta/京都_先斗町_夕暮れ_路地.jpg"
 description: "A local explains Japan's no-tipping culture and what to expect."
 pubDate: 2027-01-06
 author: "Joe Tanaka"

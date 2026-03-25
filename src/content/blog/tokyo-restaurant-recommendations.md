@@ -1,6 +1,6 @@
 ---
 title: "Please share you can't miss Tokyo restaurant recommendations! Thanks!"
-image: "/images/pixta/京都_先斗町_夕暮れ_路地.jpg"
+image: "/images/pixta/神楽坂_路地_レストラン街.jpg"
 description: "Discover Tokyo's culinary gems: savor premium yakiniku at Bakuro Ichidai Ginza, fresh grilled fish at Tsukiji Yaki Uo Ishikawa, and more!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

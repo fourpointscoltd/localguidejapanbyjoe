@@ -1,6 +1,6 @@
 ---
 title: "Where can I buy affordable women and kids clothes in Kyoto?"
-image: "/images/pixta/原宿_竹下通り_賑わい.jpg"
+image: "/images/souvenir/kyoto-street.jpg"
 description: "Looking for cheap and stylish clothes in Kyoto? Try GU, UNIQLO, or Shimamura for women and kids — plus great malls like Aeon Kyoto!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

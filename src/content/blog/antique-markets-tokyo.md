@@ -1,6 +1,6 @@
 ---
 title: "Where Are the Best Antique Markets in Tokyo?"
-image: "/images/pixta/人形町_立花屋_和菓子店_外観.jpg"
+image: "/images/pixta/京都_紅葉参道_赤い階段.jpg"
 description: "A local's guide to Tokyo's antique markets. When, where, and what to find."
 pubDate: 2026-04-25
 author: "Joe Tanaka"

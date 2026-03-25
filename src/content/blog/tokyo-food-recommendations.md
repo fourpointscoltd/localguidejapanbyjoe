@@ -1,6 +1,6 @@
 ---
 title: "Recommend a place in Tokyo for delicious tempura, ramen, and yakiniku."
-image: "/images/pixta/東京タワー_街並み_青空.jpg"
+image: "/images/pixta/歌舞伎町_ネオン_夜景_新宿.jpg"
 description: "A local answers: Recommend a place in Tokyo for delicious tempura, ramen, and yakiniku."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

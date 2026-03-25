@@ -1,6 +1,6 @@
 ---
 title: "What are the best times to avoid crowded trains when taking the subway/metro/JR train?"
-image: "/images/pixta/池袋_夜景_繁華街.jpg"
+image: "/images/pixta/新宿駅_東口_青空.jpg"
 description: "Learn if you can reload or use a Suica card with someone else’s name in Japan, plus tips on personalized vs. anonymous Suica cards."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

@@ -1,6 +1,6 @@
 ---
 title: "Shibuya sky, difference between observation and \"seat and drink\" tickets? Standing vs sitting, price?"
-image: "/images/pixta/新宿_富士山_高層ビル群.jpg"
+image: "/images/pixta/東京タワー_街並み_青空.jpg"
 description: "Discover the key differences between Shibuya Sky observation tickets and seat & drink packages, including prices and perks."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

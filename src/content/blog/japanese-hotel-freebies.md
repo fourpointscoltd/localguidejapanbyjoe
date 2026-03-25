@@ -1,6 +1,6 @@
 ---
 title: "What are the usual free hotel amenities and can I keep them?"
-image: "/images/pixta/草津温泉_湯畑_夜景_2.jpg"
+image: "/images/pixta/カプセルホテル_女性_利用者.jpg"
 description: "Discover which freebies Japanese hotels offer—slippers, toothbrushes, razors—and learn what you can take home as souvenirs from your stay."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

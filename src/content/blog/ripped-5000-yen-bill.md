@@ -1,6 +1,6 @@
 ---
 title: "What should I do with my ripped 5000 yen bill?"
-image: "/images/pixta/銀座_和光時計台_街並み.jpg"
+image: "/images/pixta/銀座_百貨店_街並み_青空.jpg"
 description: "Discover what to do with a damaged 5000 yen bill. Learn about exchange options, local use, and keeping it as a memory."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

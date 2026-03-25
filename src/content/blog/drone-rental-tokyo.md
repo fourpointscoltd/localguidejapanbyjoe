@@ -1,6 +1,6 @@
 ---
 title: "Is it possible to rent drones in Tokyo?"
-image: "/images/pixta/東京タワー_スカイライン_空撮.jpg"
+image: "/images/pixta/新宿_富士山_高層ビル群.jpg"
 description: "Discover tattoo-friendly onsen options near Osaka, Kyoto, and Tokyo! Learn how to enjoy authentic hot springs with tattoos safely and privately."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

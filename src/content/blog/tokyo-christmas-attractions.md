@@ -1,6 +1,6 @@
 ---
 title: "Top 5 must-see attractions in Tokyo during Christmas?"
-image: "/images/pixta/紅葉_赤い橋_ライトアップ_夜景.jpg"
+image: "/images/pixta/浅草_五重塔_スカイツリー_夜景.jpg"
 description: "Discover Tokyo's quirky golden \"flame\" monument near Asakusa, humorously nicknamed the \"poop building\" by locals—a fun cultural icon!"
 pubDate: 2025-07-25
 author: "Joe Tanaka"

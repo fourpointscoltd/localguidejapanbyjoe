@@ -1,6 +1,6 @@
 ---
 title: "Best Tokyo mall with Japanese designers for shopping with 13 yr old?"
-image: "/images/pixta/表参道_東急プラザ_ファッション.jpg"
+image: "/images/pixta/KITTE丸の内_商業施設_吹抜け.jpg"
 description: "Shopping with a teen in Tokyo? Discover Japanese designer items at KITTE and Midtown Hibiya, both near Tokyo Station."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

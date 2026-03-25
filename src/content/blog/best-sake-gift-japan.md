@@ -1,6 +1,6 @@
 ---
 title: "What's a good sake to bring home as a gift?"
-image: "/images/pixta/羊羹_緑茶_和菓子.jpg"
+image: "/images/souvenir/yokan-tea.jpg"
 description: "Bringing sake home? Try Dassai, Hakkaisan, or Juyondai—top-quality choices! Visit a Sake Genka Bar to sample before buying. For a fun twist, don't miss sake-flavored ice cream!"
 pubDate: 2025-02-14
 author: "Joe Tanaka"

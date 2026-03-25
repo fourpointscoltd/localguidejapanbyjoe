@@ -1,6 +1,6 @@
 ---
 title: "Any suggestions for a family-friendly ski resort near Tokyo?"
-image: "/images/pixta/上高地_吊り橋_山_新緑.webp"
+image: "/images/pixta/京都_嵐山竹林_雪景色.jpg"
 description: "Discover top vegan restaurants in Tokyo, Minato, Kyoto, and Shin Osaka including Soranoiro NIPPON ramen and temple cuisine options."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
