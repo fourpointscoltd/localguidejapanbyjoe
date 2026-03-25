@@ -3,7 +3,7 @@ title: "What credit card brands are used in Japan?"
 description: "Mastercard and Visa are widely accepted in Japan, while JCB, American Express, and Diners Club are less common. Carry cash too!"
 pubDate: 2025-07-30
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/pixta_40126270_S.jpg"
+image: "/images/blog/payments/credit-card-payment-hands.jpg"
 tags: ["Money"]
 ---
 > "What credit card brands are used in Japan?"

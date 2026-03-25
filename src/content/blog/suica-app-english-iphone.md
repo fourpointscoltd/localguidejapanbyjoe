@@ -3,7 +3,7 @@ title: "Is There an English Version of the Suica App for iPhones?"
 description: "A local's guide to setting up Suica on your iPhone. No separate app needed - just use Apple Wallet! Here's exactly how to do it."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200"
+image: "/images/blog/suica/welcome-suica-card-illustration.png"
 tags: ["Transportation"]
 ---
 

@@ -3,7 +3,7 @@ title: "Can You Recommend a Safe and Top-Rated Fugu Restaurant in Tokyo?"
 description: "Looking for the best fugu in Tokyo? Discover safe, top-rated pufferfish restaurants in Ginza, including Fukuji, Soukawa, Naruto, and Genpin Fugu!"
 pubDate: 2025-03-20
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30550j_short_rinji_001_pixta--1-.jpg"
+image: "/images/blog/fugu/fugu-dinner-set.jpg"
 tags: ["Restaurant"]
 ---
 > "Can You Recommend a Safe and Top-Rated Fugu Restaurant in Tokyo?"

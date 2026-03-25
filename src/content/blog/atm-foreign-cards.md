@@ -3,7 +3,7 @@ title: "Which ATMs in Japan Accept Foreign Cards?"
 description: "A local explains where to withdraw cash with overseas bank cards."
 pubDate: 2026-12-29
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200"
+image: "/images/blog/payments/seven-bank-atm.jpeg"
 tags: ["TravelSpots"]
 ---
 > "Which ATMs in Japan accept foreign cards?"
@@ -49,4 +49,3 @@ Japan is increasingly cashless, but **carry some cash** for:
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
-

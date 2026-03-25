@@ -3,7 +3,7 @@ title: "Where to buy a Katana sword? fro"
 description: "Want to bring home a katana from Japan? Learn the legal steps, shop recommendations, and airline rules for real and replica Japanese swords."
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30600j_short_rinji_001_pixta.jpg"
+image: "/images/blog/japanese-sword/sword-display.jpg"
 tags: ["Souvenirs"]
 ---
 

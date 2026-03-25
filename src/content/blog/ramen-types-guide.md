@@ -3,7 +3,7 @@ title: "What Are the Different Types of Ramen in Japan?"
 description: "A local explains ramen styles. From Tonkotsu to Shoyu, find your favorite."
 pubDate: 2026-05-31
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200"
+image: "/images/blog/ramen/ramen-bowl-seaweed.jpg"
 tags: ["Restaurant"]
 ---
 

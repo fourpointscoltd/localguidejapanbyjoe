@@ -3,7 +3,7 @@ title: "I couldn't purchase Suica card around Tokyo. Where can I find it?"
 description: "Can’t find a Suica card in Tokyo? Here’s the easiest way to get Suica in 2025 — including the new Welcome Suica Mobile and tourist-friendly tips."
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30610j_short_rinji_003_pixta.png"
+image: "/images/blog/suica/welcome-suica-card-illustration.png"
 tags: ["Transportation"]
 ---
 > "I couldn't purchase Suica card around Tokyo. Where can I find it?"

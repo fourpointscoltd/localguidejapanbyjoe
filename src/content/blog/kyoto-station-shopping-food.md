@@ -3,7 +3,7 @@ title: "We just arrived Kyoto, stay near Kyoto tower. Any good shopping and food
 description: "Discover Kyoto's culinary gems near Kyoto Tower! Savor matcha parfaits, delicious ramen, and yakiniku, then shop local treasures nearby."
 pubDate: 2025-07-22
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/pixta_93817749_Mjoejapan2024templateitem.jpg"
+image: "/images/blog/kyoto-station/kyoto-tower-evening.jpg"
 tags: ["Restaurant"]
 ---
 

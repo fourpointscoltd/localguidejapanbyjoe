@@ -3,7 +3,7 @@ title: "Should I purchase bullet train tickets ahead of time for my trip to Osak
 description: "Should you buy Osaka bullet train tickets early? Book ahead for holidays like Golden Week; otherwise, tickets are easy to get last minute."
 pubDate: 2025-07-30
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1618153231956-df23dcb21c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNoaW5rYW5zZW58ZW58MHx8fHwxNzUzODk0MDMwfDA&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/shinkansen/e5-shinkansen-train.webp"
 tags: ["Transportation"]
 ---
 

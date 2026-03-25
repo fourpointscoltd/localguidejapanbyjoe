@@ -4,7 +4,7 @@ description: "Looking for makeup in Tokyo but don’t know where to start? Try @
 "
 pubDate: 2025-07-25
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxtYXNjYXJhfGVufDB8fHx8MTc1Mzc2NzM1Mnww&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/cosmetics/cosmetics-flatlay.webp"
 tags: ["Souvenirs"]
 ---
 

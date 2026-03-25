@@ -3,7 +3,7 @@ title: "Can Kids Stay at Capsule Hotels in Japan?"
 description: "A local explains capsule hotel rules. Why they're not for families and what to do instead."
 pubDate: 2026-04-18
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200"
+image: "/images/blog/capsule-hotel/capsule-hotel-bed.webp"
 tags: ["Hotel"]
 ---
 

@@ -3,7 +3,7 @@ title: "Where to Find Good Coffee in Japan"
 description: "A local explains kissaten culture and recommends Tokyo's best coffee shops."
 pubDate: 2026-12-09
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
+image: "/images/blog/coffee/kissaten-master-coffee.jpg"
 tags: ["Restaurant"]
 ---
 > "Where can I find good coffee in Japan?"
@@ -52,4 +52,3 @@ Japan actually has an incredible coffee culture — it's just different from wha
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
-

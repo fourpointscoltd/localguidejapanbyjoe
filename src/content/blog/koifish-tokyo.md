@@ -3,7 +3,7 @@ title: "Where can we watch koi fishes in Tokyo?"
 description: "Discover where to watch colorful koi fish in Tokyo, including free spots like Asakusa Shrine and peaceful gardens with small entry fees."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1616989161881-6c788f319bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGtvaSUyMGZpc2h8ZW58MHx8fHwxNzUzNjA4NDc3fDA&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/koi/koi-pond-garden.jpg"
 tags: ["TravelSpots"]
 ---
 > "Where can we watch koi fishes in Tokyo?"

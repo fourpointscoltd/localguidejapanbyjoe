@@ -3,7 +3,7 @@ title: "Best aquarium in Tokyo for kids?"
 description: "Visiting Tokyo with kids? Explore the best aquariums like Aqua Park, Sumida Aquarium, and Hakkeijima Sea Paradise in the Tokyo area 🐬"
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30680j_short_rinji_002_pixta.webp"
+image: "/images/blog/aquariums/whale-shark-aquarium.webp"
 tags: ["TravelSpots"]
 ---
 > "Best aquarium in Tokyo for kids?"

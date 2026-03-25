@@ -3,7 +3,7 @@ title: "Looking for the Top Dinner Cruise in Tokyo, Japan"
 description: "Here's what I've learned from living in Tokyo and actually trying a few dinner cruises! In Japan, we don't really have a big tradition of formal dinner..."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
+image: "/images/blog/dinner-cruise/yakatabune-night.webp"
 tags: ["Restaurant"]
 ---
 

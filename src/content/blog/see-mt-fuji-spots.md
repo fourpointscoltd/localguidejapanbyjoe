@@ -3,7 +3,7 @@ title: "Best Places to See Mt. Fuji Without Climbing"
 description: "A local recommends the best viewing spots around Mt. Fuji."
 pubDate: 2027-01-01
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1200"
+image: "/images/blog/mount-fuji/shizuoka-fuji-city-panorama.jpg"
 tags: ["TravelSpots"]
 ---
 

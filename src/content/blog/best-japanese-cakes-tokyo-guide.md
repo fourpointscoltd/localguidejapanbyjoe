@@ -3,7 +3,7 @@ title: "Best Japanese cakes or pastries to try?"
 description: "Discover Tokyo’s best cakes! From classic shortcakes at Fujiya to luxury pastries at crèam fraise génoise, here’s your full dessert guide."
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30660j_short_rinji_003_pixta.JPG"
+image: "/images/blog/cakes/japanese-shortcake-strawberry.jpg"
 tags: ["Restaurant", "Souvenirs"]
 ---
 > "Best Japanese cakes or pastries to try?"

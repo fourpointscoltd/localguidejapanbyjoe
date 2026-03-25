@@ -3,7 +3,7 @@ title: "Can I Ask for a Fork Instead of Chopsticks?"
 description: "A local explains that forks and spoons are available at most restaurants."
 pubDate: 2026-12-12
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1553621042-f6e147245754?w=1200"
+image: "/images/blog/tableware/fork-and-spoon.jpg"
 tags: ["Restaurant"]
 ---
 > "Can I ask for a fork instead of chopsticks?"
@@ -41,4 +41,3 @@ At traditional sushi restaurants, eating with your **hands is completely accepta
 ---
 
 *Have more questions about traveling in Japan? Follow me on [YouTube](https://www.youtube.com/@localguide_japan), [Instagram](https://www.instagram.com/localguide_japan), and [TikTok](https://www.tiktok.com/@localguide_japan) for daily Japan travel tips!*
-

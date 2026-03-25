@@ -3,7 +3,7 @@ title: "Which bullet train provides the best experience solely for the train its
 description: "Which bullet train offers the best experience in Japan? From luxury Gran Class to traditional interiors, here are 6 Shinkansen worth riding for the train itself."
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30640j_short_rinji_001pixta.jpg"
+image: "/images/blog/shinkansen/fuji-shinkansen-canola.webp"
 tags: ["Others", "Transportation"]
 ---
 > "Which bullet train provides the best experience solely for the train itself?"

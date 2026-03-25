@@ -3,7 +3,7 @@ title: "What Is Tempura? Guide to Japanese Fried Perfection"
 description: "A local explains tempura. What to order, how to eat, and where to try it."
 pubDate: 2026-10-07
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1629684782285-0f0f3b800a98?w=1200"
+image: "/images/blog/tempura/tempura-set-meal.jpg"
 tags: ["Restaurant"]
 ---
 

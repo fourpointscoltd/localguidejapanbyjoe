@@ -3,7 +3,7 @@ title: "Is Fugu Safe to Eat in Tokyo?"
 description: "A local explains fugu (pufferfish) safety and recommends top restaurants in Ginza."
 pubDate: 2026-12-01
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200"
+image: "/images/blog/fugu/fugu-dinner-set.jpg"
 tags: ["Restaurant"]
 ---
 

@@ -3,7 +3,7 @@ title: "Must-try food and drink items from convenience stores – and great pick
 description: "Discover must-try foods and souvenirs from Japan’s convenience stores—onigiri, Famichiki, Pocky, and more. Tasty, cheap, and perfect for gifts!"
 pubDate: 2025-03-25
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30890j_short_rinji_002_pixta.jpeg"
+image: "/images/blog/convenience-store/snack-shelf-convenience-store.jpeg"
 tags: ["Souvenirs"]
 ---
 > "Must-try food and drink items from convenience stores – and great picks to bring back for friends?"

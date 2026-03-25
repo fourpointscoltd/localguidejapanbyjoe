@@ -3,7 +3,7 @@ title: "What Is a Sento? Guide to Japanese Public Bath Houses"
 description: "A local explains sento culture. Different from onsen, and how to use them."
 pubDate: 2026-07-18
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
+image: "/images/blog/bath-house/traditional-bathhouse-exterior.webp"
 tags: ["TravelSpots"]
 ---
 

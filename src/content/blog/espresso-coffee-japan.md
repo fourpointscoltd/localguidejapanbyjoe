@@ -3,7 +3,7 @@ title: "Is It Hard to Find Good Espresso Coffee in Japan?"
 description: "A local's guide to coffee culture in Japan. Kissaten vs modern cafes and where to find good espresso."
 pubDate: 2026-02-22
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200"
+image: "/images/blog/coffee/espresso-machine-pour.jpg"
 tags: ["Restaurant"]
 ---
 

@@ -3,7 +3,7 @@ title: "I'm a hairstylist and where can I buy Hatori Hanzo Japanese Steel sheers
 description: "Looking to buy real Hatori Hanzo shears in Tokyo without a Member ID? The Mizutani showroom lets you walk in and shop like a pro — no hassle, no reservation needed."
 pubDate: 2025-07-25
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/joejapan-2025-ubscription_Monthly_M-1024x682.jpg"
+image: "/images/blog/beauty/hairdresser-shears-case.jpg"
 tags: ["Souvenirs"]
 ---
 > "I'm a hairstylist and where can I buy Hatori Hanzo Japanese Steel sheers in Tokyo?"

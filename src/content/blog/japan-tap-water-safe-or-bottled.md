@@ -3,7 +3,7 @@ title: "Is the water in Japan safe to drink or should we buy bottled water?"
 description: "Japan’s tap water is safe, clean, and tasty. No need for bottled water unless you prefer it. Discover the best local water in Kumamoto and Toyama!"
 pubDate: 2025-03-23
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30820j_short_rinji_002_pixta.jpg"
+image: "/images/blog/water/bottled-water-pet.webp"
 tags: ["Others"]
 ---
 > "Is the water in Japan safe to drink or should we buy bottled water?"
