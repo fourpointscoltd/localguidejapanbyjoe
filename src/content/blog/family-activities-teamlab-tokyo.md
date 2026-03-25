@@ -3,7 +3,7 @@ title: "Looking for family-friendly activities near Teamlab,Toyosu on Friday."
 description: "Visiting TeamLab Tokyo with kids on a Friday? Check out family-friendly spots like Ariake Garden and Lalaport Toyosu nearby!"
 pubDate: 2025-03-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30690j_short_rinji_001_pixta.jpg"
+image: "/images/blog/teamlab/teamlab-blue-ceramics.jpg"
 tags: ["TravelSpots"]
 ---
 

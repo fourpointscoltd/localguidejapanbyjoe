@@ -3,7 +3,7 @@ title: "Are there any winter festivals or light-up events near Tokyo that can be
 description: "Discover the best one-day winter festivals and illumination events near Tokyo—perfect for couples, families, and photographers!"
 pubDate: 2025-07-14
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/chichibuyoru.png"
+image: "/images/blog/festival/chichibu-night-festival-lanterns.png"
 tags: ["Daytrip"]
 ---
 > "Are there any winter festivals or light-up events near Tokyo that can be visited for a day？"

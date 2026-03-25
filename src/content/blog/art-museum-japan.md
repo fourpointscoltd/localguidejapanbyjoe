@@ -3,7 +3,7 @@ title: "Recommendations for art and design places to visit in Tokyo and beyond?"
 description: "Explore Tokyo's vibrant art scene with unique attractions like ART AQUARIUM, and discover captivating art destinations across Japan!"
 pubDate: 2025-07-22
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/30360j_short_rinji_002_pixta.jpg"
+image: "/images/blog/museum/kadokawa-musashino-museum.jpg"
 tags: ["TravelSpots"]
 ---
 > "Recommendations for art and design places to visit in Tokyo and beyond?"

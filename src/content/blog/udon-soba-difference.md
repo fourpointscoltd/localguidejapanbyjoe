@@ -3,7 +3,7 @@ title: "What's the Difference Between Udon and Soba?"
 description: "A local explains Japanese noodles. When to eat which and how to enjoy them."
 pubDate: 2026-08-08
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?w=1200"
+image: "/images/blog/food/sanuki-udon-noodles.jpg"
 tags: ["Restaurant"]
 ---
 

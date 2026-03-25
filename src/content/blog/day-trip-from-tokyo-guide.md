@@ -3,7 +3,7 @@ title: "What Are the Best Day Trips from Tokyo?"
 description: "A local recommends easy day trips. Mountains, beaches, temples, and more."
 pubDate: 2026-06-21
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1528164344705-47542687000d?w=1200"
+image: "/images/blog/takachiho/takachiho-gorge-boats.jpg"
 tags: ["TravelSpots"]
 ---
 
