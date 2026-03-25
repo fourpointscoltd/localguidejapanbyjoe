@@ -3,7 +3,7 @@ title: "When Do You Pay for a Fruit Smoothie at 7-11?"
 description: "A local's guide to ordering frozen fruit smoothies at Japanese convenience stores. Learn the payment process, best flavors, and insider tips!"
 pubDate: 2025-08-12
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=1200"
+image: "/images/blog/convenience-store/seven-eleven-exterior.jpg"
 tags: ["Restaurant"]
 ---
 

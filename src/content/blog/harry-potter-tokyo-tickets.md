@@ -3,7 +3,7 @@ title: "How to Book Harry Potter Studio Tour Tokyo"
 description: "A local explains how to get tickets. Booking tips and what to expect."
 pubDate: 2026-05-13
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=1200"
+image: "/images/blog/harry-potter/red-telephone-booth-ministry.jpg"
 tags: ["TravelSpots"]
 ---
 

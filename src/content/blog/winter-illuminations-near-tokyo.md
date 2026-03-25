@@ -3,7 +3,7 @@ title: "Best Winter Festivals and Illuminations Near Tokyo"
 description: "A local's guide to the best winter light-up events and festivals near Tokyo — from Chichibu Night Festival to Ashikaga Flower Park."
 pubDate: 2026-03-19
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200"
+image: "/images/blog/gardens/japanese-garden-pond-skytree.jpg"
 tags: ["Events"]
 ---
 

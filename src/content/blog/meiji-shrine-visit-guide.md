@@ -3,7 +3,7 @@ title: "How to Visit Meiji Shrine in Tokyo"
 description: "A local's guide to Meiji Jingu. What to see, do, and proper etiquette."
 pubDate: 2026-09-16
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1200"
+image: "/images/blog/kyushu-shrine/cedar-lined-lantern-path.jpg"
 tags: ["TravelSpots"]
 ---
 

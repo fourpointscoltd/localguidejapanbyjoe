@@ -3,7 +3,7 @@ title: "Sumo wrestling, how far in advance do they sell out?"
 description: "Sumo tickets sell out fast, especially for Tokyo tournaments. Book 2 months in advance or try same-day tickets, tour packages, or resale options."
 pubDate: 2025-03-03
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/03/30290j_short_rinji_001_pixta.jpg-1.jpg"
+image: "/images/blog/sumo/kokugikan-interior-ring.jpg"
 tags: ["Events"]
 ---
 > "How far in advance do sumo tournament tickets sell out?"
