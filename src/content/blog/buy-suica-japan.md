@@ -1,6 +1,6 @@
 ---
 title: "I'm confused about the suica card, can you explain what's happening?"
-image: "/images/pixta/Suicaカード_ペンギン.jpg"
+image: "/images/blog/suica/suica-card-hand.jpg"
 description: "Get clear insights on the Suica card shortage, how to buy one, mobile options, costs, refunds, and tips for smooth travel in Japan."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

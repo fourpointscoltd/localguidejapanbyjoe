@@ -3,7 +3,7 @@ title: "Looking for hidden gems or hiking spots near Tokyo, any suggestions?"
 description: "Discover hidden hiking gems near Tokyo like Nokogiriyama, Takao-san, Chichibu, Kiyosato Kogen, and Kamikawachi for peaceful nature escapes without the crowds. Explore scenic trails, cultural sites, and local flavors loved by Japanese hikers."
 pubDate: 2025-07-30
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1624864406461-ab62e33928c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHx0YWthb3xlbnwwfHx8fDE3NTQxOTMwMTV8MA&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/kyushu-nature/nabegataki-falls-front-view.jpg"
 tags: ["Daytrip"]
 ---
 > "Looking for hidden gems or hiking spots near Tokyo, any suggestions?"

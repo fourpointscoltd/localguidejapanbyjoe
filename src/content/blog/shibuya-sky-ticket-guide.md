@@ -3,7 +3,7 @@ title: "Shibuya Sky: Difference Between Observation and Seat & Drink Tickets?"
 description: "A local's guide to Shibuya Sky tickets. Standard observation vs. seat and drink options - which is worth it and when to visit."
 pubDate: 2025-08-12
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=1200"
+image: "/images/blog/shibuya/shibuya-crossing-pedestrians.jpg"
 tags: ["TravelSpots"]
 ---
 

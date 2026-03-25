@@ -1,6 +1,6 @@
 ---
 title: "What to Do in Tokyo on Rainy Days"
-image: "/images/pixta/KITTE丸の内_商業施設_吹抜け.jpg"
+image: "/images/blog/weather/rain-japanese-roof-tiles.jpg"
 description: "Rainy in Tokyo? Don't cancel your plans! With a good umbrella and comfy shoes, you can enjoy peaceful temples, empty Disneyland rides, or cozy indoor spots like museums and sento."
 pubDate: 2025-07-25
 author: "Joe Tanaka"

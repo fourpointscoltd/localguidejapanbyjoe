@@ -3,7 +3,7 @@ title: "Is Convenience Store Food in Japan Really Good?"
 description: "A local explains why konbini food is amazing. What to try and tips for eating cheap."
 pubDate: 2026-05-19
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1528731708534-816fe59f90cb?w=1200"
+image: "/images/blog/convenience-store/seven-eleven-exterior.jpg"
 tags: ["Restaurant"]
 ---
 

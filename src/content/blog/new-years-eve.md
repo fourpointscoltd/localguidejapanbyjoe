@@ -3,7 +3,7 @@ title: "What is the best place in Japan to spend New Year's Eve?"
 description: "Experience a magical New Year’s Eve in Kyoto! Immerse yourself in ancient traditions, indulge in festive foods, and enjoy vibrant celebrations."
 pubDate: 2025-07-21
 author: "Joe Tanaka"
-image: "https://www.localguide-japan.com/content/images/2025/07/30050j_short_rinji002_pixta-1.webp"
+image: "/images/blog/shrine/monk-temple-bell-night.png"
 tags: ["Events"]
 ---
 > "What is the best place in Japan to spend New Year's Eve?"

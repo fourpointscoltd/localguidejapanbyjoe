@@ -3,7 +3,7 @@ title: "Where Are the Best Night Views in Tokyo?"
 description: "A local's guide to Tokyo night views. Free and paid observation decks compared."
 pubDate: 2026-07-21
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
+image: "/images/blog/marunouchi/marunouchi-ginkgo-night.jpg"
 tags: ["TravelSpots"]
 ---
 

@@ -3,7 +3,7 @@ title: "What Are the Must-See Attractions in Osaka?"
 description: "Discover Osaka’s vibrant charm beyond Universal Studios: explore local markets, street food, lively neighborhoods, and nearby day trips to Kyoto and Nara."
 pubDate: 2025-07-30
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1704004363915-c4d848da44ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fERvdG9uYm9yaSUyMG5pZ2h0fGVufDB8fHx8MTc1NTA2NDQ2Mnww&ixlib=rb-4.1.0&q=80&w=2000"
+image: "/images/blog/usj/usj-minion-character.jpg"
 tags: ["Daytrip"]
 ---
 

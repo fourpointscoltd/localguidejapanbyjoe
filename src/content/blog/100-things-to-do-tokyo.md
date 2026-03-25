@@ -3,7 +3,7 @@ title: "100 Things To Do When Visiting Tokyo: The Ultimate Bucket List"
 description: "From iconic landmarks to hidden gems, here's your complete guide to experiencing the best of Tokyo. Whether you're a first-time visitor or a returning traveler, this list has something for everyone!"
 pubDate: 2026-01-30
 author: "Joe Tanaka"
-image: "/images/tokyo-skyline.jpg"
+image: "/images/blog/tokyo-map/tokyo-tourist-map-illustrated.jpg"
 tags: ["TravelSpots"]
 ---
 

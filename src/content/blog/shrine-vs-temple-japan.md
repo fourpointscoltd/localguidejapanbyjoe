@@ -3,7 +3,7 @@ title: "What's the Difference Between a Shrine and Temple?"
 description: "A local explains Shinto shrines vs Buddhist temples. How to tell them apart."
 pubDate: 2026-06-27
 author: "Joe Tanaka"
-image: "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1200"
+image: "/images/blog/kyushu-shrine/ancient-shrine-gate-cedar-forest.jpg"
 tags: ["TravelSpots"]
 ---
 
